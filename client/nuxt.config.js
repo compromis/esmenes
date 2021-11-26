@@ -13,14 +13,36 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: 'https://compromis.net/sub/icons/favicon.ico',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: 'https://compromis.net/sub/icons/favicon32.png',
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        href: 'https://compromis.net/sub/icons/favicon192.png',
+      },
+      {
+        rel: 'stylesheet',
+        href: 'https://compromis.net/sub/fonts/manrope.css?variable',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ['@compromis/blobby/scss/blobby.scss'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: ['~/plugins/blobby.js'],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
