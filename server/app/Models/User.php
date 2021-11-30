@@ -41,4 +41,20 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    /**
+     * Get the amendments registered by the user
+     */
+    public function amendments()
+    {
+        return $this->hasMany(Amendment::class);
+    }
+
+    /**
+     * Get the amendment being supported by the user
+     */
+    public function supports()
+    {
+        return $this->hasMany(Support::class);
+    }
 }
