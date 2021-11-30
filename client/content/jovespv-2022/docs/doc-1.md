@@ -2,8 +2,11 @@
 title: Document 1
 ---
 
-## Article 1
-First paragraph
+<amendable id="1">
+  First paragraph
+</amendable>
 
-## Article 2
-Second paragraph
+<amendable id="2">
+  Second paragraph **hello**
+</amendable>
+
