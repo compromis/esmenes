@@ -11,6 +11,7 @@ export default {
       redirect('/assemblies')
     }
   },
+
   computed: {
     loginUrl() {
       return process.env.NUXT_ENV_ESPAI_SSO

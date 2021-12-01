@@ -15,6 +15,7 @@ class CreateAssembliesTable extends Migration
     {
         Schema::create('assemblies', function (Blueprint $table) {
             $table->id();
+            $table->string('ref');
             $table->string('name');
             $table->text('filter')->nullable();
             $table->date('amendment_deadline');
