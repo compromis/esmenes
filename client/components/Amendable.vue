@@ -9,6 +9,10 @@
     <div>
       <button @click="amendText">Edit me</button>
     </div>
+    {{ amendments.length }} {{ amendmentWord }}
+    <pre>
+      {{ amendments }}
+    </pre>
   </article>
 </template>
 
@@ -34,6 +38,15 @@ export default {
   computed: {
     hTag() {
       return 'h' + this.level
+    },
+
+    amendments() {
+      const amendments = this.$store.state.assembly.amendments
+      return amendments.filter((amendment) => amendment.article === this.id)
+    },
+
+    amendmentWord() {
+      return this.amendments.length === 1 ? 'esmena' : 'esmenes'
     },
   },
 

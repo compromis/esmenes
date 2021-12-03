@@ -24,7 +24,7 @@ class StoreAmendmentRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            'justification' => 'required'
         ];
     }
 }

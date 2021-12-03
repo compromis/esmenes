@@ -4,17 +4,24 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Str;
 
 class Amendment extends Model
 {
     use HasFactory;
 
+    protected $appends = ['url'];
+
     /**
-     * Get the amendment's assembly
+     * Boot
      */
-    public function assembly()
+    protected static function boot()
     {
-        return $this->hasOneThrough(Assembly::class, Document::class);
+        parent::boot();
+
+        static::creating(function ($query) {
+            $query->ref = Str::random(10);
+        });
     }
 
     /**
@@ -26,10 +33,26 @@ class Amendment extends Model
     }
 
     /**
+     * Get amendment signatures
+     */
+    public function supports()
+    {
+        return $this->hasMany(Support::class);
+    }
+
+    /**
      * Get the user that registered the amendment
      */
     public function user()
     {
         return $this->belongsTo(User::class);
+    }
+
+    /**
+     * Get the amendment's url
+     */
+    public function getUrlAttribute()
+    {
+        return config('esmenes.frontend_url') . '/esmena/' . $this->ref;
     }
 }

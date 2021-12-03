@@ -17,6 +17,7 @@ class CreateAmendmentsTable extends Migration
             $table->id();
             $table->unsignedBigInteger('user_id');
             $table->unsignedBigInteger('document_id');
+            $table->string('ref', 10);
             $table->string('article');
             $table->enum('type', ['addition', 'deletion', 'modification'])->default('modification');
             $table->enum('status', ['pending', 'approved', 'compromise', 'denied'])->default('pending');

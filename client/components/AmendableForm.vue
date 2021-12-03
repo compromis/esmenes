@@ -1,8 +1,14 @@
 <template>
   <div>
-    <form @submit.prevent="submitAmendment">
+    <div v-if="submitted">
+      Esmena presentada
+      <pre>{{ submitted }}</pre>
+    </div>
+    <div v-else-if="submitting">Presentant esmena...</div>
+    <form v-else @submit.prevent="submitAmendment">
       <div v-if="amendable">
         {{ amendable.title }}
+        Errors: {{ errors }}
         <div class="d-flex">
           <textarea
             v-model="amendable.text"
@@ -41,6 +47,8 @@ export default {
         registered_by_assembly: false,
       },
       errors: [],
+      submitting: false,
+      submitted: null,
       csrf: '',
     }
   },
@@ -61,21 +69,33 @@ export default {
         original: payload.text,
         ...payload,
       }
+      this.submitted = null
+      this.errors = []
+      this.submitting = false
     })
   },
 
   methods: {
     async submitAmendment() {
-      const submitted = await this.$api.submitAmendment(
-        this.$store.state.assembly.assembly.ref,
-        {
-          document_ref: this.$route.params.doc,
-          ...this.amendable,
-          ...this.form,
-        }
-      )
+      this.errors = []
+      this.submitting = true
 
-      this.$root.$emit('amendmentSubmitted', submitted)
+      try {
+        const amendment = await this.$api.submitAmendment(
+          this.$store.state.assembly.assembly.ref,
+          {
+            document_ref: this.$route.params.doc,
+            ...this.amendable,
+            ...this.form,
+          }
+        )
+        this.submitted = amendment
+        this.$root.$emit('amendmentSubmitted', amendment)
+      } catch (response) {
+        this.errors = response.errors
+      }
+
+      this.submitting = false
     },
   },
 }

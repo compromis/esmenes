@@ -80,6 +80,15 @@ class User extends Authenticatable
     }
 
     /**
+     * Fail if user cannot attend an assembly
+     */
+    public function checkAttendance($assembly) {
+        if(!$this->canAttend($assembly)) {
+            abort(405, 'No tens accés a aquest document');
+        }
+    }
+
+    /**
      * Get user data
      */
     public function data($field)

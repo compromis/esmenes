@@ -10,8 +10,26 @@ use App\Models\Document;
 
 class AmendmentController extends Controller
 {
+    public function amendments(Assembly $assembly, $document, Request $request) {
+        $request->user()->checkAttendance($assembly);
+        $document = Document::where('ref', $document)->where('assembly_id', $assembly->id)->firstOrFail();
+        return $document->amendments;
+    }
+
+    public function amendment(Amendment $amendment, Request $request) {
+        $request->user()->checkAttendance($amendment->document->assembly);
+        $amendment = $amendment->load(['supports' => function ($query) {
+            $query->with(['user' => function ($userQuery) {
+                $userQuery->select('id', 'name', 'last_name');
+            }]);
+        }]);
+
+        return $amendment;
+    }
+
     public function new(Assembly $assembly, StoreAmendmentRequest $request)
     {
+        $request->user()->checkAttendance($assembly);
         $document = Document::where('assembly_id', $assembly->id)->where('ref', $request->input('document_ref'))->first();
 
         $amendment = new Amendment;

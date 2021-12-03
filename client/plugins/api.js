@@ -29,6 +29,14 @@ class API {
     return this._call('get', 'api/assemblies/' + ref)
   }
 
+  amendments(assembly, doc) {
+    return this._call('get', `api/assemblies/${assembly}/amendments/${doc}`)
+  }
+
+  amendment(ref) {
+    return this._call('get', 'api/amendments/' + ref)
+  }
+
   submitAmendment(assemblyId, amendment) {
     return this._call(
       'post',
@@ -38,7 +46,6 @@ class API {
   }
 
   _call(method, path, params) {
-    console.log('requesting with token', this.token)
     return new Promise((resolve, reject) => {
       axios[method](this.apiUrl + '/' + path, params)
         .then((response) => {

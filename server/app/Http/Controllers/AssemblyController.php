@@ -22,12 +22,7 @@ class AssemblyController extends Controller
 
     public function assembly(Assembly $assembly, Request $request)
     {
-        $user = $request->user();
-
-        if(!$user->canAttend($assembly)) {
-            abort(405, 'Not allowed');
-        }
-
+        $request->user()->checkAttendance($assembly);
         return response()->json($assembly);
     }
 }

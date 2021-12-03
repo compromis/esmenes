@@ -14,7 +14,7 @@ class Support extends Model
      */
     public function user()
     {
-        return $this->belongsTo(Assembly::class);
+        return $this->belongsTo(User::class);
     }
 
     /**
