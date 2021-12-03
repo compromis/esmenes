@@ -18,11 +18,11 @@ class CreateAmendmentsTable extends Migration
             $table->unsignedBigInteger('user_id');
             $table->unsignedBigInteger('document_id');
             $table->string('article');
-            $table->enum('type', ['addition', 'deletion', 'modification']);
-            $table->enum('status', ['pending', 'approved', 'compromise', 'denied']);
+            $table->enum('type', ['addition', 'deletion', 'modification'])->default('modification');
+            $table->enum('status', ['pending', 'approved', 'compromise', 'denied'])->default('pending');
             $table->text('original');
             $table->text('amended');
-            $table->text('compromise');
+            $table->text('compromise')->nullable();
             $table->text('justification');
             $table->boolean('registered_by_assembly');
             $table->string('registered_by');

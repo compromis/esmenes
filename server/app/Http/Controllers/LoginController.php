@@ -44,4 +44,15 @@ class LoginController extends Controller
 
         return redirect(config('esmenes.frontend_url') . '/login?token=' . $token);
     }
+
+    /**
+     * User information
+     */
+    public function user(Request $request)
+    {
+        $user = $request->user();
+        $user->data = json_decode($user->data);
+
+        return $user;
+    }
 }

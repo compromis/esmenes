@@ -12,22 +12,35 @@ class API {
     }
   }
 
-  xsrf() {
-    return this._call('get', '/sanctum/csrf-cookie')
+  csrf() {
+    return this._call('get', 'sanctum/csrf-cookie')
   }
 
   userinfo(token) {
     axios.defaults.headers.common.Authorization = 'Bearer ' + token
-    return this._call('get', 'user')
+    return this._call('get', 'api/user')
   }
 
   assemblies() {
-    return this._call('get', 'user/assemblies')
+    return this._call('get', 'api/assemblies')
+  }
+
+  assembly(ref) {
+    return this._call('get', 'api/assemblies/' + ref)
+  }
+
+  submitAmendment(assemblyId, amendment) {
+    return this._call(
+      'post',
+      `api/assemblies/${assemblyId}/amendments/new`,
+      amendment
+    )
   }
 
   _call(method, path, params) {
+    console.log('requesting with token', this.token)
     return new Promise((resolve, reject) => {
-      axios[method](this.apiUrl + '/api/' + path, params)
+      axios[method](this.apiUrl + '/' + path, params)
         .then((response) => {
           resolve(response.data)
         })

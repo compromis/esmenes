@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <a :href="loginUrl">Login</a>
-  </div>
+  <div>Carregant...</div>
 </template>
 
 <script>
@@ -9,6 +7,8 @@ export default {
   middleware({ store, redirect }) {
     if (store.state.auth.token) {
       redirect('/assemblies')
+    } else {
+      redirect(this.loginUrl)
     }
   },
 

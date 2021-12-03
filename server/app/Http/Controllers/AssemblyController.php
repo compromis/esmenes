@@ -14,19 +14,20 @@ class AssemblyController extends Controller
 
         // Remove assemblies that the user does not have access to
         $userAssemblies = $assemblies->filter(function ($assembly) use ($user) {
-            $filters = json_decode($assembly->filter);
-            $userdata = json_decode($user->data);
-            $checks = true;
-
-            foreach($filters as $filterName => $filterValue) {
-                if ($userdata->$filterName != $filterValue) {
-                    $checks = false;
-                }
-            }
-
-            return $checks;
+            return $user->canAttend($assembly);
         })->all();
 
         return response()->json($userAssemblies);
+    }
+
+    public function assembly(Assembly $assembly, Request $request)
+    {
+        $user = $request->user();
+
+        if(!$user->canAttend($assembly)) {
+            abort(405, 'Not allowed');
+        }
+
+        return response()->json($assembly);
     }
 }

@@ -60,4 +60,39 @@ class User extends Authenticatable
     {
         return $this->hasMany(Support::class);
     }
+
+    /**
+     * Check if a user can attend an assembly
+     */
+    public function canAttend($assembly)
+    {
+        $filters = json_decode($assembly->filter);
+        $userdata = json_decode($this->data);
+        $checks = true;
+
+        foreach($filters as $filterName => $filterValue) {
+            if ($userdata->$filterName != $filterValue) {
+                $checks = false;
+            }
+        }
+
+        return $checks;
+    }
+
+    /**
+     * Get user data
+     */
+    public function data($field)
+    {
+        $data = json_decode($this->data);
+        return $data->$field;
+    }
+
+    /**
+     * Get user full name
+     */
+    public function fullName()
+    {
+        return $this->name . ' ' . $this->last_name;
+    }
 }

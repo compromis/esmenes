@@ -1,10 +1,16 @@
 <template>
   <nav class="app-nav">
     <div class="nav-logo">
-      <a href="https://compromis.net"><compromis-logo /></a>
-      <div class="nav-logo-append">Congrés Joves</div>
+      <a href="https://compromis.net" class="nav-logo-compromis">
+        <compromis-logo collapsible="sm" />
+      </a>
+      <div class="nav-logo-append">
+        <router-link to="/assemblies">Esmenes</router-link>
+      </div>
     </div>
-    <div class="nav-user">Usuari</div>
+    <div class="nav-user">
+      <nuxt-link to="/logout">Tanca sessió</nuxt-link>
+    </div>
   </nav>
 </template>
 

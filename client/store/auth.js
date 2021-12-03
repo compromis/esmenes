@@ -12,7 +12,7 @@ export const mutations = {
     state.user = payload
   },
 
-  logOut(state, payload) {
+  logOut(state) {
     state.token = ''
     state.user = null
   },

@@ -43,7 +43,7 @@ export default {
       const html = this.$refs.text.innerHTML
       const turndownService = new TurndownService()
       const text = turndownService.turndown(html)
-      this.$root.$emit('amendText', { id, title, text, html })
+      this.$root.$emit('amendText', { id, title, text })
     },
   },
 }

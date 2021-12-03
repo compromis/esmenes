@@ -1,13 +1,9 @@
 <template>
   <div>
-    <h2>Assemblies</h2>
-
-    <nuxt-link
-      v-for="assembly in assemblies"
-      :key="assembly.ref"
-      :to="`/${assembly.ref}`"
-      >{{ assembly.name }}</nuxt-link
-    >
+    <div v-if="assemblies.length === 0">
+      No hi ha cap procés d'esmenes de documents obert
+    </div>
+    <div v-else>Redirigint a {{ assemblies[0].name }}</div>
   </div>
 </template>
 
@@ -21,6 +17,10 @@ export default {
 
   async mounted() {
     this.assemblies = await this.$api.assemblies()
+    // Temporarily redirect to the first assembly
+    if (this.assemblies.length > 0) {
+      this.$router.push({ path: `/${this.assemblies[0].ref}` })
+    }
   },
 }
 </script>

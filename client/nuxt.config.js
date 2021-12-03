@@ -44,8 +44,8 @@ export default {
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
     '~/plugins/blobby.js',
-    '~/plugins/api.js',
     '~/plugins/persistedstate.js',
+    '~/plugins/api.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
