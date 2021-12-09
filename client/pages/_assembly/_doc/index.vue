@@ -3,7 +3,8 @@
     <h1>{{ document.title }}</h1>
     <button @click="generalAmendment">Esmena general</button>
     <amendment-list :amendments="generalAmendments" />
-    <nuxt-content :document="document" />
+    Index {{ toc }}
+    <nuxt-content ref="content" :document="document" />
     <amendable-form />
   </div>
 </template>
@@ -17,6 +18,12 @@ export default {
     const document = await $content(assembly + '/docs/' + doc).fetch()
 
     return { assembly, doc, document }
+  },
+
+  data() {
+    return {
+      toc: [],
+    }
   },
 
   computed: {
@@ -40,6 +47,9 @@ export default {
     this.$root.$on('amendmentSubmitted', (amendment) => {
       this.$store.commit('assembly/addAmendment', amendment)
     })
+
+    // Create toc
+    this.toc = this.createToc(this.$refs.content.$children)
   },
 
   methods: {
@@ -56,6 +66,21 @@ export default {
         type: 'addition',
         text: '',
       })
+    },
+
+    createToc(components) {
+      const toc = []
+      components.forEach((component) => {
+        if (component.isIndexable) {
+          toc.push({
+            id: component.indexId,
+            title: component.indexTitle,
+            children: this.createToc(component.$children),
+          })
+        }
+      })
+
+      return toc
     },
   },
 }

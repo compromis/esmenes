@@ -1,7 +1,7 @@
 <template>
   <article :id="article" class="amendable">
     <component :is="hTag">
-      {{ articleTitle }}
+      {{ indexTitle }}
     </component>
     <div ref="text">
       <slot />
@@ -18,6 +18,8 @@
 import TurndownService from 'turndown'
 
 export default {
+  isIndexable: true,
+
   props: {
     article: {
       type: String,
@@ -29,7 +31,11 @@ export default {
     },
     level: {
       type: String,
-      default: '3',
+      default: '4',
+    },
+    isIndexable: {
+      type: Boolean,
+      default: true,
     },
   },
 
@@ -38,8 +44,12 @@ export default {
       return 'h' + this.level
     },
 
-    articleTitle() {
-      return this.title || `Article ${this.article}`
+    indexId() {
+      return 'Art' + this.article
+    },
+
+    indexTitle() {
+      return `Article ${this.article}. ${this.title}`
     },
 
     amendments() {

@@ -1,41 +1,48 @@
 <template>
-  <div>
-    <div v-if="submitted">
-      Esmena presentada
-      <pre>{{ submitted }}</pre>
-    </div>
-    <div v-else-if="submitting">Presentant esmena...</div>
-    <form v-else @submit.prevent="submitAmendment">
-      <div v-if="amendable">
-        {{ amendable.title }}
-        Errors: {{ errors }}
-        <div class="d-flex">
-          <textarea
-            v-if="amendable.type !== 'deletion'"
-            v-model="amendable.text"
-            style="width: 600px; height: 600px"
-          />
-          <pre v-if="amendable.type === 'modification'" v-html="preview"></pre>
-          <pre
-            v-if="amendable.type === 'deletion'"
-            class="deleted"
-            v-html="amendable.original"
-          ></pre>
-        </div>
-        <div>
-          Justificació
-          <textarea v-model="form.justification" />
-        </div>
-        <div>Presentada per: {{ user.name }} {{ user.last_name }}</div>
-        <div v-if="canRegisterAsAssembly">
-          <label>
-            <input v-model="form.registered_by_assembly" type="checkbox" />
-            Register as {{ user.data.comarca }}
-          </label>
-        </div>
-        <button type="submit">Presenta esmena</button>
+  <div class="amendable-form-wrapper">
+    <div class="amendable-form">
+      <button @click="close">Close</button>
+      <div v-if="submitted">
+        Esmena presentada
+        <pre>{{ submitted }}</pre>
       </div>
-    </form>
+      <div v-else-if="submitting">Presentant esmena...</div>
+      <form v-else @submit.prevent="submitAmendment">
+        <div v-if="amendable">
+          {{ amendable.title }}
+          Errors: {{ errors }}
+          <div class="d-flex">
+            <textarea
+              v-if="amendable.type !== 'deletion'"
+              v-model="amendable.text"
+              style="width: 600px; height: 600px"
+            />
+            <pre
+              v-if="amendable.type === 'modification'"
+              v-html="preview"
+            ></pre>
+            <pre
+              v-if="amendable.type === 'deletion'"
+              class="deleted"
+              v-html="amendable.original"
+            ></pre>
+          </div>
+          <div>
+            Justificació
+            <textarea v-model="form.justification" />
+          </div>
+          <div>Presentada per: {{ user.name }} {{ user.last_name }}</div>
+          <div v-if="canRegisterAsAssembly">
+            <label>
+              <input v-model="form.registered_by_assembly" type="checkbox" />
+              Register as {{ user.data.comarca }}
+            </label>
+          </div>
+          <button type="submit">Presenta esmena</button>
+        </div>
+      </form>
+    </div>
+    <div class="amendable-form-backdrop" @click="close"></div>
   </div>
 </template>
 
@@ -53,7 +60,7 @@ export default {
       errors: [],
       submitting: false,
       submitted: null,
-      csrf: '',
+      shown: false,
     }
   },
 
@@ -100,6 +107,7 @@ export default {
       this.submitted = null
       this.errors = []
       this.submitting = false
+      this.shown = true
     })
   },
 
@@ -126,23 +134,29 @@ export default {
       }
     },
   },
+
+  close() {
+    this.shown = false
+  },
 }
 </script>
 
 <style lang="scss">
-form {
-  background: yellow;
-}
+.amendable-form {
+  position: fixed;
+  top: 2rem;
+  right: 0;
+  bottom: 0;
+  left: 20%;
+  z-index: 110;
 
-ins {
-  background: green;
-}
-
-del {
-  background: red;
-}
-
-.deleted {
-  text-decoration: line-through;
+  &-backdrop {
+    position: fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
 }
 </style>
