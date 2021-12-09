@@ -1,3 +1,5 @@
+import Vue from 'vue'
+
 export const state = () => ({
   assembly: null,
   amendments: [],
@@ -13,6 +15,10 @@ export const mutations = {
   },
 
   addAmendment(state, amendment) {
-    state.amendments.push(amendment)
+    if (amendment.article in state.amendments) {
+      state.amendments[amendment.article].push(amendment)
+    } else {
+      Vue.set(state.amendments, amendment.article, [amendment])
+    }
   },
 }

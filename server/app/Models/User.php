@@ -70,22 +70,15 @@ class User extends Authenticatable
         $userdata = json_decode($this->data);
         $checks = true;
 
-        foreach($filters as $filterName => $filterValue) {
-            if ($userdata->$filterName != $filterValue) {
-                $checks = false;
+        if(!empty($filters)) {
+            foreach($filters as $filterName => $filterValue) {
+                if ($userdata->$filterName != $filterValue) {
+                    $checks = false;
+                }
             }
         }
 
         return $checks;
-    }
-
-    /**
-     * Fail if user cannot attend an assembly
-     */
-    public function checkAttendance($assembly) {
-        if(!$this->canAttend($assembly)) {
-            abort(405, 'No tens accés a aquest document');
-        }
     }
 
     /**
@@ -103,5 +96,25 @@ class User extends Authenticatable
     public function fullName()
     {
         return $this->name . ' ' . $this->last_name;
+    }
+
+    /**
+     * Determine if user is a regional spokesperosn
+     */
+    public function isSpokesperson($assembly)
+    {
+        $assemblyFilter = json_decode($assembly->filter);
+
+        // Youth
+        if(isset($assemblyFilter->joventuts)) {
+            return $this->data('secretari_comarcal_jove');
+        }
+
+        // Parties
+        if(isset($assemblyFilter->partit)) {
+            return $this->data('secretari_comarcal');
+        }
+
+        return $this->data('executiva_comarcal_compromis');
     }
 }

@@ -17,12 +17,14 @@ class AssemblyController extends Controller
             return $user->canAttend($assembly);
         })->all();
 
-        return response()->json($userAssemblies);
+        return $userAssemblies;
     }
 
     public function assembly(Assembly $assembly, Request $request)
     {
-        $request->user()->checkAttendance($assembly);
-        return response()->json($assembly);
+        // Establish if user can register amendments as regional spokesperson for this assembly
+        $assembly->is_spokesperson = $request->user()->isSpokesperson($assembly);
+
+        return $assembly;
     }
 }

@@ -6,9 +6,11 @@
 
 <script>
 export default {
+  middleware: 'auth',
+
   async asyncData({ $content, params }) {
     const { assembly } = params
-    const index = await $content(`/${assembly}/index`).fetch()
+    const index = await $content(`${assembly}/index`).fetch()
 
     return { index }
   },

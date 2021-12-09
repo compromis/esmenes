@@ -15,11 +15,11 @@ class CreateAssembliesTable extends Migration
     {
         Schema::create('assemblies', function (Blueprint $table) {
             $table->id();
-            $table->string('ref');
+            $table->string('ref', 40)->unique();
             $table->string('name');
             $table->text('filter')->nullable();
-            $table->date('amendment_deadline');
-            $table->date('support_deadline');
+            $table->dateTime('amendment_deadline');
+            $table->dateTime('support_deadline');
             $table->boolean('published')->default(false);
             $table->timestamps();
         });

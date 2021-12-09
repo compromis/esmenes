@@ -16,7 +16,7 @@ class CreateDocumentsTable extends Migration
         Schema::create('documents', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('assembly_id');
-            $table->string('ref');
+            $table->string('ref', 40);
             $table->string('name');
             $table->timestamps();
 
