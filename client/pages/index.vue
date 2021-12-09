@@ -8,14 +8,8 @@ export default {
     if (store.state.auth.token) {
       redirect('/assemblies')
     } else {
-      redirect(this.loginUrl)
+      redirect(process.env.NUXT_ENV_ESPAI_SSO)
     }
-  },
-
-  computed: {
-    loginUrl() {
-      return process.env.NUXT_ENV_ESPAI_SSO
-    },
   },
 }
 </script>

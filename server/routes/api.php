@@ -20,8 +20,11 @@ use App\Http\Controllers\AmendmentController;
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', [LoginController::class, 'user']);
     Route::get('/assemblies', [AssemblyController::class, 'assemblies']);
-    Route::get('/assemblies/{assembly:ref}', [AssemblyController::class, 'assembly']);
-    Route::get('/assemblies/{assembly:ref}/amendments/{document}', [AmendmentController::class, 'amendments']);
-    Route::post('/assemblies/{assembly:ref}/amendments/new', [AmendmentController::class, 'new']);
-    Route::get('/amendments/{amendment:ref}', [AmendmentController::class, 'amendment']);
+    Route::middleware('assembly')->group(function () {
+        Route::get('/assembly/{assembly:ref}', [AssemblyController::class, 'assembly']);
+        Route::get('/assembly/{assembly:ref}/amendments/{document:ref}', [AmendmentController::class, 'amendments']);
+        Route::post('/assembly/{assembly:ref}/amendments/{document:ref}/new', [AmendmentController::class, 'new']);
+        Route::get('/assembly/{assembly:ref}/amendment/{amendment:ref}', [AmendmentController::class, 'amendment']);
+        Route::post('/assembly/{assembly:ref}/amendment/{amendment:ref}/support', [AmendmentController::class, 'support']);
+    });
 });

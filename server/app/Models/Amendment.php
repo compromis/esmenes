@@ -10,7 +10,7 @@ class Amendment extends Model
 {
     use HasFactory;
 
-    protected $appends = ['url'];
+    protected $appends = ['registered_by'];
 
     /**
      * Boot
@@ -49,10 +49,15 @@ class Amendment extends Model
     }
 
     /**
-     * Get the amendment's url
+     * Attach user's full name to amendment
      */
-    public function getUrlAttribute()
+    public function getRegisteredByAttribute()
     {
-        return config('esmenes.frontend_url') . '/esmena/' . $this->ref;
+        // Prevent leaking private user data
+        $this->load(['user' => function ($query) {
+            $query->select('id', 'name', 'last_name');
+        }]);
+
+        return $this->user->name . ' ' . $this->user->last_name;
     }
 }

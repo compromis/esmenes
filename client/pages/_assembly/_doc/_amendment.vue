@@ -11,6 +11,8 @@
 
 <script>
 export default {
+  middleware: 'auth',
+
   data() {
     return {
       amendment: null,
@@ -18,8 +20,8 @@ export default {
   },
 
   async mounted() {
-    const { amendment } = this.$route.params
-    this.amendment = await this.$api.amendment(amendment)
+    const { assembly, amendment } = this.$route.params
+    this.amendment = await this.$api.amendment(assembly, amendment)
   },
 }
 </script>

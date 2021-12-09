@@ -1,18 +1,16 @@
 <template>
-  <article :id="id" class="amendable">
+  <article :id="article" class="amendable">
     <component :is="hTag">
-      {{ title || `Article ${id}` }}
+      {{ articleTitle }}
     </component>
     <div ref="text">
       <slot />
     </div>
     <div>
-      <button @click="amendText">Edit me</button>
+      <button @click="amendText('modification')">Edit me</button>
+      <button @click="amendText('deletion')">Suppress me</button>
     </div>
-    {{ amendments.length }} {{ amendmentWord }}
-    <pre>
-      {{ amendments }}
-    </pre>
+    <amendment-list :amendments="amendments" />
   </article>
 </template>
 
@@ -21,7 +19,7 @@ import TurndownService from 'turndown'
 
 export default {
   props: {
-    id: {
+    article: {
       type: String,
       required: true,
     },
@@ -40,23 +38,24 @@ export default {
       return 'h' + this.level
     },
 
-    amendments() {
-      const amendments = this.$store.state.assembly.amendments
-      return amendments.filter((amendment) => amendment.article === this.id)
+    articleTitle() {
+      return this.title || `Article ${this.article}`
     },
 
-    amendmentWord() {
-      return this.amendments.length === 1 ? 'esmena' : 'esmenes'
+    amendments() {
+      return this.article in this.$store.state.assembly.amendments
+        ? this.$store.state.assembly.amendments[this.article]
+        : []
     },
   },
 
   methods: {
-    amendText() {
-      const { id, title } = this
+    amendText(type = 'modification') {
+      const { article, articleTitle: title } = this
       const html = this.$refs.text.innerHTML
       const turndownService = new TurndownService()
       const text = turndownService.turndown(html)
-      this.$root.$emit('amendText', { id, title, text })
+      this.$root.$emit('amendText', { article, title, text, type })
     },
   },
 }

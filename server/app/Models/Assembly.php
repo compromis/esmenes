@@ -16,4 +16,9 @@ class Assembly extends Model
     {
         return $this->hasMany(Document::class);
     }
+
+    public function amendments()
+    {
+        return $this->hasManyThrough(Amendment::class, Document::class);
+    }
 }

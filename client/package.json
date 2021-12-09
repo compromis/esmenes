@@ -18,7 +18,7 @@
     "core-js": "^3.8.3",
     "js-cookie": "^3.0.1",
     "nuxt": "^2.14.12",
-    "rich-text-diff": "^0.2.3",
+    "text-diff": "^1.0.1",
     "turndown": "^7.1.1",
     "vuex-persistedstate": "^4.1.0"
   },

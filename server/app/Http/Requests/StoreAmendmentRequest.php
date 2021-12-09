@@ -3,6 +3,8 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
+use App\Models\Assembly;
+use App\Rules\UserCanRegisterAsAssembly;
 
 class StoreAmendmentRequest extends FormRequest
 {
@@ -13,7 +15,15 @@ class StoreAmendmentRequest extends FormRequest
      */
     public function authorize()
     {
-        return true;
+        // Check amenment submission is open
+        $withinDeadline = strtotime($this->assembly->amendment_deadline) > time();
+
+        // Check if user can register as assembly
+        $canRegister = ($this->input('registered_by_assembly'))
+            ? $this->user()->isSpokesperson($this->assembly)
+            : true;
+
+        return $withinDeadline && $canRegister;
     }
 
     /**
@@ -24,7 +34,12 @@ class StoreAmendmentRequest extends FormRequest
     public function rules()
     {
         return [
-            'justification' => 'required'
+            'article' => 'required',
+            'title' => 'required',
+            'original' => 'required_unless:type,addition',
+            'text' => 'required_if:type,addition',
+            'justification' => 'required',
+            'type' => ['required', 'in:modification,deletion,addition']
         ];
     }
 }

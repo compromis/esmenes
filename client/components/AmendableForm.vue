@@ -11,23 +11,27 @@
         Errors: {{ errors }}
         <div class="d-flex">
           <textarea
+            v-if="amendable.type !== 'deletion'"
             v-model="amendable.text"
             style="width: 600px; height: 600px"
           />
-          <pre v-html="preview"></pre>
+          <pre v-if="amendable.type === 'modification'" v-html="preview"></pre>
+          <pre
+            v-if="amendable.type === 'deletion'"
+            class="deleted"
+            v-html="amendable.original"
+          ></pre>
         </div>
         <div>
           Justificació
           <textarea v-model="form.justification" />
         </div>
         <div>Presentada per: {{ user.name }} {{ user.last_name }}</div>
-        <div
-          v-if="
-            user.data.secretari_comarcal || user.data.secretari_comarcal_jove
-          "
-        >
-          <input v-model="form.registered_by_assembly" type="checkbox" />
-          Registered by assembly
+        <div v-if="canRegisterAsAssembly">
+          <label>
+            <input v-model="form.registered_by_assembly" type="checkbox" />
+            Register as {{ user.data.comarca }}
+          </label>
         </div>
         <button type="submit">Presenta esmena</button>
       </div>
@@ -36,7 +40,7 @@
 </template>
 
 <script>
-import diff from 'rich-text-diff'
+import Diff from 'text-diff'
 
 export default {
   data() {
@@ -55,20 +59,44 @@ export default {
 
   computed: {
     preview() {
-      return diff(this.amendable.original, this.amendable.text)
+      const { original, text } = this.amendable
+      const diff = new Diff({ timeout: 2, editCost: 6 })
+      const textDiff = diff.main(original, text)
+      diff.cleanupEfficiency(textDiff)
+      return diff.prettyHtml(textDiff)
     },
 
     user() {
       return this.$store.state.auth.user
     },
+
+    canRegisterAsAssembly() {
+      return this.$store.state.assembly.assembly.is_spokesperson
+    },
   },
 
   mounted() {
     this.$root.$on('amendText', (payload) => {
-      this.amendable = {
-        original: payload.text,
-        ...payload,
+      const { text, ...amendable } = payload
+
+      // Prefill with original text
+      if (payload.type === 'deletion') {
+        this.amendable = {
+          original: text,
+          text: '',
+          ...amendable,
+        }
+      } else {
+        this.amendable = {
+          original: text,
+          text,
+          ...amendable,
+        }
       }
+
+      // Reset form
+      this.form.justification = ''
+      this.form.registered_by_assembly = false
       this.submitted = null
       this.errors = []
       this.submitting = false
@@ -83,8 +111,8 @@ export default {
       try {
         const amendment = await this.$api.submitAmendment(
           this.$store.state.assembly.assembly.ref,
+          this.$route.params.doc,
           {
-            document_ref: this.$route.params.doc,
             ...this.amendable,
             ...this.form,
           }
@@ -93,9 +121,9 @@ export default {
         this.$root.$emit('amendmentSubmitted', amendment)
       } catch (response) {
         this.errors = response.errors
+      } finally {
+        this.submitting = false
       }
-
-      this.submitting = false
     },
   },
 }
@@ -112,5 +140,9 @@ ins {
 
 del {
   background: red;
+}
+
+.deleted {
+  text-decoration: line-through;
 }
 </style>

@@ -25,22 +25,29 @@ class API {
     return this._call('get', 'api/assemblies')
   }
 
-  assembly(ref) {
-    return this._call('get', 'api/assemblies/' + ref)
+  assembly(assembly) {
+    return this._call('get', `api/assembly/${assembly}`)
   }
 
-  amendments(assembly, doc) {
-    return this._call('get', `api/assemblies/${assembly}/amendments/${doc}`)
+  amendments(assembly, document) {
+    return this._call('get', `api/assembly/${assembly}/amendments/${document}`)
   }
 
-  amendment(ref) {
-    return this._call('get', 'api/amendments/' + ref)
+  amendment(assembly, amendment) {
+    return this._call('get', `api/assembly/${assembly}/amendment/${amendment}`)
   }
 
-  submitAmendment(assemblyId, amendment) {
+  support(assembly, amendment) {
     return this._call(
       'post',
-      `api/assemblies/${assemblyId}/amendments/new`,
+      `api/assembly/${assembly}/amendment/${amendment}/support`
+    )
+  }
+
+  submitAmendment(assembly, document, amendment) {
+    return this._call(
+      'post',
+      `api/assembly/${assembly}/amendments/${document}/new`,
       amendment
     )
   }
