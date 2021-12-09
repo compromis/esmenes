@@ -1,9 +1,7 @@
 <template>
   <component :is="tag" :to="to" :href="href" class="circly-button">
     <span><slot /></span>
-    <span class="icon-circle"
-      ><font-awesome-icon :icon="['far', `${icon}`]"
-    /></span>
+    <span class="icon-circle"><font-awesome-icon :icon="['far', icon]" /></span>
   </component>
 </template>
 

@@ -4,15 +4,25 @@
       <component :is="hTag" class="text-regular">
         {{ indexTitle }}
       </component>
-      <circly-button icon="trash" @click="amendText('deletion')"
-        >Suppress me</circly-button
+      <circly-button
+        :id="`art${article}-delete`"
+        icon="trash"
+        @click="amendText('deletion', `#art${article}-delete`)"
       >
+        Suppress me
+      </circly-button>
     </div>
-    <div ref="text" class="amendable-content">
-      <slot />
-      <circly-button @click="amendText('modification')">Edit me</circly-button>
+    <div class="amendable-content">
+      <div ref="text">
+        <slot />
+      </div>
+      <circly-button
+        :id="`art${article}-edit`"
+        @click="amendText('modification', `#art${article}-edit`)"
+      >
+        Edit me
+      </circly-button>
     </div>
-    <div></div>
     <amendment-list :amendments="amendments" />
   </article>
 </template>
@@ -52,7 +62,7 @@ export default {
     },
 
     indexTitle() {
-      return `Article ${this.article}. ${this.title}`
+      return `Article ${this.article}. ${this.title || ''}`
     },
 
     amendments() {
@@ -63,12 +73,12 @@ export default {
   },
 
   methods: {
-    amendText(type = 'modification') {
+    amendText(type = 'modification', focusBackTo) {
       const { article, articleTitle: title } = this
       const html = this.$refs.text.innerHTML
       const turndownService = new TurndownService()
       const text = turndownService.turndown(html)
-      this.$root.$emit('amendText', { article, title, text, type })
+      this.$root.$emit('amendText', { article, title, text, type }, focusBackTo)
     },
   },
 }

@@ -9,7 +9,9 @@
     <div class="document-content">
       <div class="document-title">
         <h1 class="text-regular">{{ document.title }}</h1>
-        <circly-button @click="generalAmendment">Esmena general</circly-button>
+        <circly-button id="general-amendment" @click="generalAmendment">
+          Esmena general
+        </circly-button>
       </div>
       <amendment-list :amendments="generalAmendments" />
       <nuxt-content ref="content" :document="document" />
@@ -74,12 +76,16 @@ export default {
     },
 
     generalAmendment() {
-      this.$root.$emit('amendText', {
-        article: 'general',
-        title: this.document.title,
-        type: 'addition',
-        text: '',
-      })
+      this.$root.$emit(
+        'amendText',
+        {
+          article: 'general',
+          title: this.document.title,
+          type: 'addition',
+          text: '',
+        },
+        '#general-amendment'
+      )
     },
 
     createToc(components) {

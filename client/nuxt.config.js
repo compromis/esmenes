@@ -39,7 +39,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ['@compromis/blobby/scss/blobby.scss'],
+  css: ['~/assets/scss/global.scss', '@compromis/blobby/scss/blobby.scss'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -58,6 +58,7 @@ export default {
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
     '@nuxtjs/fontawesome',
+    '@nuxtjs/style-resources',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -79,8 +80,12 @@ export default {
 
   fontawesome: {
     proIcons: {
-      light: ['faUserCircle', 'faSignOut', 'faPencil', 'faTrash'],
+      light: ['faUserCircle', 'faSignOut', 'faPencil', 'faTrash', 'faTimes'],
       regular: ['faPencil', 'faTrash'],
     },
+  },
+
+  styleResources: {
+    scss: ['@compromis/blobby/scss/_variables.scss'],
   },
 }
