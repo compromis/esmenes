@@ -24,10 +24,11 @@ export default {
 <style lang="scss" scoped>
 .app-nav {
   display: flex;
+  align-items: center;
   position: fixed;
   background: var(--white);
   height: var(--nav-height, 3rem);
-  padding: 0.85rem 1rem;
+  padding: 0 1rem;
   top: 0;
   left: 0;
   right: 0;

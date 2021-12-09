@@ -20,7 +20,10 @@
     "nuxt": "^2.14.12",
     "text-diff": "^1.0.1",
     "turndown": "^7.1.1",
-    "vuex-persistedstate": "^4.1.0"
+    "vuex-persistedstate": "^4.1.0",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/pro-light-svg-icons": "^5.15.1",
+    "@nuxtjs/fontawesome": "^1.1.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",
