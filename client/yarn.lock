@@ -979,6 +979,13 @@
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.2.36"
 
+"@fortawesome/pro-regular-svg-icons@^5.15.1":
+  version "5.15.4"
+  resolved "https://npm.fontawesome.com/@fortawesome/pro-regular-svg-icons/-/5.15.4/pro-regular-svg-icons-5.15.4.tgz#38c17d05ddebff70cfd86c2f178a4272f57fb13b"
+  integrity sha512-LN9wOPIISKg3jZBbAuMm6YcsCiMRzTcpVkotLonRuzDmw0OLszUPCHZ6vB5hEnOC7g6IIOwOOnV12fW0V8IS9Q==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.36"
+
 "@fortawesome/vue-fontawesome@^0.1.9":
   version "0.1.10"
   resolved "https://npm.fontawesome.com/@fortawesome/vue-fontawesome/-/0.1.10/vue-fontawesome-0.1.10.tgz#eeeec1e4e8850bed0468f938292b06cda793bf34"

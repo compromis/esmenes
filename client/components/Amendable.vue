@@ -1,15 +1,18 @@
 <template>
   <article :id="article" class="amendable">
-    <component :is="hTag">
-      {{ indexTitle }}
-    </component>
-    <div ref="text">
+    <div class="amendable-title">
+      <component :is="hTag" class="text-regular">
+        {{ indexTitle }}
+      </component>
+      <circly-button icon="trash" @click="amendText('deletion')"
+        >Suppress me</circly-button
+      >
+    </div>
+    <div ref="text" class="amendable-content">
       <slot />
+      <circly-button @click="amendText('modification')">Edit me</circly-button>
     </div>
-    <div>
-      <button @click="amendText('modification')">Edit me</button>
-      <button @click="amendText('deletion')">Suppress me</button>
-    </div>
+    <div></div>
     <amendment-list :amendments="amendments" />
   </article>
 </template>
@@ -71,8 +74,18 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .amendable {
-  background: #ccc;
+  border-radius: 0.75rem;
+
+  &-title,
+  &-content {
+    display: grid;
+    grid-template-columns: 1fr 0.2fr;
+  }
+
+  &:hover {
+    background: wheat;
+  }
 }
 </style>

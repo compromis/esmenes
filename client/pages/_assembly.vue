@@ -1,18 +1,20 @@
 <template>
   <div>
     <div v-if="currentAssembly">
-      <h2>Assembly ID: {{ currentAssembly }}</h2>
-      <b-tab-list>
-        <nuxt-link :to="`/${assembly}`" class="tab">Inici</nuxt-link>
-        <nuxt-link
-          v-for="document in documents"
-          :key="document.slug"
-          class="tab"
-          :to="`/${assembly}/${document.slug}`"
-        >
-          {{ document.title }}
-        </nuxt-link>
-      </b-tab-list>
+      <div class="assembly-header pt-5 px-3">
+        <h2 class="text-regular text-4xl">{{ currentAssembly.name }}</h2>
+        <b-tab-list class="my-4" size="lg">
+          <nuxt-link :to="`/${assembly}`" class="tab">Inici</nuxt-link>
+          <nuxt-link
+            v-for="document in documents"
+            :key="document.slug"
+            class="tab"
+            :to="`/${assembly}/${document.slug}`"
+          >
+            {{ document.title }}
+          </nuxt-link>
+        </b-tab-list>
+      </div>
       <nuxt-child />
     </div>
   </div>
@@ -43,3 +45,10 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+.assembly-header {
+  border-bottom: 1px solid var(--gray-200);
+  background: var(--white);
+}
+</style>

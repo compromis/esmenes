@@ -133,30 +133,10 @@ export default {
         this.submitting = false
       }
     },
-  },
 
-  close() {
-    this.shown = false
+    close() {
+      this.shown = false
+    },
   },
 }
 </script>
-
-<style lang="scss">
-.amendable-form {
-  position: fixed;
-  top: 2rem;
-  right: 0;
-  bottom: 0;
-  left: 20%;
-  z-index: 110;
-
-  &-backdrop {
-    position: fixed;
-    z-index: 100;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-}
-</style>
