@@ -9,13 +9,16 @@
       </div>
     </div>
     <div class="nav-user">
-      <nuxt-link to="/logout">Tanca sessió</nuxt-link>
+      <b-dropdown />
     </div>
   </nav>
 </template>
 
 <script>
-export default {}
+import BDropdown from '@/components/BDropdown.vue'
+export default {
+  components: { BDropdown },
+}
 </script>
 
 <style lang="scss" scoped>
