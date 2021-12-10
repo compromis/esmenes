@@ -1,7 +1,7 @@
 <template>
-  <article :id="article" class="amendable">
+  <article class="amendable">
     <div class="amendable-title">
-      <component :is="hTag" class="text-regular">
+      <component :is="hTag" :id="indexId" class="text-regular">
         {{ indexTitle }}
       </component>
       <circly-button

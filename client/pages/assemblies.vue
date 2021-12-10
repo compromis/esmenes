@@ -26,6 +26,7 @@ export default {
 
   async mounted() {
     this.assemblies = await this.$api.assemblies()
+    this.$store.commit('assembly/setAssembly', null)
   },
 }
 </script>

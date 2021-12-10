@@ -1,10 +1,9 @@
 <template>
   <div class="document-wrapper">
     <nav class="document-table">
-      <ul>
-        <li>asfas</li>
-        <li>adgasgas</li>
-      </ul>
+      <div class="document-table-wrapper">
+        <document-toc :toc="toc" />
+      </div>
     </nav>
     <div class="document-content">
       <div class="document-title">
@@ -14,7 +13,7 @@
         </circly-button>
       </div>
       <amendment-list :amendments="generalAmendments" />
-      <nuxt-content ref="content" :document="document" />
+      <nuxt-content :ref="`content_${doc}`" :document="document" />
       <amendable-form />
     </div>
   </div>
@@ -27,6 +26,7 @@ export default {
   components: {
     CirclyButton,
   },
+
   middleware: 'auth',
 
   async asyncData({ $content, params }) {
@@ -50,12 +50,22 @@ export default {
   },
 
   watch: {
-    '$route.params.doc'() {
+    '$route.params.doc'(ref) {
+      this.setDocument()
       this.fetchAmendments()
+
+      this.$nextTick(() => {
+        this.$nextTick(() => {
+          this.toc = this.createToc(this.$refs[`content_${ref}`].$children)
+        })
+      })
     },
   },
 
   mounted() {
+    // Set document in store
+    this.setDocument()
+
     // Fetch document amendments
     this.fetchAmendments()
 
@@ -65,7 +75,7 @@ export default {
     })
 
     // Create toc
-    this.toc = this.createToc(this.$refs.content.$children)
+    this.toc = this.createToc(this.$refs[`content_${this.doc}`].$children)
   },
 
   methods: {
@@ -86,6 +96,12 @@ export default {
         },
         '#general-amendment'
       )
+    },
+
+    setDocument() {
+      // Set current document
+      const { slug, title } = this.document
+      this.$store.commit('assembly/setDocument', { slug, title })
     },
 
     createToc(components) {
@@ -122,10 +138,12 @@ export default {
   }
 
   &-table {
-    //top: calc(var(--navbar-height, 2rem) + var(--header-height, 6rem));
-    ul {
+    &-wrapper {
+      padding: 1.5rem 1rem;
       position: sticky;
-      top: 3rem;
+      top: var(--navbar-height);
+      height: calc(100vh - var(--navbar-height));
+      overflow-y: auto;
     }
   }
 

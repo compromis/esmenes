@@ -1,3 +1,10 @@
+@import "transitions";
+
+:root {
+  --navbar-height: 3rem;
+  --document-info-height: 12.5rem;
+}
+
 .drawer-shown {
   overflow: hidden;
 }

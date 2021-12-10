@@ -1,23 +1,70 @@
 <template>
-  <nav class="app-nav">
+  <nav :class="['app-nav', { scrolled }]">
     <div class="nav-logo">
       <a href="https://compromis.net" class="nav-logo-compromis">
-        <compromis-logo collapsible="sm" />
+        <compromis-logo :collapsible="scrolled ? 'always' : 'sm'" />
       </a>
       <div class="nav-logo-append">
-        <router-link to="/assemblies">Esmenes</router-link>
+        <transition mode="out-in" name="fade">
+          <router-link
+            v-if="!assembly || !scrolled"
+            ref="general"
+            to="/assemblies"
+          >
+            Esmenes
+          </router-link>
+          <div
+            v-else-if="assembly"
+            ref="assembly"
+            class="d-flex align-items-center"
+          >
+            <router-link :to="`/${assembly.ref}`">
+              {{ assembly.name }}
+            </router-link>
+            <span class="ms-2">&gt;</span>
+            <router-link
+              v-if="document"
+              :to="`/${assembly.ref}/${document.ref}`"
+            >
+              {{ document.title }}
+            </router-link>
+          </div>
+        </transition>
       </div>
     </div>
     <div class="nav-user">
-      <b-dropdown />
+      <user-dropdown />
     </div>
   </nav>
 </template>
 
 <script>
-import BDropdown from '@/components/BDropdown.vue'
 export default {
-  components: { BDropdown },
+  data() {
+    return {
+      scrolled: false,
+    }
+  },
+
+  computed: {
+    assembly() {
+      return this.$store.state.assembly.assembly
+    },
+
+    document() {
+      return this.$store.state.assembly.document
+    },
+  },
+
+  mounted() {
+    window.addEventListener('scroll', this.handleScroll)
+  },
+
+  methods: {
+    handleScroll() {
+      this.scrolled = window.scrollY > 0
+    },
+  },
 }
 </script>
 
@@ -27,12 +74,12 @@ export default {
   align-items: center;
   position: fixed;
   background: var(--white);
-  height: var(--nav-height, 3rem);
+  height: var(--navbar-height, 3rem);
   padding: 0 1rem;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 10000;
+  z-index: 1000;
 
   .nav-logo {
     svg {
@@ -42,12 +89,15 @@ export default {
     &-append {
       font-size: 1.25em;
       color: var(--text-muted);
-      margin-left: 0.35rem;
     }
   }
 
   .nav-user {
     margin-left: auto;
+  }
+
+  &.scrolled {
+    border-bottom: 1px var(--gray-300) solid;
   }
 }
 </style>

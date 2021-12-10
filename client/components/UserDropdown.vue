@@ -1,30 +1,44 @@
 <template>
   <div class="dropdown-trigger">
-    <b-button size="sm" variant="default"
-      >User<font-awesome-icon
+    <b-button class="user-button" size="sm" variant="default">
+      <span class="d-none d-md-inline">{{ user.name }}</span>
+      <font-awesome-icon
         :icon="['fal', 'user-circle']"
         size="lg"
         class="ms-1"
-    /></b-button>
+      />
+    </b-button>
     <b-card as="ul" class="dropdown-items text-sm" size="sm">
       <li>
-        <nuxt-link to="/logout"
-          ><font-awesome-icon
+        <nuxt-link to="/logout">
+          <font-awesome-icon
             :icon="['fal', 'sign-out']"
             size="lg"
             class="me-1"
-          />Tanca sessió</nuxt-link
-        >
+          />
+          Tanca sessió
+        </nuxt-link>
       </li>
     </b-card>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+  computed: {
+    user() {
+      return this.$store.state.auth.user
+    },
+  },
+}
 </script>
 
 <style lang="scss" scoped>
+.user-button {
+  padding: 0.25rem 0.5rem;
+  margin-right: -0.5rem;
+}
+
 .dropdown-items {
   padding: 0;
   list-style: none;

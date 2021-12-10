@@ -173,10 +173,10 @@ export default {
 <style lang="scss">
 .amendable-form {
   position: fixed;
-  top: 3rem;
+  top: 0;
   right: 0;
   bottom: 0;
-  z-index: 110;
+  z-index: 11000;
   width: 100%;
   max-width: min(calc(100vw - 100px), 1000px);
   background: var(--white);
@@ -185,7 +185,7 @@ export default {
 
   &-backdrop {
     position: fixed;
-    z-index: 100;
+    z-index: 10000;
     top: 0;
     left: 0;
     right: 0;

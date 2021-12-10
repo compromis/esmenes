@@ -80,7 +80,14 @@ export default {
 
   fontawesome: {
     proIcons: {
-      light: ['faUserCircle', 'faSignOut', 'faPencil', 'faTrash', 'faTimes'],
+      light: [
+        'faUserCircle',
+        'faSignOut',
+        'faPencil',
+        'faTrash',
+        'faTimes',
+        'faChevronRight',
+      ],
       regular: ['faPencil', 'faTrash'],
     },
   },
