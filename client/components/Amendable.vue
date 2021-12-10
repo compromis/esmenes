@@ -1,28 +1,34 @@
 <template>
-  <article class="amendable">
-    <div class="amendable-title">
-      <component :is="hTag" :id="indexId" class="text-regular">
-        {{ indexTitle }}
-      </component>
-      <circly-button
-        :id="`art${article}-delete`"
-        icon="trash"
-        @click="amendText('deletion', `#art${article}-delete`)"
-      >
-        Suppress me
-      </circly-button>
-    </div>
-    <div class="amendable-content">
-      <div ref="text">
-        <slot />
+  <article :id="article" class="amendable mt-2">
+    <button
+      class="amendable-card"
+      @click="amendText('modification', `#art${article}-edit`)"
+    >
+      <div class="amendable-title">
+        <component :is="hTag" :id="indexId" class="text-regular mb-0">
+          {{ indexTitle }}
+        </component>
+        <circly-button
+          :id="`art${article}-delete`"
+          icon="trash"
+          @click="amendText('deletion', `#art${article}-delete`)"
+        >
+          Suppress me
+        </circly-button>
       </div>
-      <circly-button
-        :id="`art${article}-edit`"
-        @click="amendText('modification', `#art${article}-edit`)"
-      >
-        Edit me
-      </circly-button>
-    </div>
+      <div class="amendable-content">
+        <div ref="text">
+          <slot />
+        </div>
+        <circly-button
+          :id="`art${article}-edit`"
+          class="edit-button"
+          @click="amendText('modification', `#art${article}-edit`)"
+        >
+          Edit me
+        </circly-button>
+      </div>
+    </button>
     <amendment-list :amendments="amendments" />
   </article>
 </template>
@@ -74,7 +80,7 @@ export default {
 
   methods: {
     amendText(type = 'modification', focusBackTo) {
-      const { article, articleTitle: title } = this
+      const { article, indexTitle: title } = this
       const html = this.$refs.text.innerHTML
       const turndownService = new TurndownService()
       const text = turndownService.turndown(html)
@@ -86,16 +92,27 @@ export default {
 
 <style lang="scss">
 .amendable {
-  border-radius: 0.75rem;
+  &-card {
+    display: block;
+    width: 100%;
+    text-align: left;
+    appearance: none;
+    border: none;
+    background: none;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    transition: 0.25s ease;
+  }
 
   &-title,
   &-content {
     display: grid;
     grid-template-columns: 1fr 0.2fr;
+    align-items: center;
   }
 
-  &:hover {
-    background: wheat;
+  &-card:hover {
+    background: #fff5d0;
   }
 }
 </style>

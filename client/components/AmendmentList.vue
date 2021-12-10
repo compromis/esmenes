@@ -1,12 +1,53 @@
 <template>
-  <div>
-    {{ amendments.length }} {{ amendmentWord }}
-    <div v-for="amendment in amendments" :key="amendment.id">
-      <support-amendment :amendment="amendment" />
-      <pre>{{ amendment }}</pre>
-      <hr />
-    </div>
-  </div>
+  <b-card v-if="amendments.length > 0" type="outline" size="sm" class="mt-2">
+    <button
+      class="card-padded amendments-button"
+      @click="displayAmendments = !displayAmendments"
+    >
+      <div class="me-auto">{{ amendments.length }} {{ amendmentWord }}</div>
+      <div>
+        <font-awesome-icon
+          :icon="['fal', 'chevron-right']"
+          size="lg"
+          :class="[
+            'amendments-icon',
+            { 'amendments-icon-open': displayAmendments },
+          ]"
+          fixed-width
+        />
+      </div>
+    </button>
+    <transition name="slide">
+      <b-card-list v-show="displayAmendments">
+        <li v-for="amendment in amendments" :key="amendment.id">
+          <div class="amendment-header d-flex">
+            <h5>Esmena {{ amendment.id }}</h5>
+            <b-pill size="sm" class="me-auto">{{ amendment.status }}</b-pill>
+            <support-amendment :amendment="amendment" />
+          </div>
+          <div class="amendment-content">
+            <div class="text-sm">Text Esmenat</div>
+            <p>{{ amendment.amended }}</p>
+          </div>
+          <div class="amendment-justification">
+            <div class="text-sm">Justificació</div>
+            <p>{{ amendment.justification }}</p>
+          </div>
+          <div class="amendment-author">
+            <div class="text-sm">Presentada per</div>
+            {{ amendment.registered_by }}
+          </div>
+          <div
+            v-if="amendment.registered_by_assembly"
+            class="amendment-assembly"
+          >
+            <div class="text-sm">Aprovada en assamblea</div>
+            {{ amendment.registered_by_assembly }}
+          </div>
+        </li>
+      </b-card-list>
+    </transition>
+  </b-card>
 </template>
 
 <script>
@@ -18,6 +59,12 @@ export default {
     },
   },
 
+  data() {
+    return {
+      displayAmendments: false,
+    }
+  },
+
   computed: {
     amendmentWord() {
       return this.amendments.length === 1 ? 'esmena' : 'esmenes'
@@ -25,3 +72,36 @@ export default {
   },
 }
 </script>
+
+<style lang="scss" scoped>
+.amendments-button {
+  color: var(--gray-600);
+  display: flex;
+  width: 100%;
+  text-align: left;
+  appearance: none;
+  border: none;
+  background: none;
+}
+
+.amendments-icon {
+  transition: 0.25s;
+
+  &-open {
+    transform: rotate(90deg);
+  }
+}
+
+.slide-enter-active,
+.slide-leave-active {
+  transition: all 0.4s;
+  max-height: 800px;
+  overflow: hidden;
+}
+
+.slide-enter,
+.slide-leave-to {
+  max-height: 0;
+  overflow: hidden;
+}
+</style>

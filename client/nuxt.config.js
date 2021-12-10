@@ -83,12 +83,12 @@ export default {
       light: [
         'faUserCircle',
         'faSignOut',
-        'faPencil',
-        'faTrash',
         'faTimes',
         'faChevronRight',
+        'faVoteYea',
+        'faCheck',
       ],
-      regular: ['faPencil', 'faTrash'],
+      regular: ['faPencil', 'faTrash', 'faPlus'],
     },
   },
 
