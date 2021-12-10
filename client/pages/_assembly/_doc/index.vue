@@ -5,10 +5,14 @@
         <document-toc :toc="toc" />
       </div>
     </nav>
-    <div class="document-content">
-      <div class="document-title">
+    <div class="document-content mt-4">
+      <div class="document-title px-3">
         <h1 class="text-regular">{{ document.title }}</h1>
-        <circly-button id="general-amendment" @click="generalAmendment">
+        <circly-button
+          id="general-amendment"
+          icon="plus"
+          @click="generalAmendment"
+        >
           Esmena general
         </circly-button>
       </div>
@@ -125,6 +129,7 @@ export default {
 <style lang="scss">
 .document {
   &-wrapper {
+    background: var(--white);
     display: grid;
     grid-template-columns: 0.2fr 1fr;
   }

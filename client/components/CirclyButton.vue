@@ -24,11 +24,14 @@ export default {
   border: none;
   background: none;
   padding: 0.5rem 0;
-  transition: 0.25s ease;
   color: var(--gray-600);
+  transition: 0.25s;
+  gap: 0.5rem;
+  flex-direction: row-reverse;
+  justify-self: start;
 
   .icon-circle {
-    margin-left: 0.5rem;
+    color: var(--gray-600);
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -36,13 +39,14 @@ export default {
     width: 32px;
     height: 32px;
     border: 2px solid var(--gray-600);
-    transition: 0.25s ease;
+    transition: 0.25s;
   }
 
   &:hover {
     color: var(--black);
 
     .icon-circle {
+      color: var(--black);
       border-color: var(--black);
     }
   }

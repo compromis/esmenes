@@ -1,18 +1,31 @@
 ---
-title: Document 1
+title: Document 2
 ---
 
-<amendable-section id="PRE" title="Títol preliminar">
-<amendable article="1" title="Denominació">
+<amendable article="1" title="Article 1">
 
-First paragraph
+First paragraph **bold**
+
+1. sdfdsf
+2. fdsfds
+
+</amendable>
+
+<amendable article="1.5" title="Article 1.5" level="3">
+
+dnsakjdsad *hello* asdasdhashdas das **bolds**
+
+Importantly partag
+
+- dasdsad
+- dasdasdsa
 
 </amendable>
 
-<amendable article="2" title="Principis">
+<amendable article="2">
 
-Second paragraph **hello**
+First paragraph *bold*
+
+Another
 
 </amendable>
-</amendable-section>
-

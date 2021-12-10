@@ -1,10 +1,28 @@
 <template>
   <div>
-    <button :disabled="loading || supported" @click="support">
+    <b-button
+      :disabled="loading || supported"
+      size="sm"
+      :variant="supported ? 'secondary' : 'primary'"
+      outline
+      @click="support"
+    >
       <span v-if="loading"> Carregant </span>
-      <span v-else-if="supported"> Supported </span>
-      <span v-else> Support </span>
-    </button>
+      <span v-else-if="supported"
+        ><font-awesome-icon
+          :icon="['fal', 'check']"
+          size="lg"
+          class="me-2"
+        />Signat
+      </span>
+      <span v-else>
+        <font-awesome-icon
+          :icon="['fal', 'vote-yea']"
+          size="lg"
+          class="me-2"
+        />Dona suport
+      </span>
+    </b-button>
   </div>
 </template>
 
