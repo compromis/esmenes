@@ -1,37 +1,16 @@
 <template>
-  <component :is="tag" :to="to" :href="href" class="circly-button">
+  <button class="circly-button" @click="$emit('click')">
     <span><slot /></span>
     <span class="icon-circle"><font-awesome-icon :icon="['far', icon]" /></span>
-  </component>
+  </button>
 </template>
 
 <script>
 export default {
   props: {
-    to: {
-      type: String,
-      default: null,
-    },
-    href: {
-      type: String,
-      default: null,
-    },
     icon: {
       type: String,
       default: 'pencil',
-    },
-  },
-  computed: {
-    tag() {
-      if (this.to) {
-        return 'nuxt-link'
-      }
-
-      if (this.href) {
-        return 'a'
-      }
-
-      return 'button'
     },
   },
 }
