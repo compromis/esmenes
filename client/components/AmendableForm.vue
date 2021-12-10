@@ -9,8 +9,8 @@
           Esmena presentada
           <pre>{{ submitted }}</pre>
         </div>
-        <div v-else-if="submitting">Presentant esmena...</div>
         <form v-else @submit.prevent="submitAmendment">
+          <h2 class="text-3xl text-regular p-4">Presenta esmena</h2>
           <div v-if="amendable">
             {{ amendable.title }}
             Errors: {{ errors }}
@@ -42,9 +42,15 @@
                 Register as {{ user.data.comarca }}
               </label>
             </div>
-            <div class="p-4">
-              <b-button variant="inverted" size="lg" block type="submit">
-                Presenta esmena
+            <div class="submit-button p-4">
+              <b-button
+                variant="inverted"
+                size="lg"
+                block
+                type="submit"
+                :disabled="submitting"
+              >
+                {{ submitting ? 'Enviant...' : 'Presenta esmena' }}
               </b-button>
             </div>
           </div>
@@ -183,6 +189,8 @@ export default {
   overflow-y: auto;
   border-top: 1px var(--gray-300) solid;
 
+  --form-padding: 1rem;
+
   &-backdrop {
     position: fixed;
     z-index: 10000;
@@ -199,8 +207,21 @@ export default {
     right: 0;
     appearance: none;
     background: transparent;
-    padding: 0.5rem;
-    color: var(--gray-500);
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    border: 0;
+    transition: 0.25s ease;
+
+    &:hover {
+      color: var(--text-color);
+    }
+  }
+
+  .submit-button {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
   }
 }
 

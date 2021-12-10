@@ -3,17 +3,19 @@
     <div v-if="currentAssembly">
       <div class="assembly-header pt-5 px-3">
         <h2 class="text-regular text-4xl">{{ currentAssembly.name }}</h2>
-        <b-tab-list class="my-4" size="lg">
-          <nuxt-link :to="`/${assembly}`" class="tab">Inici</nuxt-link>
-          <nuxt-link
-            v-for="document in documents"
-            :key="document.slug"
-            class="tab"
-            :to="`/${assembly}/${document.slug}`"
-          >
-            {{ document.title }}
-          </nuxt-link>
-        </b-tab-list>
+        <div class="assembly-documents">
+          <b-tab-list class="my-4" size="lg">
+            <nuxt-link :to="`/${assembly}`" class="tab">Inici</nuxt-link>
+            <nuxt-link
+              v-for="document in documents"
+              :key="document.slug"
+              class="tab"
+              :to="`/${assembly}/${document.slug}`"
+            >
+              {{ document.title }}
+            </nuxt-link>
+          </b-tab-list>
+        </div>
       </div>
       <nuxt-child />
     </div>
@@ -50,5 +52,15 @@ export default {
 .assembly-header {
   border-bottom: 1px solid var(--gray-200);
   background: var(--white);
+}
+
+.assembly-documents {
+  overflow-x: auto;
+  margin: 0 -1rem;
+
+  .tab-list {
+    flex-wrap: nowrap;
+    padding: 0 1rem;
+  }
 }
 </style>

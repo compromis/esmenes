@@ -24,7 +24,7 @@
             <span class="ms-2">&gt;</span>
             <router-link
               v-if="document"
-              :to="`/${assembly.ref}/${document.ref}`"
+              :to="`/${assembly.ref}/${document.slug}`"
             >
               {{ document.title }}
             </router-link>

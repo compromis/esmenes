@@ -5,6 +5,10 @@
   --document-info-height: 12.5rem;
 }
 
+html {
+  scroll-padding-top: calc(var(--navbar-height) + 1rem);
+}
+
 .drawer-shown {
   overflow: hidden;
 }
