@@ -88,6 +88,7 @@ export default {
         'faVoteYea',
         'faCheck',
         'faFileAlt',
+        'faCheckCircle',
       ],
       regular: ['faPencil', 'faTrash', 'faPlus'],
     },

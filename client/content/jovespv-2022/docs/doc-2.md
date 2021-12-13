@@ -11,7 +11,7 @@ First paragraph **bold**
 
 </amendable>
 
-<amendable article="1.5" title="Article 1.5" level="3">
+<amendable article="2" title="Article 2" level="3">
 
 dnsakjdsad *hello* asdasdhashdas das **bolds**
 
@@ -22,7 +22,7 @@ Importantly partag
 
 </amendable>
 
-<amendable article="2">
+<amendable article="3">
 
 First paragraph *bold*
 

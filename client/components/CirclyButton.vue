@@ -1,5 +1,10 @@
 <template>
-  <button class="circly-button" @click="$emit('click')">
+  <button
+    class="circly-button"
+    @click="$emit('click')"
+    @mouseover="$emit('mouseover')"
+    @mouseout="$emit('mouseout')"
+  >
     <span><slot /></span>
     <span class="icon-circle"><font-awesome-icon :icon="['far', icon]" /></span>
   </button>

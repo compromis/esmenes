@@ -9,7 +9,10 @@
             <nuxt-link
               v-for="document in documents"
               :key="document.slug"
-              class="tab"
+              :class="[
+                'tab',
+                { selected: document.slug === currentDocumentSlug },
+              ]"
               :to="`/${assembly}/${document.slug}`"
             >
               {{ document.title }}
@@ -38,6 +41,12 @@ export default {
   computed: {
     currentAssembly() {
       return this.$store.state.assembly.assembly
+    },
+
+    currentDocumentSlug() {
+      return this.$store.state.assembly.document
+        ? this.$store.state.assembly.document.slug
+        : null
     },
   },
 

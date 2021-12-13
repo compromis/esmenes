@@ -1,5 +1,5 @@
 <template>
-  <b-card v-if="amendments.length > 0" type="outline" size="sm" class="mt-2">
+  <b-card v-if="amendments.length > 0" type="outline" size="sm">
     <button
       class="card-padded amendments-button"
       @click="displayAmendments = !displayAmendments"
