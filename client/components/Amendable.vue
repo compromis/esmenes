@@ -1,5 +1,5 @@
 <template>
-  <article :id="article" class="amendable mt-2">
+  <article :id="article" class="amendable">
     <div
       :class="['amendable-content', { hovering }]"
       @click="amendText('modification', `#art${article}-edit`)"
@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="amendable-actions">
-      <div class="amendable-actions-sticky">
+      <div class="amendable-actions-sticky py-3">
         <circly-button
           :id="`art${article}-delete`"
           class="delete-button mb-3"

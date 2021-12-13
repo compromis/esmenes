@@ -1,12 +1,19 @@
-@import "transitions";
+@import 'transitions';
 
 :root {
   --navbar-height: 3rem;
   --document-info-height: 12.5rem;
+  --body-bg: white;
 }
 
-html {
+html,
+body {
   scroll-padding-top: calc(var(--navbar-height) + 1rem);
+  background-color: white;
+}
+
+body {
+  background-color: white;
 }
 
 .drawer-shown {

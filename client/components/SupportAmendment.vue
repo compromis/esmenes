@@ -2,9 +2,10 @@
   <div>
     <b-button
       :disabled="loading || supported"
-      size="sm"
+      :size="fullWidth ? 'md' : 'sm'"
       :variant="supported ? 'secondary' : 'primary'"
       outline
+      :block="fullWidth"
       @click="support"
     >
       <span v-if="loading"> Carregant </span>
@@ -32,6 +33,10 @@ export default {
     amendment: {
       type: Object,
       required: true,
+    },
+    fullWidth: {
+      type: Boolean,
+      default: false,
     },
   },
 

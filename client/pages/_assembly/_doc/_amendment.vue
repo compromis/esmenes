@@ -1,11 +1,68 @@
 <template>
-  <div>
-    <div v-if="amendment">
-      <pre>
-        {{ amendment }}
-      </pre>
+  <div class="amendment-page">
+    <div class="container pt-4">
+      <div v-if="amendment" class="amendment-item">
+        <div class="amendment-header d-flex">
+          <h4>Esmena #{{ amendment.num }}</h4>
+          <b-pill size="sm" class="me-auto">{{ amendment.status }}</b-pill>
+        </div>
+        <b-card type="outline" padded size="sm">
+          <b-tab-list size="sm" muted focus-dark>
+            <b-tab
+              :selected="activeTab === 'comparison'"
+              @click="activeTab = 'comparison'"
+            >
+              Comparació
+            </b-tab>
+            <b-tab
+              :selected="activeTab === 'original'"
+              @click="activeTab = 'original'"
+            >
+              Text original
+            </b-tab>
+            <b-tab
+              :selected="activeTab === 'amended'"
+              @click="activeTab = 'amended'"
+            >
+              Text esmenat
+            </b-tab>
+          </b-tab-list>
+          <div class="amendment-tabs-content mt-1 text-lg text-base">
+            <div v-if="activeTab === 'comparison'">comparació</div>
+            <div v-if="activeTab === 'amended'">{{ amendment.amended }}</div>
+            <div v-if="activeTab === 'original'">{{ amendment.original }}</div>
+          </div>
+        </b-card>
+        <div class="amendment-justification mt-3">
+          <div class="text-sm">Justificació</div>
+          <p>{{ amendment.justification }}</p>
+        </div>
+        <div class="amendment-author mt-3">
+          <div class="text-sm">Presentada per</div>
+          {{ amendment.registered_by }}
+        </div>
+        <div
+          v-if="amendment.registered_by_assembly"
+          class="amendment-assembly mt-3"
+        >
+          <div class="text-sm">Aprovada en assamblea</div>
+          {{ amendment.registered_by_assembly }}
+        </div>
+        <div v-if="amendment.supports" class="amendment-supports mt-3">
+          <div class="text-sm">Llista de suports</div>
+          <b-pill
+            v-for="support in amendment.supports"
+            :key="support.id"
+            size="sm"
+            variant="muted"
+          >
+            {{ support.user.name }} {{ support.user.last_name }}
+          </b-pill>
+        </div>
+        <support-amendment :amendment="amendment" full-width class="mt-4" />
+      </div>
+      <div v-else>Carregant...</div>
     </div>
-    <div v-else>Carregant...</div>
   </div>
 </template>
 
@@ -16,6 +73,7 @@ export default {
   data() {
     return {
       amendment: null,
+      activeTab: 'comparison',
     }
   },
 
@@ -25,3 +83,9 @@ export default {
   },
 }
 </script>
+
+<style lang="scss">
+.amendment-page {
+  background: var(--white);
+}
+</style>

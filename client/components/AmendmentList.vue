@@ -1,5 +1,5 @@
 <template>
-  <b-card v-if="amendments.length > 0" type="outline" size="sm">
+  <b-card v-if="amendments.length > 0" type="outline" size="sm" class="mb-4">
     <button
       class="card-padded amendments-button"
       @click="displayAmendments = !displayAmendments"
@@ -44,6 +44,7 @@
             <div class="text-sm">Aprovada en assamblea</div>
             {{ amendment.registered_by_assembly }}
           </div>
+          {{ amendment.ref }}
         </li>
       </b-card-list>
     </transition>

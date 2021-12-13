@@ -1,6 +1,6 @@
 <template>
   <section>
-    <component :is="hTag" :id="indexId">
+    <component :is="hTag" :id="indexId" class="text-regular mx-3">
       {{ indexTitle }}
     </component>
     <slot />
@@ -43,3 +43,17 @@ export default {
   },
 }
 </script>
+
+<style lang="scss" scoped>
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--gray-300);
+  padding-bottom: 0.75rem;
+}
+
+h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+</style>
