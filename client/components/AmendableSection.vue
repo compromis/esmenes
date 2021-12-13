@@ -1,6 +1,8 @@
 <template>
   <section>
-    <h2 :id="indexId">{{ indexTitle }}</h2>
+    <component :is="hTag" :id="indexId">
+      {{ indexTitle }}
+    </component>
     <slot />
   </section>
 </template>
@@ -12,15 +14,17 @@ export default {
       type: String,
       required: true,
     },
-
     id: {
       type: String,
       required: true,
     },
-
     isIndexable: {
       type: Boolean,
       default: true,
+    },
+    level: {
+      type: [String, Number],
+      default: 2,
     },
   },
 
@@ -31,6 +35,10 @@ export default {
 
     indexId() {
       return 'Sec' + this.id
+    },
+
+    hTag() {
+      return 'h' + this.level
     },
   },
 }

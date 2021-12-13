@@ -87,6 +87,7 @@ export default {
         'faChevronRight',
         'faVoteYea',
         'faCheck',
+        'faFileAlt',
       ],
       regular: ['faPencil', 'faTrash', 'faPlus'],
     },

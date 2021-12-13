@@ -50,7 +50,7 @@ export default {
 
 <style lang="scss">
 .assembly-header {
-  border-bottom: 1px solid var(--gray-200);
+  border-bottom: 1px solid var(--gray-300);
   background: var(--white);
 }
 

@@ -21,7 +21,7 @@
       <b-card-list v-show="displayAmendments">
         <li v-for="amendment in amendments" :key="amendment.id">
           <div class="amendment-header d-flex">
-            <h5>Esmena {{ amendment.id }}</h5>
+            <h5>Esmena #{{ amendment.num }}</h5>
             <b-pill size="sm" class="me-auto">{{ amendment.status }}</b-pill>
             <support-amendment :amendment="amendment" />
           </div>

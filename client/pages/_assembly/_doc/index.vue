@@ -5,7 +5,7 @@
         <document-toc :toc="toc" />
       </div>
     </nav>
-    <div class="document-content mt-4">
+    <div class="document-content">
       <div class="document-title px-3">
         <h1 class="text-regular">{{ document.title }}</h1>
         <circly-button
@@ -57,7 +57,6 @@ export default {
     '$route.params.doc'(ref) {
       this.setDocument()
       this.fetchAmendments()
-
       this.$nextTick(() => {
         this.$nextTick(() => {
           this.toc = this.createToc(this.$refs[`content_${ref}`].$children)
@@ -73,13 +72,13 @@ export default {
     // Fetch document amendments
     this.fetchAmendments()
 
+    // Create table of contents
+    this.toc = this.createToc(this.$refs[`content_${this.doc}`].$children)
+
     // Add amendment if user submitted one
     this.$root.$on('amendmentSubmitted', (amendment) => {
       this.$store.commit('assembly/addAmendment', amendment)
     })
-
-    // Create toc
-    this.toc = this.createToc(this.$refs[`content_${this.doc}`].$children)
   },
 
   methods: {
@@ -103,7 +102,7 @@ export default {
     },
 
     setDocument() {
-      // Set current document
+      // Set current document in the store
       const { slug, title } = this.document
       this.$store.commit('assembly/setDocument', { slug, title })
     },
@@ -114,6 +113,7 @@ export default {
         if (component.isIndexable) {
           toc.push({
             id: component.indexId,
+            article: component.article,
             title: component.indexTitle,
             children: this.createToc(component.$children),
           })
@@ -138,13 +138,12 @@ export default {
     display: block;
     width: 100%;
     max-width: 1000px;
-    margin: 0 auto;
-    height: 4000px;
+    margin: 2rem auto;
   }
 
   &-table {
     &-wrapper {
-      padding: 1.5rem 1rem;
+      padding: 2rem 1rem;
       position: sticky;
       top: var(--navbar-height);
       height: calc(100vh - var(--navbar-height));
@@ -154,7 +153,7 @@ export default {
 
   &-title {
     display: grid;
-    grid-template-columns: 1fr 0.2fr;
+    grid-template-columns: 1fr 0.25fr;
   }
 
   .nuxt-content {

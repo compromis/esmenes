@@ -23,12 +23,12 @@ export default {
   appearance: none;
   border: none;
   background: none;
-  padding: 0.5rem 0;
   color: var(--gray-600);
   transition: 0.25s;
   gap: 0.5rem;
   flex-direction: row-reverse;
   justify-self: start;
+  padding: 0;
 
   .icon-circle {
     color: var(--gray-600);
