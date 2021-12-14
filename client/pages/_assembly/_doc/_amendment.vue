@@ -28,9 +28,25 @@
             </b-tab>
           </b-tab-list>
           <div class="amendment-tabs-content mt-1 text-lg text-base">
-            <div v-if="activeTab === 'comparison'">comparació</div>
-            <div v-if="activeTab === 'amended'">{{ amendment.amended }}</div>
-            <div v-if="activeTab === 'original'">{{ amendment.original }}</div>
+            <div v-if="activeTab === 'comparison'">
+              <amendment-comparison
+                class="text-lg"
+                :before="amendment.original"
+                :after="amendment.amended"
+              />
+            </div>
+            <div v-if="activeTab === 'amended'">
+              <pre
+                class="text-sans-serif text-lg"
+                v-html="amendment.amended"
+              ></pre>
+            </div>
+            <div v-if="activeTab === 'original'">
+              <pre
+                class="text-sans-serif text-lg"
+                v-html="amendment.original"
+              ></pre>
+            </div>
           </div>
         </b-card>
         <div class="amendment-justification mt-3">

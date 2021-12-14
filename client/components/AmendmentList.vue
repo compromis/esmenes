@@ -26,8 +26,12 @@
             <support-amendment :amendment="amendment" />
           </div>
           <div class="amendment-content">
-            <div class="text-sm">Text Esmenat</div>
-            <p>{{ amendment.amended }}</p>
+            <div class="text-sm">Text esmenat</div>
+            <amendment-comparison
+              class="mb-3 text-md"
+              :before="amendment.original"
+              :after="amendment.amended"
+            />
           </div>
           <div class="amendment-justification">
             <div class="text-sm">Justificació</div>

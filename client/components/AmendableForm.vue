@@ -49,7 +49,11 @@
                 class="form-field-col faux-input border-left"
               >
                 <div class="faux-label">Modificacions</div>
-                <pre class="preview" v-html="preview" />
+                <amendment-comparison
+                  class="preview"
+                  :before="amendable.original"
+                  :after="amendable.text"
+                />
               </div>
             </div>
             <div class="form-field">
@@ -104,8 +108,6 @@
 </template>
 
 <script>
-import Diff from 'text-diff'
-
 export default {
   data() {
     return {
@@ -122,13 +124,6 @@ export default {
     }
   },
   computed: {
-    preview() {
-      const { original, text } = this.amendable
-      const diff = new Diff({ timeout: 2, editCost: 6 })
-      const textDiff = diff.main(original, text)
-      diff.cleanupEfficiency(textDiff)
-      return diff.prettyHtml(textDiff)
-    },
     user() {
       return this.$store.state.auth.user
     },
@@ -271,18 +266,8 @@ export default {
 }
 
 .preview {
-  font-family: $font-family-sans-serif;
   font-size: 1rem;
   padding: 0 1.5rem 0.5rem 1.5rem;
-
-  ins {
-    background: mix($green, $white, 25%);
-    text-decoration: none;
-  }
-
-  del {
-    background: mix($red, $white, 25%);
-  }
 }
 
 .faux-input {
