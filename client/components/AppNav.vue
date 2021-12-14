@@ -21,9 +21,9 @@
             <router-link :to="`/${assembly.ref}`">
               {{ assembly.name }}
             </router-link>
-            <span class="ms-2">&gt;</span>
+            <span v-if="document && document.slug" class="ms-2">&gt;</span>
             <router-link
-              v-if="document"
+              v-if="document && document.slug"
               :to="`/${assembly.ref}/${document.slug}`"
             >
               {{ document.title }}

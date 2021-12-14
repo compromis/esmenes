@@ -41,7 +41,7 @@
             v-if="amendment.registered_by_assembly"
             class="amendment-assembly"
           >
-            <div class="text-sm">Aprovada en assamblea</div>
+            <div class="text-sm">Aprovada en assemblea</div>
             {{ amendment.registered_by_assembly }}
           </div>
           {{ amendment.ref }}

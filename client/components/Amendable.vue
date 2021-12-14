@@ -106,7 +106,7 @@ export default {
 <style lang="scss">
 .amendable {
   display: grid;
-  grid-template-columns: 1fr 0.25fr;
+  grid-template-columns: 1fr 12.5rem;
   gap: 0.5rem 1rem;
 
   &-content {

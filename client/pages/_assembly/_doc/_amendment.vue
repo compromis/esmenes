@@ -45,7 +45,7 @@
           v-if="amendment.registered_by_assembly"
           class="amendment-assembly mt-3"
         >
-          <div class="text-sm">Aprovada en assamblea</div>
+          <div class="text-sm">Aprovada en assemblea</div>
           {{ amendment.registered_by_assembly }}
         </div>
         <div v-if="amendment.supports" class="amendment-supports mt-3">
@@ -70,6 +70,13 @@
 export default {
   middleware: 'auth',
 
+  async asyncData({ $content, store, params }) {
+    // Set document
+    const { assembly, doc } = params
+    const { slug, title } = await $content(assembly + '/docs/' + doc).fetch()
+    store.commit('assembly/setDocument', { slug, title })
+  },
+
   data() {
     return {
       amendment: null,
@@ -78,6 +85,7 @@ export default {
   },
 
   async mounted() {
+    // Fetch amendment with signatures
     const { assembly, amendment } = this.$route.params
     this.amendment = await this.$api.amendment(assembly, amendment)
   },

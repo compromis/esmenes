@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="document-container">
     <nuxt-content :document="index" />
   </div>
 </template>
@@ -14,5 +14,16 @@ export default {
 
     return { index }
   },
+
+  mounted() {
+    this.$store.commit('assembly/setDocument', { slug: '', title: 'Inici' })
+  },
 }
 </script>
+
+<style lang="scss" scoped>
+.document-container {
+  max-width: 1000px;
+  margin: 2rem auto;
+}
+</style>

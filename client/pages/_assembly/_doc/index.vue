@@ -6,17 +6,19 @@
       </div>
     </nav>
     <div class="document-content">
-      <div class="document-title px-3">
-        <h1 class="text-regular">{{ document.title }}</h1>
-        <circly-button
-          id="general-amendment"
-          icon="plus"
-          @click="generalAmendment"
-        >
-          Esmena general
-        </circly-button>
+      <div class="document-title">
+        <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
+        <div>
+          <circly-button
+            id="general-amendment"
+            icon="plus"
+            @click="generalAmendment"
+          >
+            Esmena general
+          </circly-button>
+        </div>
+        <amendment-list :amendments="generalAmendments" />
       </div>
-      <amendment-list :amendments="generalAmendments" />
       <nuxt-content :ref="`content_${doc}`" :document="document" />
       <amendable-form />
     </div>
@@ -24,13 +26,7 @@
 </template>
 
 <script>
-import CirclyButton from '@/components/CirclyButton'
-
 export default {
-  components: {
-    CirclyButton,
-  },
-
   middleware: 'auth',
 
   async asyncData({ $content, params }) {
@@ -55,11 +51,11 @@ export default {
 
   watch: {
     '$route.params.doc'(ref) {
-      this.setDocument()
       this.fetchAmendments()
       this.$nextTick(() => {
         this.$nextTick(() => {
           this.toc = this.createToc(this.$refs[`content_${ref}`].$children)
+          this.setDocument()
         })
       })
     },
@@ -129,9 +125,8 @@ export default {
 <style lang="scss">
 .document {
   &-wrapper {
-    background: var(--white);
     display: grid;
-    grid-template-columns: 0.2fr 1fr;
+    grid-template-columns: 18.75rem 1fr;
   }
 
   &-content {
@@ -153,7 +148,8 @@ export default {
 
   &-title {
     display: grid;
-    grid-template-columns: 1fr 0.25fr;
+    grid-template-columns: 1fr 12.5rem;
+    gap: 0.5rem 1rem;
   }
 
   .nuxt-content {
