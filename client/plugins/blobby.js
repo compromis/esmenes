@@ -13,6 +13,8 @@ import BPill from '@compromis/blobby/components/pill/BPill.vue'
 import BPillList from '@compromis/blobby/components/pill/BPillList.vue'
 import BTab from '@compromis/blobby/components/tab/BTab.vue'
 import BTabList from '@compromis/blobby/components/tab/BTabList.vue'
+import BBadge from '@compromis/blobby/components/badge/BBadge.vue'
+import BBadgeList from '@compromis/blobby/components/badge/BBadgeList.vue'
 
 Vue.component('CompromisLogo', CompromisLogo)
 Vue.component('BCard', BCard)
@@ -27,3 +29,5 @@ Vue.component('BPill', BPill)
 Vue.component('BPillList', BPillList)
 Vue.component('BTab', BTab)
 Vue.component('BTabList', BTabList)
+Vue.component('BBadge', BBadge)
+Vue.component('BBadgeList', BBadgeList)

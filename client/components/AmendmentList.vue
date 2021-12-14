@@ -20,9 +20,11 @@
     <transition name="slide">
       <b-card-list v-show="displayAmendments">
         <li v-for="amendment in amendments" :key="amendment.id">
-          <div class="amendment-header d-flex">
-            <h5>Esmena #{{ amendment.num }}</h5>
-            <b-pill size="sm" class="me-auto">{{ amendment.status }}</b-pill>
+          <div class="amendment-header d-flex mb-3">
+            <div class="me-auto d-flex align-items-center align-self-start">
+              <h5 class="m-0">Esmena #{{ amendment.num }}</h5>
+              <amendment-status :status="amendment.status" class="ms-2" />
+            </div>
             <support-amendment :amendment="amendment" />
           </div>
           <div class="amendment-content">

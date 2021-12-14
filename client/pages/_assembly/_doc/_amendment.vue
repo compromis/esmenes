@@ -2,9 +2,9 @@
   <div class="amendment-page">
     <div class="container pt-4">
       <div v-if="amendment" class="amendment-item">
-        <div class="amendment-header d-flex">
-          <h4>Esmena #{{ amendment.num }}</h4>
-          <b-pill size="sm" class="me-auto">{{ amendment.status }}</b-pill>
+        <div class="amendment-header d-flex mb-3">
+          <h4 class="mb-0">Esmena #{{ amendment.num }}</h4>
+          <amendment-status :status="amendment.status" class="ms-2" />
         </div>
         <b-card type="outline" padded size="sm">
           <b-tab-list size="sm" muted focus-dark>
@@ -66,14 +66,16 @@
         </div>
         <div v-if="amendment.supports" class="amendment-supports mt-3">
           <div class="text-sm">Llista de suports</div>
-          <b-pill
-            v-for="support in amendment.supports"
-            :key="support.id"
-            size="sm"
-            variant="muted"
-          >
-            {{ support.user.name }} {{ support.user.last_name }}
-          </b-pill>
+          <b-badge-list>
+            <b-badge
+              v-for="support in amendment.supports"
+              :key="support.id"
+              size="sm"
+              variant="supermuted"
+            >
+              {{ support.user.name }} {{ support.user.last_name }}
+            </b-badge>
+          </b-badge-list>
         </div>
         <support-amendment :amendment="amendment" full-width class="mt-4" />
       </div>
