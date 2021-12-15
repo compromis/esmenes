@@ -78,7 +78,11 @@
             </b-badge>
           </b-badge-list>
         </div>
-        <support-amendment :amendment="amendment" full-width class="mt-4" />
+        <support-amendment :amendment="amendment" full-width class="mt-3" />
+        <div class="mt-3">
+          <div class="text-sm">Comparteix l'esmena</div>
+          <share-link :amendment-ref="amendment.ref" />
+        </div>
       </div>
       <div v-else>Carregant...</div>
     </div>

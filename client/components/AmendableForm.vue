@@ -15,8 +15,11 @@
           <p class="text-xl">
             Pots arreplegar signatures amb el següent enllaç:
           </p>
+          <share-link :amendment-ref="submitted.ref" class="mt-2" />
           <div class="mt-4">
-            <b-button href="`/`" class="me-2">Ves a l'esmena -&gt;</b-button>
+            <b-button :href="amendmentUrl" class="me-2"
+              >Ves a l'esmena -&gt;</b-button
+            >
             <b-button variant="inverted" @click="close">
               Torna al document
             </b-button>
@@ -130,6 +133,14 @@ export default {
     },
     canRegisterAsAssembly() {
       return this.$store.state.assembly.assembly.is_spokesperson
+    },
+    amendmentUrl() {
+      if (!this.submitted) {
+        return
+      }
+      const { ref: assembly } = this.$store.state.assembly.assembly
+      const { slug: document } = this.$store.state.assembly.document
+      return `/${assembly}/${document}/${this.submitted.ref}`
     },
   },
   mounted() {
@@ -245,6 +256,11 @@ export default {
     &:hover {
       color: var(--text-color);
     }
+  }
+
+  .share-link {
+    width: 100%;
+    max-width: 600px;
   }
 }
 

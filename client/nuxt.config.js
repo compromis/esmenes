@@ -89,12 +89,16 @@ export default {
         'faCheck',
         'faFileAlt',
         'faCheckCircle',
+        'faClipboard',
       ],
       regular: ['faPencil', 'faTrash', 'faPlus'],
     },
   },
 
   styleResources: {
-    scss: ['@compromis/blobby/scss/_variables.scss'],
+    scss: [
+      '@compromis/blobby/scss/_variables.scss',
+      '@compromis/blobby/scss/_mixins.scss',
+    ],
   },
 }

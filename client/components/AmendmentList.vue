@@ -50,7 +50,7 @@
             <div class="text-sm">Aprovada en assemblea</div>
             {{ amendment.registered_by_assembly }}
           </div>
-          {{ amendment.ref }}
+          <share-link :amendment-ref="amendment.ref" class="mt-3" />
         </li>
       </b-card-list>
     </transition>
