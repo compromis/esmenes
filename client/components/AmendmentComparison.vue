@@ -36,12 +36,29 @@ export default {
   word-break: break-word;
 
   ins {
-    background: mix($green, $white, 25%);
+    background: rgba($green, 0.25);
     text-decoration: none;
+    padding: 1px 3px;
+    border-radius: 3px;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
   }
 
   del {
-    background: mix($red, $white, 25%);
+    background: rgba($red, 0.25);
+    border-radius: 3px;
+    padding: 1px 3px;
+    text-decoration-color: rgba($red, 0.5);
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+  span:first-child {
+    display: none;
+  }
+
+  span:last-child {
+    display: none;
   }
 }
 </style>
