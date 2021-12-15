@@ -24,6 +24,8 @@ class AssemblyController extends Controller
     {
         // Establish if user can register amendments as regional spokesperson for this assembly
         $assembly->is_spokesperson = $request->user()->isSpokesperson($assembly);
+        $assembly->amendments_open = time() < strtotime($assembly->amendment_deadline);
+        $assembly->supports_open = time() < strtotime($assembly->support_deadline);
 
         return $assembly;
     }

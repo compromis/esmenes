@@ -8,7 +8,7 @@
     <div class="document-content">
       <div class="document-title">
         <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
-        <div>
+        <div v-if="canBeAmended">
           <circly-button
             id="general-amendment"
             icon="plus"
@@ -46,6 +46,10 @@ export default {
     generalAmendments() {
       const amendments = this.$store.state.assembly.amendments
       return amendments.general || []
+    },
+
+    canBeAmended() {
+      return this.$store.state.assembly.assembly.amendments_open
     },
   },
 

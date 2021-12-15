@@ -1,8 +1,10 @@
 <template>
   <article :id="article" class="amendable">
     <div
-      :class="['amendable-content', { hovering }]"
-      @click="amendText('modification', `#art${article}-edit`)"
+      :class="['amendable-content', { hovering, 'is-amendable': canBeAmended }]"
+      @click="
+        canBeAmended ? amendText('modification', `#art${article}-edit`) : null
+      "
     >
       <component
         :is="hTag"
@@ -17,7 +19,7 @@
       </div>
     </div>
     <div class="amendable-actions">
-      <div class="amendable-actions-sticky py-3">
+      <div v-if="canBeAmended" class="amendable-actions-sticky py-3">
         <circly-button
           :id="`art${article}-edit`"
           class="edit-button mb-3"
@@ -100,6 +102,10 @@ export default {
         ? this.$store.state.assembly.amendments[this.article]
         : []
     },
+
+    canBeAmended() {
+      return this.$store.state.assembly.assembly.amendments_open
+    },
   },
 
   methods: {
@@ -129,11 +135,14 @@ export default {
     border-radius: 0.75rem;
     padding: 1rem;
     transition: 0.25s ease;
-    cursor: pointer;
 
-    &:hover,
-    &.hovering {
-      background: #fff5d0;
+    &.is-amendable {
+      cursor: pointer;
+
+      &:hover,
+      &.hovering {
+        background: #fff5d0;
+      }
     }
   }
 

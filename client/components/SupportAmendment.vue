@@ -1,27 +1,21 @@
 <template>
   <div>
     <b-button
-      :disabled="loading || supported"
+      :disabled="loading || supported || !canBeSupported"
       :size="fullWidth ? 'md' : 'sm'"
       :variant="supported ? 'secondary' : 'primary'"
       outline
       :block="fullWidth"
       @click="support"
     >
-      <span v-if="loading"> Carregant </span>
-      <span v-else-if="supported"
-        ><font-awesome-icon
-          :icon="['fal', 'check']"
-          size="lg"
-          class="me-2"
-        />Signat
+      <span v-if="loading">Carregant...</span>
+      <span v-else-if="supported">
+        <font-awesome-icon :icon="['fal', 'check']" size="lg" class="me-2" />
+        Has donat suport
       </span>
       <span v-else>
-        <font-awesome-icon
-          :icon="['fal', 'vote-yea']"
-          size="lg"
-          class="me-2"
-        />Dona suport
+        <font-awesome-icon :icon="['fal', 'vote-yea']" size="lg" class="me-2" />
+        Dona suport
       </span>
     </b-button>
   </div>
@@ -48,6 +42,12 @@ export default {
     }
   },
 
+  computed: {
+    canBeSupported() {
+      return this.$store.state.assembly.assembly.supports_open
+    },
+  },
+
   created() {
     if ('supports' in this.amendment && this.amendment.supports.length > 0) {
       this.supported =
@@ -57,7 +57,12 @@ export default {
 
   methods: {
     async support() {
+      if (!this.canBeSupported) {
+        alert("El termini per signar esmenes s'ha tancat")
+      }
+
       this.loading = true
+
       try {
         await this.$api.support(this.$route.params.assembly, this.amendment.ref)
         this.supported = true
