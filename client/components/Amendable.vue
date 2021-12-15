@@ -22,7 +22,7 @@
       <div v-if="canBeAmended" class="amendable-actions-sticky py-3">
         <circly-button
           :id="`art${article}-edit`"
-          class="edit-button mb-3"
+          class="edit-button mb-lg-3"
           :aria-describedby="'text' + indexId"
           @click="amendText('modification', `#art${article}-edit`)"
           @mouseover="hovering = true"
@@ -126,6 +126,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../assets/scss/_bootstrap-mixins.scss';
+
 .amendable {
   display: grid;
   grid-template-columns: 1fr 12.5rem;
@@ -156,6 +158,24 @@ export default {
     &-sticky {
       position: sticky;
       top: calc(var(--navbar-height) + 1rem);
+    }
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .amendable {
+    grid-template-columns: 1fr;
+    gap: 0;
+
+    &-actions-sticky {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      padding-left: 1rem;
+    }
+
+    &-submissions {
+      padding: 0 1rem;
     }
   }
 }

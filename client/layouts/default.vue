@@ -8,5 +8,6 @@
 <style lang="scss" scoped>
 .content-wrapper {
   padding-top: var(--navbar-height, 3rem);
+  padding-bottom: 2rem;
 }
 </style>

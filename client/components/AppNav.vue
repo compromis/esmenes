@@ -18,10 +18,15 @@
             ref="assembly"
             class="d-flex align-items-center"
           >
-            <router-link :to="`/${assembly.ref}`">
+            <router-link :to="`/${assembly.ref}`" class="d-none d-lg-inline">
               {{ assembly.name }}
             </router-link>
-            <span v-if="document && document.slug" class="ms-2">&gt;</span>
+            <span
+              v-if="document && document.slug"
+              class="ms-2 d-none d-lg-inline"
+            >
+              &gt;
+            </span>
             <a v-if="document && document.slug" href="#top">
               {{ document.title }}
             </a>

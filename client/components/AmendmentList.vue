@@ -21,11 +21,14 @@
       <b-card-list v-show="displayAmendments">
         <li v-for="amendment in amendments" :key="amendment.id">
           <div class="amendment-header d-flex mb-3">
-            <div class="me-auto d-flex align-items-center align-self-start">
+            <div class="me-auto d-lg-flex align-items-center align-self-start">
               <h5 class="m-0">Esmena #{{ amendment.num }}</h5>
-              <amendment-status :status="amendment.status" class="ms-2" />
+              <amendment-status
+                :status="amendment.status"
+                class="ms-lg-2 mt-2 mt-lg-0"
+              />
             </div>
-            <support-amendment :amendment="amendment" />
+            <support-amendment :amendment="amendment" class="ms-2" />
           </div>
           <div class="amendment-content">
             <div class="text-sm">Text esmenat</div>

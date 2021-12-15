@@ -5,7 +5,7 @@
         <button class="close" @click="close">
           <font-awesome-icon :icon="['fal', 'times']" size="lg" />
         </button>
-        <div v-if="submitted" class="success">
+        <div v-if="submitted" class="success p-4">
           <font-awesome-icon
             :icon="['fal', 'check-circle']"
             class="icon mb-3"
@@ -17,7 +17,7 @@
           </p>
           <share-link :amendment-ref="submitted.ref" class="mt-2" />
           <div class="mt-4">
-            <b-button :href="amendmentUrl" class="me-2"
+            <b-button :href="amendmentUrl" class="me-2 mb-3"
               >Ves a l'esmena -&gt;</b-button
             >
             <b-button variant="inverted" @click="close">
@@ -226,7 +226,7 @@ export default {
   bottom: 0;
   z-index: 11000;
   width: 100%;
-  max-width: min(calc(100vw - 100px), 1000px);
+  max-width: min(calc(100vw - 40px), 1000px);
   background: var(--white);
   overflow-y: auto;
 

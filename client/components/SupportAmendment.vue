@@ -9,11 +9,11 @@
       @click="support"
     >
       <span v-if="loading">Carregant...</span>
-      <span v-else-if="supported">
+      <span v-else-if="supported" class="support-wrapper">
         <font-awesome-icon :icon="['fal', 'check']" size="lg" class="me-2" />
         Has donat suport
       </span>
-      <span v-else>
+      <span v-else class="support-wrapper">
         <font-awesome-icon :icon="['fal', 'vote-yea']" size="lg" class="me-2" />
         Dona suport
       </span>
@@ -76,3 +76,11 @@ export default {
   },
 }
 </script>
+
+<style lang="scss" scoped>
+.support-wrapper {
+  display: flex;
+  line-height: 1.4;
+  align-items: center;
+}
+</style>

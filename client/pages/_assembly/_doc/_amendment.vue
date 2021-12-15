@@ -65,7 +65,7 @@
           <div class="text-sm">Aprovada en assemblea</div>
           {{ amendment.registered_by_assembly }}
         </div>
-        <div v-if="amendment.supports" class="amendment-supports mt-3">
+        <div v-if="amendment.supports.length" class="amendment-supports mt-3">
           <div class="text-sm">Llista de suports</div>
           <b-badge-list>
             <b-badge

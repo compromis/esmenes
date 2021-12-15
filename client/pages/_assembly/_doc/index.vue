@@ -1,24 +1,27 @@
 <template>
   <div class="document-wrapper">
+    <div class="document-title mt-4">
+      <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
+      <div v-if="canBeAmended">
+        <circly-button
+          id="general-amendment"
+          icon="plus"
+          @click="generalAmendment"
+        >
+          Esmena general
+        </circly-button>
+      </div>
+      <amendment-list
+        :amendments="generalAmendments"
+        class="mx-3 mx-xl-0 mt-3 mt-xl-0"
+      />
+    </div>
     <nav class="document-table">
       <div class="document-table-wrapper">
         <document-toc :toc="toc" />
       </div>
     </nav>
     <div class="document-content">
-      <div class="document-title">
-        <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
-        <div v-if="canBeAmended">
-          <circly-button
-            id="general-amendment"
-            icon="plus"
-            @click="generalAmendment"
-          >
-            Esmena general
-          </circly-button>
-        </div>
-        <amendment-list :amendments="generalAmendments" />
-      </div>
       <nuxt-content :ref="`content_${doc}`" :document="document" />
       <amendable-form />
     </div>
@@ -127,17 +130,30 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../../../assets/scss/_bootstrap-mixins.scss';
+
 .document {
   &-wrapper {
     display: grid;
     grid-template-columns: 18.75rem 1fr;
+    grid-template-rows: auto 1fr;
+  }
+
+  &-title {
+    display: grid;
+    grid-template-columns: 1fr 12.5rem;
+    gap: 0.5rem 1rem;
+    grid-column: 2;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
   }
 
   &-content {
     display: block;
     width: 100%;
     max-width: 1000px;
-    margin: 2rem auto;
+    margin: 0 auto;
 
     h3 {
       font-weight: 500;
@@ -146,6 +162,9 @@ export default {
   }
 
   &-table {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+
     &-wrapper {
       padding: 2rem 1rem;
       position: sticky;
@@ -155,14 +174,50 @@ export default {
     }
   }
 
-  &-title {
-    display: grid;
-    grid-template-columns: 1fr 12.5rem;
-    gap: 0.5rem 1rem;
-  }
-
   .nuxt-content {
     font-weight: 400;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .document {
+    &-wrapper {
+      grid-template-columns: 1fr;
+    }
+
+    &-title {
+      grid-template-columns: 1fr;
+      gap: 0;
+      grid-row: 1;
+      grid-column: 1;
+
+      .circly-button {
+        padding-left: 1rem;
+      }
+    }
+
+    &-content {
+      margin: 0;
+    }
+
+    &-table {
+      grid-row: 2;
+      grid-column: 1;
+    }
+
+    &-table-wrapper {
+      height: auto;
+      border: 1px solid var(--gray-300);
+      padding: 0.5rem 1rem;
+      margin: 1rem;
+      border-radius: 0.75rem;
+
+      &::before {
+        content: 'Taula de continguts';
+        font-size: $text-sm;
+        color: var(--gray-700);
+      }
+    }
   }
 }
 </style>
