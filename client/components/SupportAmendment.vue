@@ -61,6 +61,7 @@ export default {
       try {
         await this.$api.support(this.$route.params.assembly, this.amendment.ref)
         this.supported = true
+        this.$root.$emit('supportedAmendment', true)
       } catch (e) {
         this.error = true
       } finally {

@@ -7,6 +7,7 @@
           <amendment-status :status="amendment.status" class="ms-2" />
         </div>
         <b-card type="outline" padded size="sm">
+          <h5 class="mb-2">{{ amendment.title }}</h5>
           <b-tab-list size="sm" muted focus-dark>
             <b-tab
               :selected="activeTab === 'comparison'"
@@ -36,16 +37,16 @@
               />
             </div>
             <div v-if="activeTab === 'amended'">
-              <pre
+              <div
                 class="text-sans-serif text-lg"
-                v-html="amendment.amended"
-              ></pre>
+                v-html="formatHtml(amendment.amended)"
+              ></div>
             </div>
             <div v-if="activeTab === 'original'">
-              <pre
+              <div
                 class="text-sans-serif text-lg"
-                v-html="amendment.original"
-              ></pre>
+                v-html="formatHtml(amendment.original)"
+              ></div>
             </div>
           </div>
         </b-card>
@@ -106,6 +107,19 @@ export default {
     // Fetch amendment with signatures
     const { assembly, amendment } = this.$route.params
     this.amendment = await this.$api.amendment(assembly, amendment)
+
+    // Refresh when user supports amendment
+    this.$root.$on('supportedAmendment', async () => {
+      this.amendment = await this.$api.amendment(assembly, amendment)
+    })
+  },
+
+  methods: {
+    formatHtml(text) {
+      return String(text)
+        .replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1<br>$2')
+        .replaceAll('  ', '&nbsp;&nbsp;')
+    },
   },
 }
 </script>
@@ -113,5 +127,10 @@ export default {
 <style lang="scss">
 .amendment-page {
   background: var(--white);
+
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
 }
 </style>
