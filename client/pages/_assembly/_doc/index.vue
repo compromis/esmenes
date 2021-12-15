@@ -134,6 +134,11 @@ export default {
     width: 100%;
     max-width: 1000px;
     margin: 2rem auto;
+
+    h3 {
+      font-weight: 500;
+      margin: 1.75rem 1rem 0.5rem 1rem;
+    }
   }
 
   &-table {
