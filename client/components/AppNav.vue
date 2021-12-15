@@ -22,12 +22,9 @@
               {{ assembly.name }}
             </router-link>
             <span v-if="document && document.slug" class="ms-2">&gt;</span>
-            <router-link
-              v-if="document && document.slug"
-              :to="`/${assembly.ref}/${document.slug}`"
-            >
+            <a v-if="document && document.slug" href="#top">
               {{ document.title }}
-            </router-link>
+            </a>
           </div>
         </transition>
       </div>

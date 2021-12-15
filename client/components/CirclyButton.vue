@@ -41,18 +41,27 @@ export default {
     align-items: center;
     justify-content: center;
     border-radius: 100%;
-    width: 32px;
-    height: 32px;
+    width: 2rem;
+    height: 2rem;
     border: 2px solid var(--gray-600);
     transition: 0.25s;
   }
 
-  &:hover {
-    color: var(--black);
+  &:hover,
+  &:focus {
+    color: var(--text-base);
 
     .icon-circle {
-      color: var(--black);
-      border-color: var(--black);
+      color: var(--text-base);
+      border-color: var(--text-base);
+    }
+  }
+
+  &:focus {
+    outline: none;
+
+    .icon-circle {
+      box-shadow: 0 0 0 3px rgba($black, 0.25);
     }
   }
 }

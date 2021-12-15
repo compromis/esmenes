@@ -1,5 +1,6 @@
 <template>
   <div
+    ref="wrapper"
     :class="[
       'input-field',
       `input-${inputType}`,
@@ -35,7 +36,6 @@
       @blur="focused = false"
     />
     <div v-else class="input-wrapper">
-      <pre class="input input-ghost">{{ value }}</pre>
       <textarea
         v-if="inputType === 'textarea'"
         :id="name"
@@ -47,6 +47,7 @@
           'input',
           { 'w-100': block, 'focus-dark': focusDark && variant === 'float' },
         ]"
+        :style="{ height }"
         :aria-describedby="error ? name + 'Errors' : null"
         @input="$emit('input', $event.target.value)"
         @focus="focused = true"
@@ -113,6 +114,10 @@ export default {
       type: [String, Number, Object],
       default: '4',
     },
+    minHeight: {
+      type: Number,
+      default: 0,
+    },
   },
 
   emits: ['update:modelValue'],
@@ -120,6 +125,8 @@ export default {
   data() {
     return {
       focused: false,
+      initialHeight: 0,
+      height: 0,
     }
   },
 
@@ -152,6 +159,28 @@ export default {
       return `span-${span}`
     },
   },
+
+  watch: {
+    value() {
+      this.calcHeight()
+    },
+  },
+
+  mounted() {
+    this.initialHeight = Math.max(
+      this.minHeight,
+      this.$refs.wrapper.offsetHeight
+    )
+    this.calcHeight()
+  },
+
+  methods: {
+    calcHeight() {
+      const inputHeight = this.$refs.input.scrollHeight
+      const height = Math.max(this.initialHeight, inputHeight)
+      this.height = height + 'px'
+    },
+  },
 }
 </script>
 
@@ -173,17 +202,12 @@ export default {
     }
 
     .input {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      z-index: 2;
       display: block;
       padding: var(--input-padding);
       padding-top: 0;
       font-size: var(--input-font-size);
       resize: none;
+      overflow: hidden;
     }
 
     &:focus-within {
@@ -197,14 +221,8 @@ export default {
 
   &-wrapper {
     position: relative;
+    display: flex;
     flex-grow: 1;
-  }
-
-  &-ghost {
-    position: static !important;
-    margin: 0;
-    min-height: 100px;
-    padding-bottom: 2em !important;
   }
 
   &-has-errors.input-float {
