@@ -54,14 +54,20 @@ export default {
     canBeAmended() {
       return this.$store.state.assembly.assembly.amendments_open
     },
+
+    tocComponents() {
+      return process.env.NODE_ENV === 'production'
+        ? this.$children
+        : this.$refs[`content_${this.doc}`].$children
+    },
   },
 
   watch: {
-    '$route.params.doc'(ref) {
+    '$route.params.doc'() {
       this.fetchAmendments()
       this.$nextTick(() => {
         this.$nextTick(() => {
-          this.toc = this.createToc(this.$refs[`content_${ref}`].$children)
+          this.toc = this.createToc(this.tocComponents)
           this.setDocument()
         })
       })
@@ -76,7 +82,9 @@ export default {
     this.fetchAmendments()
 
     // Create table of contents
-    this.toc = this.createToc(this.$refs[`content_${this.doc}`].$children)
+    setTimeout(() => {
+      this.toc = this.createToc(this.tocComponents)
+    }, 500)
 
     // Add amendment if user submitted one
     this.$root.$on('amendmentSubmitted', (amendment) => {

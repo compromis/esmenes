@@ -17,6 +17,8 @@ use App\Http\Controllers\AmendmentController;
 |
 */
 
+Route::get('/user/login', [LoginController::class, 'login']);
+
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', [LoginController::class, 'user']);
     Route::get('/assemblies', [AssemblyController::class, 'assemblies']);

@@ -1,5 +1,5 @@
 <template>
-  <div class="dropdown-trigger">
+  <div v-if="user" class="dropdown-trigger">
     <b-button class="user-button" size="sm" variant="default">
       <span class="d-none d-md-inline">{{ user.name }}</span>
       <font-awesome-icon
@@ -53,15 +53,15 @@ export default {
 
   a {
     display: block;
-    color: var(--black);
+    color: var(--b-black);
     overflow: hidden;
     padding: 0.5rem 0.75rem;
     transition: 0.15s ease-in-out;
 
     &:hover {
       text-decoration: none;
-      color: var(--black);
-      background: var(--gray-100);
+      color: var(--b-black);
+      background: var(--b-gray-100);
     }
   }
 
@@ -69,13 +69,13 @@ export default {
     padding: 0;
 
     &:first-child a {
-      border-top-right-radius: var(--border-radius);
-      border-top-left-radius: var(--border-radius);
+      border-top-right-radius: var(--b-border-radius);
+      border-top-left-radius: var(--b-border-radius);
     }
 
     &:last-child a {
-      border-bottom-right-radius: var(--border-radius);
-      border-bottom-left-radius: var(--border-radius);
+      border-bottom-right-radius: var(--b-border-radius);
+      border-bottom-left-radius: var(--b-border-radius);
     }
   }
 
