@@ -51,6 +51,7 @@
 
 <script>
 import TurndownService from 'turndown'
+import extendedMarkdown from '@/plugins/extended-markdown'
 
 export default {
   isIndexable: true,
@@ -118,7 +119,8 @@ export default {
         strongDelimiter: '',
         emDelimiter: '',
       })
-      const text = turndownService.turndown(html).replaceAll('-   ', '- ')
+      const text = extendedMarkdown(turndownService.turndown(html))
+
       this.$root.$emit('amendText', { article, title, text, type }, focusBackTo)
     },
   },
