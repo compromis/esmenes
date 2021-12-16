@@ -48,7 +48,7 @@ export default {
 h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
-  border-bottom: 1px solid var(--gray-300);
+  border-bottom: 1px solid var(--b-gray-300);
   padding-bottom: 0.75rem;
 }
 

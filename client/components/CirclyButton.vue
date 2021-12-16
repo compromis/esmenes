@@ -28,7 +28,7 @@ export default {
   appearance: none;
   border: none;
   background: none;
-  color: var(--gray-600);
+  color: var(--b-gray-600);
   transition: 0.25s;
   gap: 0.5rem;
   flex-direction: row-reverse;
@@ -36,24 +36,24 @@ export default {
   padding: 0;
 
   .icon-circle {
-    color: var(--gray-600);
+    color: var(--b-gray-600);
     display: inline-flex;
     align-items: center;
     justify-content: center;
     border-radius: 100%;
     width: 2rem;
     height: 2rem;
-    border: 2px solid var(--gray-600);
+    border: 2px solid var(--b-gray-600);
     transition: 0.25s;
   }
 
   &:hover,
   &:focus {
-    color: var(--text-base);
+    color: var(--b-text-base);
 
     .icon-circle {
-      color: var(--text-base);
-      border-color: var(--text-base);
+      color: var(--b-text-base);
+      border-color: var(--b-text-base);
     }
   }
 

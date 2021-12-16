@@ -130,7 +130,7 @@ export default {
 
 <style lang="scss">
 .amendment-page {
-  background: var(--white);
+  background: var(--b-white);
 
   .container {
     max-width: 1000px;

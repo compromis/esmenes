@@ -65,7 +65,7 @@ export default {
   display: flex;
 
   .copy-url {
-    border: 1px solid var(--gray-200);
+    border: 1px solid var(--b-gray-200);
     border-radius: 0.5rem 0 0 0.5rem;
     padding: 0 0.5rem;
     color: inherit;

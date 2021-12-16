@@ -85,7 +85,7 @@ export default {
 
 <style lang="scss" scoped>
 .amendments-button {
-  color: var(--gray-600);
+  color: var(--b-gray-600);
   display: flex;
   width: 100%;
   text-align: left;

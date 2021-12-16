@@ -227,10 +227,8 @@ export default {
   z-index: 11000;
   width: 100%;
   max-width: min(calc(100vw - 40px), 1000px);
-  background: var(--white);
+  background: var(--b-white);
   overflow-y: auto;
-
-  --form-padding: 1rem;
 
   &-backdrop {
     position: fixed;
@@ -249,12 +247,12 @@ export default {
     appearance: none;
     background: transparent;
     padding: 2rem 1.5rem;
-    color: var(--text-muted);
+    color: var(--b-text-muted);
     border: 0;
     transition: 0.25s ease;
 
     &:hover {
-      color: var(--text-color);
+      color: var(--b-text-color);
     }
   }
 
@@ -273,7 +271,7 @@ export default {
 }
 
 .form-field {
-  border-bottom: 1px var(--gray-200) solid;
+  border-bottom: 1px var(--b-gray-200) solid;
 
   &-cols {
     display: grid;
@@ -291,7 +289,7 @@ export default {
   .faux-label {
     padding: 1rem 1.5rem 0.5rem 1.5rem;
     font-size: 0.875rem;
-    color: var(--text-muted);
+    color: var(--b-text-muted);
   }
 
   .faux-value {

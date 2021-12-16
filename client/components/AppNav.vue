@@ -75,7 +75,7 @@ export default {
   display: flex;
   align-items: center;
   position: fixed;
-  background: var(--white);
+  background: var(--b-white);
   height: var(--navbar-height, 3rem);
   padding: 0 1rem;
   top: 0;
@@ -90,7 +90,7 @@ export default {
 
     &-append {
       font-size: 1.25em;
-      color: var(--text-muted);
+      color: var(--b-text-muted);
     }
   }
 
@@ -99,7 +99,7 @@ export default {
   }
 
   &.scrolled {
-    border-bottom: 1px var(--gray-300) solid;
+    border-bottom: 1px var(--b-gray-300) solid;
   }
 }
 </style>

@@ -190,31 +190,31 @@ export default {
     display: flex;
     flex-direction: column;
 
-    --input-padding: 1rem 1.5rem 0.5rem 1.5rem;
+    --b-input-padding: 1rem 1.5rem 0.5rem 1.5rem;
 
     .input-label {
       position: relative;
       left: 0;
       top: 0;
       transform: none !important;
-      padding: var(--input-padding);
+      padding: var(--b-input-padding);
       font-size: $text-sm;
     }
 
     .input {
       display: block;
-      padding: var(--input-padding);
+      padding: var(--b-input-padding);
       padding-top: 0;
-      font-size: var(--input-font-size);
+      font-size: var(--b-input-font-size);
       resize: none;
       overflow: hidden;
     }
 
     &:focus-within {
-      background: var(--gray-50);
+      background: var(--b-gray-50);
 
       .input {
-        background: var(--gray-50);
+        background: var(--b-gray-50);
       }
     }
   }

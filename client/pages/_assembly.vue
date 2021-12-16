@@ -59,8 +59,8 @@ export default {
 
 <style lang="scss">
 .assembly-header {
-  border-bottom: 1px solid var(--gray-300);
-  background: var(--white);
+  border-bottom: 1px solid var(--b-gray-300);
+  background: var(--b-white);
 }
 
 .assembly-documents {

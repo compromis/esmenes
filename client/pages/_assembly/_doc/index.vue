@@ -215,7 +215,7 @@ export default {
 
     &-table-wrapper {
       height: auto;
-      border: 1px solid var(--gray-300);
+      border: 1px solid var(--b-gray-300);
       padding: 0.5rem 1rem;
       margin: 1rem;
       border-radius: 0.75rem;

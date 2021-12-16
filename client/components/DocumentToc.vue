@@ -82,7 +82,7 @@ export default {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: var(--text-muted);
+  color: var(--b-text-muted);
 
   a {
     display: inline-block;
@@ -95,12 +95,12 @@ export default {
 
       .title {
         text-decoration: underline;
-        text-decoration-color: var(--gray-400);
+        text-decoration-color: var(--b-gray-400);
       }
     }
 
     &:focus {
-      background: var(--gray-100);
+      background: var(--b-gray-100);
       box-shadow: none !important;
     }
   }
