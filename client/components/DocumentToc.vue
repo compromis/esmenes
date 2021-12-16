@@ -7,7 +7,7 @@
     >
       <a
         :href="`#${item.id}`"
-        class="link-muted-to-black"
+        class="link-muted-to-black d-flex align-items-start"
         @click="handleClick(item, $event)"
       >
         <font-awesome-icon
@@ -15,14 +15,20 @@
           class="chevron me-2"
           :icon="['fal', 'chevron-right']"
         />
-        <font-awesome-icon v-else class="me-2" :icon="['fal', 'file-alt']" />
-        <span class="title">{{ item.title }}</span>
-        <span
-          v-if="item.amendments > 0"
-          class="amendments"
-          :title="`${item.amendments} esmenes`"
-        >
-          {{ item.amendments }}
+        <font-awesome-icon
+          v-else
+          class="file me-2"
+          :icon="['fal', 'file-alt']"
+        />
+        <span>
+          <span class="title">{{ item.title }}</span>
+          <span
+            v-if="item.amendments > 0"
+            class="amendments"
+            :title="`${item.amendments} esmenes`"
+          >
+            {{ item.amendments }}
+          </span>
         </span>
       </a>
       <transition name="slide">
@@ -81,14 +87,20 @@ export default {
 .toc {
   list-style: none;
   margin: 0;
+  margin-top: -0.25rem;
   padding: 0;
   color: var(--text-muted);
+
+  li {
+    margin: 0.25rem 0;
+  }
 
   a {
     display: inline-block;
     padding: 0.15rem 0.5rem;
     margin: 0 -0.5rem;
     border-radius: 0.25rem;
+    line-height: 1.25;
 
     &:hover {
       text-decoration: none;
@@ -120,7 +132,12 @@ export default {
   }
 
   .chevron {
+    margin-top: 0.1rem;
     transition: 0.25s ease;
+  }
+
+  .file {
+    margin-top: 0.1rem;
   }
 
   .show-children {

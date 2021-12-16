@@ -67,7 +67,7 @@
                 type="textarea"
                 variant="float"
                 label="Justificació"
-                :min-height="150"
+                :min-height="125"
                 :error="errorMessage('justification')"
               />
             </div>
@@ -278,7 +278,7 @@ export default {
   &-cols {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    min-height: 45vh;
+    min-height: 42vh;
   }
 }
 

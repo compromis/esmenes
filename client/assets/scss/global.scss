@@ -9,11 +9,7 @@
 html,
 body {
   scroll-padding-top: calc(var(--navbar-height) + 1rem);
-  background-color: white;
-}
-
-body {
-  background-color: white;
+  background-color: var(--body-bg);
 }
 
 .drawer-shown {

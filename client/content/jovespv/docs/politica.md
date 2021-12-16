@@ -1,5 +1,6 @@
 ---
 title: Ponència política
+order: 2
 ---
 
 <amendable-section id="1" title="Ara i ací">

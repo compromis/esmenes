@@ -33,6 +33,7 @@ export default {
     const { assembly } = params
     const documents = await $content(assembly + '/docs')
       .only(['slug', 'title'])
+      .sortBy('order')
       .fetch()
 
     return { assembly, documents }

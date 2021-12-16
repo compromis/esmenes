@@ -10,7 +10,7 @@
         :is="hTag"
         v-if="title"
         :id="indexId"
-        class="text-regular mb-0"
+        class="text-regular mb-3"
       >
         {{ indexTitle }}
       </component>
@@ -151,6 +151,15 @@ export default {
   &-text {
     & > *:last-child {
       margin-bottom: 0;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    /* Second degree lists */
+    & > ol > li > ol > li {
+      list-style: lower-latin;
     }
   }
 

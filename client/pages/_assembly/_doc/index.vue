@@ -1,6 +1,6 @@
 <template>
   <div class="document-wrapper">
-    <div class="document-title mt-4">
+    <div class="document-title">
       <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
       <div v-if="canBeAmended">
         <circly-button
@@ -155,6 +155,7 @@ export default {
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
+    margin-top: 2rem;
   }
 
   &-content {
@@ -177,7 +178,7 @@ export default {
       padding: 2rem 1rem;
       position: sticky;
       top: var(--navbar-height);
-      height: calc(100vh - var(--navbar-height));
+      max-height: calc(100vh - var(--navbar-height));
       overflow-y: auto;
     }
   }
