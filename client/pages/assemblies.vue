@@ -1,16 +1,9 @@
 <template>
-  <div>
+  <div class="text-muted text-2xl p-3">
     <div v-if="assemblies.length === 0">
-      No hi ha cap procés d'esmenes de documents obert
+      No tens cap procés d'esmenes de documents obert
     </div>
-    <div v-else>
-      <nuxt-link
-        v-for="assembly in assemblies"
-        :key="assembly.ref"
-        :to="`/${assembly.ref}`"
-        >{{ assembly.name }}</nuxt-link
-      >
-    </div>
+    <div v-else>Redirigint...</div>
   </div>
 </template>
 
@@ -27,6 +20,11 @@ export default {
   async mounted() {
     this.assemblies = await this.$api.assemblies()
     this.$store.commit('assembly/setAssembly', null)
+
+    // Redirect to first assembly
+    if (this.assemblies.length > 0) {
+      this.$router.push(`/${this.assemblies[0].ref}`)
+    }
   },
 }
 </script>

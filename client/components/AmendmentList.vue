@@ -20,9 +20,16 @@
     <transition name="slide">
       <b-card-list v-show="displayAmendments">
         <li v-for="amendment in amendments" :key="amendment.id">
-          <div class="amendment-header d-flex mb-3">
+          <div class="amendment-header d-flex mb-2">
             <div class="me-auto d-lg-flex align-items-center align-self-start">
-              <h5 class="m-0">Esmena #{{ amendment.num }}</h5>
+              <h5 class="m-0">
+                <nuxt-link
+                  :to="linkBase + amendment.ref"
+                  class="link-muted-to-black"
+                >
+                  Esmena #{{ amendment.num }}
+                </nuxt-link>
+              </h5>
               <amendment-status
                 :status="amendment.status"
                 class="ms-lg-2 mt-2 mt-lg-0"
@@ -53,7 +60,6 @@
             <div class="text-sm">Aprovada en assemblea</div>
             {{ amendment.registered_by_assembly }}
           </div>
-          <share-link :amendment-ref="amendment.ref" class="mt-3" />
         </li>
       </b-card-list>
     </transition>
@@ -78,6 +84,10 @@ export default {
   computed: {
     amendmentWord() {
       return this.amendments.length === 1 ? 'esmena' : 'esmenes'
+    },
+    linkBase() {
+      const { assembly, document } = this.$store.state.assembly
+      return `/${assembly.ref}/${document.slug}/`
     },
   },
 }

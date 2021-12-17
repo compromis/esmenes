@@ -73,10 +73,6 @@ export default {
       type: [String, Number],
       default: 4,
     },
-    isIndexable: {
-      type: Boolean,
-      default: true,
-    },
   },
 
   data() {
@@ -101,6 +97,10 @@ export default {
         : this.title
     },
 
+    isIndexable() {
+      return !!this.title
+    },
+
     context() {
       return this.$parent.title || ''
     },
@@ -123,7 +123,9 @@ export default {
         this.context && this.indexTitle
           ? this.context + ' > ' + this.indexTitle
           : this.indexTitle || this.context
-      const html = this.$refs.text.innerHTML
+      const html = this.indexTitle
+        ? this.indexTitle + '<br>' + this.$refs.text.innerHTML
+        : this.$refs.text.innerHTML
       const turndownService = new TurndownService({
         bulletListMarker: '-',
         strongDelimiter: '',
@@ -172,6 +174,10 @@ export default {
     /* Second degree lists */
     & > ol > li > ol > li {
       list-style: lower-latin;
+    }
+
+    em {
+      text-decoration: underline;
     }
   }
 

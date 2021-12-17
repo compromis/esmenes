@@ -2,7 +2,7 @@
   <div class="document-wrapper">
     <div class="document-title">
       <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
-      <div v-if="canBeAmended">
+      <div v-if="canBeAmended" class="mb-3 mb-lg-0 mt-lg-2">
         <circly-button
           id="general-amendment"
           icon="plus"
@@ -145,6 +145,7 @@ export default {
     display: grid;
     grid-template-columns: 18.75rem 1fr;
     grid-template-rows: auto 1fr;
+    column-gap: 1rem;
   }
 
   &-title {

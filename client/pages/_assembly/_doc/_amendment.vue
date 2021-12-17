@@ -1,5 +1,5 @@
 <template>
-  <div class="amendment-page">
+  <div class="amendment-page text-lg">
     <div class="container pt-4">
       <div v-if="amendment" class="amendment-item">
         <div class="amendment-header d-flex mb-3">
@@ -8,7 +8,7 @@
         </div>
         <b-card type="outline" padded size="sm">
           <h5 class="mb-2">{{ amendment.title }}</h5>
-          <b-tab-list size="sm" muted focus-dark>
+          <b-tab-list size="sm" muted focus-dark class="my-3">
             <b-tab
               :selected="activeTab === 'comparison'"
               @click="activeTab = 'comparison'"
@@ -51,27 +51,27 @@
           </div>
         </b-card>
         <div class="amendment-justification mt-3">
-          <div class="text-sm">Justificació</div>
+          <div class="text-md">Justificació</div>
           <p>{{ amendment.justification }}</p>
         </div>
         <div class="amendment-author mt-3">
-          <div class="text-sm">Presentada per</div>
+          <div class="text-md">Presentada per</div>
           {{ amendment.registered_by }}
         </div>
         <div
           v-if="amendment.registered_by_assembly"
           class="amendment-assembly mt-3"
         >
-          <div class="text-sm">Aprovada en assemblea</div>
+          <div class="text-md">Aprovada en assemblea</div>
           {{ amendment.registered_by_assembly }}
         </div>
         <div v-if="amendment.supports.length" class="amendment-supports mt-3">
-          <div class="text-sm">Llista de suports</div>
+          <div class="text-md">Llista de suports</div>
           <b-badge-list>
             <b-badge
               v-for="support in amendment.supports"
               :key="support.id"
-              size="sm"
+              size="md"
               variant="supermuted"
             >
               {{ support.user.name }} {{ support.user.last_name }}
@@ -80,7 +80,7 @@
         </div>
         <support-amendment :amendment="amendment" full-width class="mt-3" />
         <div class="mt-3">
-          <div class="text-sm">Comparteix l'esmena</div>
+          <div class="text-md">Comparteix l'esmena</div>
           <share-link :amendment-ref="amendment.ref" />
         </div>
       </div>

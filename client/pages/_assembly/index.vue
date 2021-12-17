@@ -1,5 +1,5 @@
 <template>
-  <div class="document-container">
+  <div class="document-container px-3">
     <nuxt-content :document="index" />
   </div>
 </template>

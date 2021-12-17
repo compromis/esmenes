@@ -26,7 +26,7 @@
           </div>
         </div>
         <form v-else class="form" @submit.prevent="submitAmendment">
-          <h2 class="text-3xl text-regular p-4">Presenta esmena</h2>
+          <h2 class="text-2xl text-regular p-4">Presenta esmena</h2>
           <div v-if="amendable">
             <div class="pb-3 px-4">
               <span v-if="amendable.type === 'deletion'">Suprimeix:</span>
@@ -42,7 +42,7 @@
                   name="text"
                   type="textarea"
                   variant="float"
-                  label="Esmena"
+                  label="Text esmenat"
                   class="text-input"
                   :error="errorMessage('text')"
                 />
@@ -99,6 +99,7 @@
                 block
                 type="submit"
                 :disabled="submitting"
+                class="text-bold"
               >
                 {{ submitting ? 'Enviant...' : 'Presenta esmena' }}
               </b-button>
