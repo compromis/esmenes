@@ -61,6 +61,10 @@ export default {
       type: String,
       required: true,
     },
+    id: {
+      type: String,
+      required: true,
+    },
     title: {
       type: String,
       default: null,
@@ -87,11 +91,14 @@ export default {
     },
 
     indexId() {
-      return 'Art' + this.article
+      const id = this.article || this.id
+      return 'Art' + id
     },
 
     indexTitle() {
-      return `Article ${this.article}. ${this.title || ''}`
+      return this.article
+        ? `Article ${this.article}. ${this.title || ''}`
+        : this.title
     },
 
     context() {
@@ -112,7 +119,10 @@ export default {
   methods: {
     amendText(type, focusBackTo) {
       const { article } = this
-      const title = this.title ? this.indexTitle : this.context
+      const title =
+        this.context && this.indexTitle
+          ? this.context + ' > ' + this.indexTitle
+          : this.indexTitle || this.context
       const html = this.$refs.text.innerHTML
       const turndownService = new TurndownService({
         bulletListMarker: '-',

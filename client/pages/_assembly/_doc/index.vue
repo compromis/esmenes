@@ -155,7 +155,7 @@ export default {
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
 
   &-content {
@@ -173,13 +173,16 @@ export default {
   &-table {
     grid-column: 1;
     grid-row: 1 / span 2;
+    border-right: 1px var(--gray-300) solid;
 
     &-wrapper {
-      padding: 2rem 1rem;
+      padding: 1rem;
       position: sticky;
       top: var(--navbar-height);
-      max-height: calc(100vh - var(--navbar-height));
+      height: calc(100vh - var(--navbar-height));
       overflow-y: auto;
+
+      @include scrollbar();
     }
   }
 
@@ -212,19 +215,22 @@ export default {
     &-table {
       grid-row: 2;
       grid-column: 1;
+      border-right: 0;
     }
 
     &-table-wrapper {
       height: auto;
       border: 1px solid var(--gray-300);
       padding: 0.5rem 1rem;
-      margin: 1rem;
+      margin: 0 1rem;
       border-radius: 0.75rem;
 
       &::before {
         content: 'Taula de continguts';
+        display: block;
         font-size: $text-sm;
         color: var(--gray-700);
+        margin: 0.25rem 0 0.75rem;
       }
     }
   }
