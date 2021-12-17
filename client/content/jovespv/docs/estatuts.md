@@ -94,7 +94,7 @@ L’Assemblea Nacional estudiarà qualsevol conflicte que puga sorgir entre Jove
 Són membres de Joves PV totes aquelles persones amb la condició de militant o de simpatitzant.
 
 </amendable>
-<amendable article="13" title="Membres">
+<amendable article="13" title="Militants">
 
 1. Són militants de Joves PV aquelles persones físiques que tinguen entre catorze i trenta anys, ambdós inclosos, que sol·liciten la seua admissió com a tal i que col·laboren regularment al manteniment econòmic de l’organització amb les quotes estipulades.
 2. Ho seran igualment les persones militants de Més menors de trenta-un anys, sempre que no manifesten expressament la seua opinió contrària.
