@@ -89,7 +89,7 @@ Per tot açò, en el context de crisi estructural i avanç de l’autoritarisme 
 </amendable-section>
 
 <amendable-section id="2" title="2. Actuem">
-<amendable-section id="2_1" title="2.1 Esquerra. Joves per la Justícia Social." level="3">
+<amendable-section id="2_1" title="2.1. Esquerra. Joves per la Justícia Social." level="3">
 <amendable id="2_1_1">
 
 Optem per una resposta des de l’**esquerra** enfront d'un sistema econòmic capitalista que només genera riquesa per a unes poques persones, mentre precaritza i condemna a la pobresa a la gran majoria de la població, i en front d'un model social neoliberal que es basa en la propietat privada i un individualisme que rebutja la idea d’ajuda en col·lectiu. La mercantilització de tota activitat econòmica ha desencadenat les majors taxes de desigualtat en el món, i els valencians n’hem de fer front.
@@ -201,7 +201,7 @@ Volem una societat realment inclusiva, on la riquesa i diversitat de les persone
 
 </amendable>
 </amendable-section>
-<amendable-section id="2_2" title="2.2 Valencianisme. Joves pel País Valencià." level="3">
+<amendable-section id="2_2" title="2.2. Valencianisme. Joves pel País Valencià." level="3">
 <amendable id="2_2_1">
 
 El **poble valencià** porta ja més d'un segle de construcció d'una identitat pròpia. Una tradició sempre lligada a la cultura, als valors democràtics i al progrés. No obstant això, encara queda molt a fer per a aconseguir l'objectiu d'una plena sobirania dels valencians, que faça de les institucions valencianes uns organismes inclusius i amb un ferm compromís per avançar cap a un país que construïsca, des del nostre àmbit, un món millor, basat en la sostenibilitat i la justícia social.
@@ -273,7 +273,7 @@ Hem de situar el País Valencià com a estat modern que estableix relacions de g
 
 </amendable>
 </amendable-section>
-<amendable-section id="2_3" title="2.3 Feminisme i diversitat. Joves per la Lluita Feminista." level="3">
+<amendable-section id="2_3" title="2.3. Feminisme i diversitat. Joves per la Lluita Feminista." level="3">
 <amendable id="2_3_1">
 
 El **feminisme** és la lluita política que té com a objectiu l'alliberament i empoderament de les dones per a fer front al sistema cisheteropatriarcal, basat en l'opressió cap a les dones, que justifica tota mena de violència que ens sotmet al criteri de l'home heterosexual i cisgènere, donant suport a un sistema de desigualtat social, assignant rols i espais en funció del gènere normatiu establert, discriminant sempre a les dones pel simple fet de ser-ho.
@@ -335,7 +335,7 @@ El feminisme ha de vetlar pels drets de totes les dones del món. Ha de lluitar 
 
 </amendable>
 </amendable-section>
-<amendable-section id="2_4" title="2.4 Ecologisme. Joves contra el Canvi Climàtic." level="3">
+<amendable-section id="2_4" title="2.4. Ecologisme. Joves contra el Canvi Climàtic." level="3">
 <amendable id="2_4_1">
 
 Ens trobem en un moment històric en què el **canvi climàtic** està canviant de forma evident les nostres vides i costums: la sequera i les plagues amenacen greument els nostres cultius, les pluges torrencials inunden i desfan de nord a sud tot el que troben al seu pas. L'emergència climàtica al País Valencià és evident, i si aquests fenòmens ambientals empitjoren, ens obligaran a abandonar les nostres terres, amb la possibilitat de ser els primers refugiats climàtics del continent europeu.
@@ -392,7 +392,7 @@ Perquè el País Valencià ha de ser ecologista, animalista i sostenible, o no s
 
 </amendable>
 </amendable-section>
-<amendable-section id="2_5" title="2.5 Antifeixisme. Joves contra l’Odi." level="3">
+<amendable-section id="2_5" title="2.5. Antifeixisme. Joves contra l’Odi." level="3">
 <amendable id="2_5_1">
 
 L'antifeixisme és una lluita de totes, l'eix vertebrador de la política de qualsevol organització que es tinga per demòcrata. I com a tal ha d'estar present en el nostre dia a dia, més encara en aquest moment en què l'**extrema dreta** es troba a les institucions, i el seu discurs als carrers, legitimant agressions o conductes contràries a tot el que nosaltres representem: la diversitat, el respecte, les cures, els drets humans... per això ens refermem en la nostra condició d'antifeixistes basant-nos en la sobirania de l'individu per a pensar, opinar i actuar sense pors ni coaccions.
