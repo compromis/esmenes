@@ -145,7 +145,7 @@ Es perdrà la condició de membre de Joves PV:
 </amendable>
 </amendable-section>
 
-<amendable-section id="T3" title="Títol tercer. Dels organs de representació nacionals">
+<amendable-section id="T3" title="Títol tercer. Dels òrgans de representació nacionals">
 <amendable-section id="T3_C1" title="Capítol I. Del Congrés Nacional" level="3">
 <amendable article="17" title="Naturalesa">
 
