@@ -65,7 +65,7 @@ Un dels reptes que la nostra organització té al davant és el del creixement i
 </amendable>
 <amendable id="1_1_2">
 
-En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en un **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col·lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació.
+En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en un **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col·lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació. 
 
 </amendable>
 <amendable id="1_1_3">
@@ -127,7 +127,7 @@ Les trobades han servit també per a estendre lligams amb altres organitzacions 
 </amendable>
 <amendable id="1_2_9">
 
-L'evident èxit d'este model, però, no ens pot situar en el conformisme. Per això cal seguir incidint en el caràcter vertebrador de les trobades, impulsar l'organització d'activitats directament des dels col·lectius comarcals dins de les mateixes trobades nacionals i augmentar els mecanismes d'ajuda per a militants que viuen lluny del lloc de celebració. També, i donat el context actual, resulta imprescindible que Joves PV incorpore unes perspectives feminista i ecologista com a elements fonamentals a l'hora de plantejar i organitzar les trobades.
+L'evident èxit d'este model, però, no ens pot situar en el conformisme. Per això cal seguir incidint en el caràcter vertebrador de les trobades, impulsar l'organització d'activitats directament des dels co·lectius comarcals dins de les mateixes trobades nacionals i augmentar els mecanismes d'ajuda per a militants que viuen lluny del lloc de celebració. També, i donat el context actual, resulta imprescindible que Joves PV incorpore unes perspectives feminista i ecologista com a elements fonamentals a l'hora de plantejar i organitzar les trobades.
 
 </amendable>
 <amendable id="1_2_10">
@@ -347,7 +347,7 @@ Pel que fa a l'habitatge, la **manca d'associacionisme juvenil que lluite per un
 </amendable>
 <amendable id="2_2_14">
 
-Encara més, després de la pandèmia de la COVID-19**, la falta de salut mental s'ha posat en el focus mediàtic**, fent que aquesta ocupe lloc en els debats polítics i socials. Entitats com la **Federació Salut Mental CV** promouen la salut mental i sensibilitzen sobre este. Entenem que estrènyer llaços amb esta entitat és necessari per a crear el nostre argumentari sobre estes matèries. Per a anar més enllà, podríem convidar a esta organització i als col·legis professionals com a ponents a les nostres formacions en esta matèria per a ampliar els nostres coneixements sobre estos temes tan necessaris i integrar-ho en els nostres plans d'acció.
+Encara més, després de la pandèmia de la COVID-19, **la falta de salut mental s'ha posat en el focus mediàtic**, fent que aquesta ocupe lloc en els debats polítics i socials. Entitats com la **Federació Salut Mental CV** promouen la salut mental i sensibilitzen sobre este. Entenem que estrènyer llaços amb esta entitat és necessari per a crear el nostre argumentari sobre estes matèries. Per a anar més enllà, podríem convidar a esta organització i als col·legis professionals com a ponents a les nostres formacions en esta matèria per a ampliar els nostres coneixements sobre estos temes tan necessaris  i integrar-ho en els nostres plans d'acció.
 
 </amendable>
 <amendable id="2_2_15">
@@ -417,7 +417,7 @@ A més a més, cal fer esment a la importància que posseeix l'educació, tant f
 </amendable>
 <amendable id="2_2_28">
 
-Finalment, el sobiranisme i l'internacionalisme formen part de l'ADN de la nostra organització, per això se'ns fa imprescindible **establir i augmentar vincles amb altres organitzacions internacionals sobiranistes**. Considerem estratègicament prioritari mantindre unes relacions fluides amb aquelles organitzacions que, pel seu ideari, ens resulten més pròximes (amb especial atenció a les del nostre àmbit lingüístic) i que respecten la nostra concepció del fet nacional valencià d'una manera inequívoca i sense ingerències, mostrant-nos amb naturalitat com el referent polític jove del valencianisme. Així, continuarem col·laborant amb **Mallorca Nova**, **Galiza Nova**, **Gazte Abertzaleak**, **Jovent Republicà**, **Gazteok Bai**, **Joves Ecosocialistes** i, **Más Madrid Joven** i, **Chobentú Aragonesista** i **Juventudes Andalucistas**.
+Finalment, el sobiranisme i l'internacionalisme formen part de l'ADN de la nostra organització, per això se'ns fa imprescindible **establir i augmentar vincles amb altres organitzacions internacionals sobiranistes**. Considerem estratègicament prioritari mantindre unes relacions fluides amb aquelles organitzacions que, pel seu ideari, ens resulten més pròximes (amb especial atenció a les del nostre àmbit lingüístic) i que respecten la nostra concepció del fet nacional valencià d'una manera inequívoca i sense ingerències, mostrant-nos amb naturalitat com el referent polític jove del valencianisme. Així, continuarem col·laborant amb **Mallorca Nova**, **Galiza Nova**, **Gazte Abertzaleak**, **Jovent Republicà**, **Gazteok Bai**, **Joves Ecosocialistes** i, **Más Madrid Joven** i,  **Chobentú Aragonesista** i **Juventudes Andalucistas**.
 
 </amendable>
 <amendable id="2_2_29">
@@ -842,15 +842,12 @@ Però també s'ha de **coordinar el disseny, la planificació i el desenvolupame
 </amendable-section>
 
 <amendable-section id="6" title="Annex. Objectius estratègics">
-
 <amendable id="6_0_1">
 
 Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de treball, una sèrie d'objectius estratègics. Estos són els reptes a què hauria de fer la nostra organització des d'ara i fins els pròxims anys. Per a facilitar-ne la lectura, disposem a continuació el llistat d'objectius marcats.
 
 </amendable>
-<amendable id="6_0_2">
-
-**Estratègia orgànica:**
+<amendable id="6_0_2" title="Estratègia orgànica">
 
 1. Conquistar les zones blanques de militància: constituint col·lectius en totes les comarques.
 2. Augmentar la militància de dones per a assolir la paritat del 50%.
@@ -869,9 +866,7 @@ Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de t
 15. Treballar la cohesió interna per a garantir la unitat d'acció.
 
 </amendable>
-<amendable id="6_0_3">
-
-**Estratègia política:**
+<amendable id="6_0_3" title="Estratègia política">
 
 1. Determinar estratègies i objectius per a cada línia ideològica: esquerra, joventut, valencianisme, ecologisme, igualtat i antifeixisme.
 2. Construir un discurs que traspasse els límits de les institucions.
@@ -886,9 +881,7 @@ Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de t
 11. Establir i augmentar vincles amb altres organitzacions internacionals sobiranistes.
 
 </amendable>
-<amendable id="6_0_4">
-
-**Estratègia comunicativa:**
+<amendable id="6_0_4" title="Estratègia comunicativa">
 
 1. Estar a l'avantguarda de les noves tendències comunicatives.
 2. Continuar apostant per l'assessorament de perfils professionals en l'acció comunicativa.
@@ -898,9 +891,7 @@ Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de t
 6. Aparéixer més als mitjans de comunicació.
 
 </amendable>
-<amendable id="6_0_5">
-
-**Estratègia electoral:**
+<amendable id="6_0_5" title="Estratègia electoral">
 
 1. Constituir una maquinària electoral per a preparar les pròximes eleccions municipals, valencianes i estatals.
 2. Aconseguir el màxim nombre de pobles amb persones joves en les llistes electorals municipals.
@@ -919,9 +910,7 @@ Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de t
 15. Apostar per les persones joves per a l'assessorament dels càrrecs institucionals en tots els àmbits.
 
 </amendable>
-<amendable id="6_0_6">
-
-**Estratègia institucional:**
+<amendable id="6_0_6" title="Estratègia institucional">
 
 1. Formar les noves persones joves regidores.
 2. Augmentar i activar la coordinació institucional en l'àmbit municipal.

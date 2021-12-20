@@ -186,7 +186,7 @@ L'accés als béns bàsics per a la vida i l'exercici dels drets no poden estar 
 </amendable>
 <amendable id="2_1_20">
 
-La vida pública i col\*lectiva siga ha de ser possible per a totes les persones. Volem una societat profundament democràtica, en què totes les persones, amb els seus drets garantits, puguen participar de la vida social amb els temps i recursos necessaris. Entenem la **participació** com a element substantiu de la democràtica real i deliberativa, que s'hauria de produir en el dia i que es basa en les xarxes comunitàries i ciutadanes.
+La vida pública i col·lectiva siga ha de ser possible per a totes les persones. Volem una societat profundament democràtica, en què totes les persones, amb els seus drets garantits, puguen participar de la vida social amb els temps i recursos necessaris. Entenem la **participació** com a element substantiu de la democràtica real i deliberativa, que s'hauria de produir en el dia i que es basa en les xarxes comunitàries i ciutadanes.
 
 </amendable>
 <amendable id="2_1_21">
@@ -409,7 +409,7 @@ La nostra resposta antifeixista la volem treballar des de la base, fent de la no
 </amendable>
 <amendable id="2_5_4">
 
-Un dels puntals en aquesta lluita ha de ser la defensa de la Declaració Universal dels **Drets Humans** (DUDH) com a garantia de respecte a les persones i les seues llibertats. Entenem el feminisme, l'ecologisme, l'internacionalisme, el cooperativisme o el republicanisme com a trets fonamentals que emanen de la DUDH i que juntament a la defensa de les sobiranies tant individuals com col\*lectives, articulen la nostra posició política de lluita antifeixista i de combat al model sociocultural que propugna el neoliberalisme.
+Un dels puntals en aquesta lluita ha de ser la defensa de la Declaració Universal dels **Drets Humans** (DUDH) com a garantia de respecte a les persones i les seues llibertats. Entenem el feminisme, l'ecologisme, l'internacionalisme, el cooperativisme o el republicanisme com a trets fonamentals que emanen de la DUDH i que juntament a la defensa de les sobiranies tant individuals com col·lectives, articulen la nostra posició política de lluita antifeixista i de combat al model sociocultural que propugna el neoliberalisme.
 
 </amendable>
 <amendable id="2_5_5">
