@@ -2,7 +2,7 @@
   <div class="document-wrapper">
     <div class="document-title">
       <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
-      <div v-if="canBeAmended" class="mb-3 mb-lg-0 mt-lg-2">
+      <div v-if="canBeAmended" class="mb-3 mb-lg-0 mt-lg-2 ms-3 ms-lg-0">
         <circly-button
           id="general-amendment"
           icon="plus"
