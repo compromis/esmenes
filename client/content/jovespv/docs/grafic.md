@@ -1,5 +1,5 @@
 ---
-title: Manual d'identitat visual
+title: Manual d'Identitat Visual Corporativa
 order: 4
 ---
 
