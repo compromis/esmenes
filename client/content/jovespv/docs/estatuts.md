@@ -1,5 +1,5 @@
 ---
-title: Ponència d'estatuts
+title: Estatuts
 order: 1
 ---
 
@@ -49,7 +49,7 @@ Els objectius de Joves PV són:
 </amendable>
 </amendable-section>
 
-<amendable-section id="T1" title="Títol primer. De les relacions amb Més-Compromís">
+<amendable-section id="T1" title="Títol primer. De les relacions amb Més - Compromís">
 <amendable article="7" title="Relacions entre Joves PV i Més">
 
 Joves PV i Més mantenen relacions estables, les quals s’inspiraran en els principis de lleialtat, bona fe i cooperació.
@@ -220,7 +220,7 @@ El Congrés Nacional està compost per:
 </amendable>
 <amendable article="24" title="Constitució i quòrum">
 
-1. El Congrés Nacional quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones que el composen.
+1. El Congrés Nacional quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones que el componen.
 2. En qualsevol cas, el Congrés Nacional quedarà vàlidament constituït en segona convocatòria, mitja hora després de la primera, amb independència del nombre de membres presents.
 
 </amendable>
@@ -309,7 +309,7 @@ L’Assemblea Nacional és el màxim òrgan decisori i de representació naciona
 1. Les propostes de modificació de l’ordre del dia es debatran al començament de l’Assemblea Nacional.  Excepcionalment, les propostes de punts de l’ordre del dia que requerisquen documentació adjunta s’hauran d’enviar necessàriament a la Coordinadora Nacional en un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària.
 2. Les esmenes es podran enviar a la Coordinadora Nacional entre la convocatòria de l’Assemblea i un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària. Excepcionalment, es podran fer esmenes in voce quan es tracte de documentació adjunta a punts proposats per a la modificació de l’ordre del dia.
 3. Les propostes de resolució es podran enviar a la Coordinadora Nacional entre la convocatòria de l’Assemblea i un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària. Excepcionalment, es podran presentar propostes de resolució fins al començament de l’assemblea sempre que esta aprove el seu caràcter d’urgència.
-4. Les propostes i esmenes poden ser individuals o col·lectives. Les propostes i esmenes col·lectives podran ser comarcals o signades per dos o més membres. En el cas de les comarcals, han d'estar aprovades per l'Assemblea Comarcal i visades, i la seua defensa ha d’estar delegada en la Secretaria Comarcal o en qui delegue.
+4. Les propostes i esmenes poden ser individuals o col·lectives. Les propostes i esmenes col·lectives podran ser comarcals o signades per dos o més membres. En el cas de les comarcals, han d'estar aprovades per l'Assemblea Comarcal i visades, i la seua defensa ha d’estar delegada a la Secretaria Comarcal o en qui delegue.
 
 </amendable>
 </amendable-section>
@@ -335,7 +335,7 @@ Són funcions de la Coordinadora Nacional:
 10. Contractar, gestionar i acomiadar el personal al servei de Joves PV segons el procediment establert.
 11. Aprovar la modificació del domicili social de Joves PV.
 12. Demanar l’assistència o la presentació d’informes a les persones membres de Joves PV que ocupen càrrecs institucionals.
-13. Elegir les persones representants de Joves PV a òrgans directius de les d’entitats en les que l’organització és part.
+13. Elegir les persones representants de Joves PV a òrgans directius de les d’entitats en les quals l’organització és part.
 14. Totes aquelles tasques relacionades amb l’execució, la representació i el govern de l’entitat descrites en els articles referits a les secretaries.
 
 </amendable>
@@ -506,23 +506,53 @@ La Comissió de Garanties està composta per tres membres.
 <amendable-section id="T5_C2" title="Capítol II. De la Comissió d’abordatge de violències masclistes i LGTBIfòbiques" level="3">
 <amendable article="51" title="Naturalesa">
 
+La Comissió d’abordatge de violències masclistes i LGTBIfòbiques és l’òrgan col·legiat d’instrucció i resolució de situacions i conflictes relatius a violències masclistes i LGTBIfòbiques.
+  
 </amendable>
 <amendable article="52" title="Funcions">
 
+Són funcions de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques:
+1. Presidir i moderar els procediments disciplinaris i sancionadors en matèria de violències masclistes i LGTBIfòbiques.
+2. Promoure la creació d’eines per a garantir espais lliures de violències masclistes i LGTBIfòbiques, juntament amb la Coordinadora Nacional.
+3. Coordinar-se amb la Coordinadora Nacional per a realitzar la tasca formativa i l’assessorament en matèria de violències masclistes i LGTBIfòbiques.
+4. Totes aquelles funcions previstes en el Protocol contra les agressions masclistes i LGTBIfòbiques.
+5. Coordinar-se amb la Coordinadora Nacional per a la difusió del Protocol.
+  
 </amendable>
 <amendable article="53" title="Composició">
 
+1. La Comissió d’abordatge de violències masclistes i LGTBIfòbiques està composta per quatre membres.
+2. La Comissió podrà nomenar persones externes a la mateixa pel seu perfil professional o per a comptar amb perfils que puguen empatitzar amb la víctima per raó del seu sexe, identitat o expressió de gènere i/o orientació sexual.
+  
 </amendable>
 <amendable article="54" title="Elecció, presa de possessió i mandat">
+
+1. Les persones que formen la Comissió d’abordatge de violències masclistes i LGTBIfòbiques seran elegides en el Congrés Nacional per mitjà del mètode de llista oberta. El procediment serà la presentació de candidatures individuals. Cada militant podrà votar un màxim de tres candidatures. Cada candidatura serà vàlida de proclamació si obté igual o més del 10% dels vots presents. Les candidatures vàlides no proclamades constituiran una llista de suplents ordenada en funció del nombre de vots obtinguts.
+2. La presa de possessió es farà efectiva una vegada proclamades les candidatures.
+3. El mandat de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques comença en el moment de la seua presa de possessió i acaba en la presa de possessió de la següent Comissió.
 
 </amendable>
 <amendable article="55" title="Vacants">
 
+1. Quedarà vacant un lloc de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques:
+  1. Per dimissió.
+  2. Per cessament del seu càrrec.
+  3. Per defunció.
+2. En el supòsit de vacant d’alguna persona de la Comissió, serà substituïda per la següent candidatura de la llista de suplents generada en el Congrés Nacional. Si s’esgota la llista de suplents, es repetirà el procediment d’elecció dels càrrecs en la següent Assemblea Nacional.
+  
 </amendable>
 <amendable article="56" title="Secretaria Tècnica">
 
+1. La Secretaria Tècnica és l’òrgan unipersonal especialitzat en matèria de violència masclista i LGTBIfòbica encarregada d’emetre l’informe preceptiu no vinculant durant un procés d’agressió.
+2. La Secretaria Tècnica estarà conformada per una persona que compte amb una formació acreditada específica en l’àmbit social, psicològic i/o jurídic per a l’atenció de persones víctimes de violència de gènere o que acredite experiència laboral en l’àmbit específic.
+3. La Secretaria Tècnica serà designada per la Coordinadora Nacional per majoria qualificada de dues terceres parts en la primera reunió després de la tria de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques. Posteriorment, se n’informarà a l’Assemblea Nacional.
+
 </amendable>
 <amendable article="57" title="Protocol contra agressions masclistes i LGTBIfòbiques">
+
+1. El Protocol contra les agressions masclistes i LGTBIfòbiques és el reglament d’aplicació enfront d’una agressió masclista o LGTBIfòbica. Regula, com a mínim, els àmbits d’actuació, el procediment d’actuació i els seus principis, i el règim sancionador.
+2. Serà d’aplicació, com a mínim, en tots els espais formals amb una convocatòria interna d'òrgans estatutaris, o amb una convocatòria interna o externa d’espais de dinamització, formació o debat polític.
+3. La seua aprovació i modificació serà funció de l’Assemblea Nacional.
 
 </amendable>
 </amendable-section>
@@ -976,12 +1006,13 @@ Aquell càrrec electe que en reiterades ocasions abandone les responsabilitats q
 </amendable>
 <amendable article="100" title="Codi ètic i de conducta">
 
-El règim disciplinari i sancionador es podrà desplegar per mitjà d’un Codi ètic i de conducta.
+1. El règim disciplinari i sancionador es podrà desplegar per mitjà d’un Codi ètic i de conducta.
+2. La seua aprovació i modificació serà funció de l’Assemblea Nacional.
 
 </amendable>
 <amendable article="101" title="Règim disciplinari i sancionador especial">
 
-Tindrà la consideració de règim disciplinari i sancionador especial aquell consegüent de les funcions de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques. Per a estos casos no seran d’aplicació els articles del present Títol i el règim es regularà per mitjà del Protocol contra agressions masclistes i LGTBIfòbiques.
+Tindrà la consideració de règim disciplinari i sancionador especial aquell consegüent de les funcions de la Comissió d’abordatge de violències masclistes i LGTBIfòbiques. Per a estos casos no seran d’aplicació els articles del present Títol i el règim es regularà per mitjà del Protocol contra les agressions masclistes i LGTBIfòbiques.
 
 </amendable>
 </amendable-section>
