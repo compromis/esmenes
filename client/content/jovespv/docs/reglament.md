@@ -151,7 +151,7 @@ En cas de dubte en la interpretació d’este Reglament o que sorgisca una qües
 </amendable>
 </amendable-section>
 
-<amendable-section id="DF" title="Disposició addicional">
+<amendable-section id="DF" title="Disposició final">
 <amendable id="DF1" title="Única. Vigor">
 
 Este Reglament entrà en vigor en el moment de la seua aprovació i fins al tancament de la sessió del IV Congrés Nacional de Joves PV - Compromís.
