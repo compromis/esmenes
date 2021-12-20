@@ -2,7 +2,7 @@
 title: IV Congrés Joves PV
 ---
 
-<img src="IV congres SER.png" alt="Imatge del IV Congrés de Joves PV" width="800">
+<img src="/docs/jovespv/header.png" alt="Ser. 19 de febrer 2022. Ontinyent, La Vall d'Albaida" style="width: 100%; max-width: 375px" class="mb-5 ms-2">
 
 <nuxt-link to="/jovespv/reglament" class="doc-button mb-4">
 Reglament congressual
@@ -21,5 +21,5 @@ Ponència estratègia
 </nuxt-link>
 
 <nuxt-link to="/jovespv/grafic" class="doc-button mb-4">
-Disseny gràfic
+Manual d'identitat visual corporativa
 </nuxt-link>

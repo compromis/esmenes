@@ -21,21 +21,21 @@
     <div class="amendable-actions">
       <div v-if="canBeAmended" class="amendable-actions-sticky py-3">
         <circly-button
-          :id="`art${article}-edit`"
+          :id="`art${indexId}-edit`"
           class="edit-button mb-lg-3"
           :aria-describedby="'text' + indexId"
-          @click="amendText('modification', `#art${article}-edit`)"
+          @click="amendText('modification', `#art${indexId}-edit`)"
           @mouseover="hovering = true"
           @mouseout="hovering = false"
         >
           Modifica
         </circly-button>
         <circly-button
-          :id="`art${article}-delete`"
+          :id="`art${indexId}-delete`"
           class="delete-button"
           icon="trash"
           :aria-describedby="'text' + indexId"
-          @click="amendText('deletion', `#art${article}-delete`)"
+          @click="amendText('deletion', `#art${indexId}-delete`)"
           @mouseover="hovering = true"
           @mouseout="hovering = false"
         >

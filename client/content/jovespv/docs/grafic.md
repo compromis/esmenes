@@ -1,5 +1,5 @@
 ---
-title: Disseny gràfic
+title: Manual d'identitat visual
 order: 4
 ---
 
