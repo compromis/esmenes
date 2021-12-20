@@ -65,7 +65,7 @@ Un dels reptes que la nostra organització té al davant és el del creixement i
 </amendable>
 <amendable id="1_1_2">
 
-En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en un **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col\*lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació. 
+En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en un **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col·lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació.
 
 </amendable>
 <amendable id="1_1_3">
@@ -87,7 +87,7 @@ Serà, per tant, imprescindible que la Coordinadora Nacional estiga pendent d'ac
 <amendable-section id="1_2" title="1.2. Acollida i dinamització" level="3">
 <amendable id="1_2_1">
 
-**Consolidar Joves PV com una xarxa personal** és un objectiu que dota al nostre projecte polític d'un alt potencial i valor que provoca més implicació i participació de la militància i és clau per a complir les fites que es vaja marcant Joves PV. 
+**Consolidar Joves PV com una xarxa personal** és un objectiu que dota al nostre projecte polític d'un alt potencial i valor que provoca més implicació i participació de la militància i és clau per a complir les fites que es vaja marcant Joves PV.
 
 </amendable>
 <amendable id="1_2_2">
@@ -127,7 +127,7 @@ Les trobades han servit també per a estendre lligams amb altres organitzacions 
 </amendable>
 <amendable id="1_2_9">
 
-L'evident èxit d'este model, però, no ens pot situar en el conformisme. Per això cal seguir incidint en el caràcter vertebrador de les trobades, impulsar l'organització d'activitats directament des dels col\*lectius comarcals dins de les mateixes trobades nacionals i augmentar els mecanismes d'ajuda per a militants que viuen lluny del lloc de celebració. També, i donat el context actual, resulta imprescindible que Joves PV incorpore unes perspectives feminista i ecologista com a elements fonamentals a l'hora de plantejar i organitzar les trobades.
+L'evident èxit d'este model, però, no ens pot situar en el conformisme. Per això cal seguir incidint en el caràcter vertebrador de les trobades, impulsar l'organització d'activitats directament des dels col·lectius comarcals dins de les mateixes trobades nacionals i augmentar els mecanismes d'ajuda per a militants que viuen lluny del lloc de celebració. També, i donat el context actual, resulta imprescindible que Joves PV incorpore unes perspectives feminista i ecologista com a elements fonamentals a l'hora de plantejar i organitzar les trobades.
 
 </amendable>
 <amendable id="1_2_10">
@@ -144,7 +144,7 @@ L'enfortiment i millora de l'estructura orgànica de Joves PV ha de passar pel f
 </amendable>
 <amendable id="1_3_2">
 
-La participació com a dret a ser informades, a ser consultades i a prendre partit és un símptoma de maduració democràtica i activació col·lectiva, i aconsegueix legitimitat en les decisions, millora de les decisions, fortalesa de l'organització, així com la capacitat de localitzar persones col\*laboradores disponibles.
+La participació com a dret a ser informades, a ser consultades i a prendre partit és un símptoma de maduració democràtica i activació col·lectiva, i aconsegueix legitimitat en les decisions, millora de les decisions, fortalesa de l'organització, així com la capacitat de localitzar persones col·laboradores disponibles.
 
 </amendable>
 <amendable id="1_3_3">
@@ -208,7 +208,7 @@ Hem de continuar defensant i treballant perquè totes les estratègies internes 
 </amendable>
 <amendable id="1_5_3">
 
-El treball realitzat durant anys de lluita ha provocat que Joves PV assumisca la defensa del valencianisme i de l'esquerra, però hem de seguir avançant i **fer de Joves PV un espai ecofriendly** amb l'elaboració d'un **Pla de sostenibilitat** que augmente la presència i influència dels criteris ambientals en la presa de decisions. 
+El treball realitzat durant anys de lluita ha provocat que Joves PV assumisca la defensa del valencianisme i de l'esquerra, però hem de seguir avançant i **fer de Joves PV un espai ecofriendly** amb l'elaboració d'un **Pla de sostenibilitat** que augmente la presència i influència dels criteris ambientals en la presa de decisions.
 
 </amendable>
 <amendable id="1_5_4">
@@ -220,7 +220,7 @@ Per altra banda, també s'ha de seguir treballant per **fer de Joves PV un espai
 <amendable-section id="1_6" title="1.6. Coordinació" level="3">
 <amendable id="1_6_1">
 
-En els últims dos anys l’estructura orgànica de Joves PV ha crescut en número de militància activa i de col·lectius comarcals i locals constituïts; fita a celebrar i estar d’enhorabona, però també per a marcar nous reptes com millorar la comunicació interna i la coordinació. 
+En els últims dos anys l’estructura orgànica de Joves PV ha crescut en número de militància activa i de col·lectius comarcals i locals constituïts; fita a celebrar i estar d’enhorabona, però també per a marcar nous reptes com millorar la comunicació interna i la coordinació.
 
 </amendable>
 <amendable id="1_6_2">
@@ -297,7 +297,7 @@ A més, és indispensable **mantindre una xarxa d'aliades que remen al nostre co
 </amendable>
 <amendable id="2_2_4">
 
-Totes les entitats a les quals donem suport i secundem són només un altre mecanisme per a demostrar qui som i què volem, veient reflectits tots els valors que defensem i reivindiquem. És per això que, a més d'**animar als i les membres de Joves PV a cuidar i tindre present estes relacions**, encoratgem a la participació activa dels col\*lectius locals i comarcals per a trobar als seus propis territoris entitats que complisquen amb estes sinergies.
+Totes les entitats a les quals donem suport i secundem són només un altre mecanisme per a demostrar qui som i què volem, veient reflectits tots els valors que defensem i reivindiquem. És per això que, a més d'**animar als i les membres de Joves PV a cuidar i tindre present estes relacions**, encoratgem a la participació activa dels col·lectius locals i comarcals per a trobar als seus propis territoris entitats que complisquen amb estes sinergies.
 
 </amendable>
 <amendable id="2_2_5">
@@ -347,7 +347,7 @@ Pel que fa a l'habitatge, la **manca d'associacionisme juvenil que lluite per un
 </amendable>
 <amendable id="2_2_14">
 
-Encara més, després de la pandèmia de la COVID-19**, la falta de salut mental s'ha posat en el focus mediàtic**, fent que aquesta ocupe lloc en els debats polítics i socials. Entitats com la **Federació Salut Mental CV** promouen la salut mental i sensibilitzen sobre este. Entenem que estrènyer llaços amb esta entitat és necessari per a crear el nostre argumentari sobre estes matèries. Per a anar més enllà, podríem convidar a esta organització i als col\*legis professionals com a ponents a les nostres formacions en esta matèria per a ampliar els nostres coneixements sobre estos temes tan necessaris  i integrar-ho en els nostres plans d'acció.
+Encara més, després de la pandèmia de la COVID-19**, la falta de salut mental s'ha posat en el focus mediàtic**, fent que aquesta ocupe lloc en els debats polítics i socials. Entitats com la **Federació Salut Mental CV** promouen la salut mental i sensibilitzen sobre este. Entenem que estrènyer llaços amb esta entitat és necessari per a crear el nostre argumentari sobre estes matèries. Per a anar més enllà, podríem convidar a esta organització i als col·legis professionals com a ponents a les nostres formacions en esta matèria per a ampliar els nostres coneixements sobre estos temes tan necessaris i integrar-ho en els nostres plans d'acció.
 
 </amendable>
 <amendable id="2_2_15">
@@ -372,7 +372,7 @@ Escola Valenciana és una federació que aglutina moltes entitats locals, comarc
 </amendable>
 <amendable id="2_2_19">
 
-Per últim, trobem l'ACV Tirant lo Blanc i la Fundació Nexe, una associació cívica valenciana i una fundació de caràcter valencianista amb les quals hem col\*laborat al llarg dels últims anys amb la formulació d'ideari polític i realització de seminaris, activitats formatives i projectes de gran envergadura com el documental El Llegat. Esta col\*laboració oferix una oportunitat a les persones membres de Joves PV perquè es formen amb les diferents activitats que esta associació organitza, així com espais de debat i reflexió al voltant de polítiques amb perspectiva sobiranista i valencianista. A més, cal considerar la proximitat de les militàncies com una oportunitat d'establir relacions fortes.
+Per últim, trobem l'ACV Tirant lo Blanc i la Fundació Nexe, una associació cívica valenciana i una fundació de caràcter valencianista amb les quals hem col·laborat al llarg dels últims anys amb la formulació d'ideari polític i realització de seminaris, activitats formatives i projectes de gran envergadura com el documental El Llegat. Esta col·laboració oferix una oportunitat a les persones membres de Joves PV perquè es formen amb les diferents activitats que esta associació organitza, així com espais de debat i reflexió al voltant de polítiques amb perspectiva sobiranista i valencianista. A més, cal considerar la proximitat de les militàncies com una oportunitat d'establir relacions fortes.
 
 </amendable>
 <amendable id="2_2_20">
@@ -382,12 +382,12 @@ Al mateix temps, cal **fer de Joves PV l'organització de referència en la llui
 </amendable>
 <amendable id="2_2_21">
 
-L'emergència climàtica és un fet del qual ja estem vivint les seues primeres conseqüències. És per això que cal actuar immediatament. L'entitat referent per a Joves PV en matèria d'ecologisme és el moviment **Fridays For Future** que, respectant la seua voluntat de ser apartidistes, se'ls pot convidar a la col\*laboració en diferents activitats. També ha de ser una font d'argumentari al pla ecologista.
+L'emergència climàtica és un fet del qual ja estem vivint les seues primeres conseqüències. És per això que cal actuar immediatament. L'entitat referent per a Joves PV en matèria d'ecologisme és el moviment **Fridays For Future** que, respectant la seua voluntat de ser apartidistes, se'ls pot convidar a la col·laboració en diferents activitats. També ha de ser una font d'argumentari al pla ecologista.
 
 </amendable>
 <amendable id="2_2_22">
 
-A més, al País Valencià hi ha una **gran varietat d'associacions ecologistes**, locals i comarcals, com per exemple Per l'Horta o Indignats amb Renfe, amb els quals es poden fer col\*laboracions puntuals. Destaquem, a més, la necessitat d'estendre transversalment el pensament ecologista i la sostenibilitat als diversos espais orgànics i polítics on ens trobem.
+A més, al País Valencià hi ha una **gran varietat d'associacions ecologistes**, locals i comarcals, com per exemple Per l'Horta o Indignats amb Renfe, amb els quals es poden fer col·laboracions puntuals. Destaquem, a més, la necessitat d'estendre transversalment el pensament ecologista i la sostenibilitat als diversos espais orgànics i polítics on ens trobem.
 
 </amendable>
 <amendable id="2_2_23">
@@ -397,7 +397,7 @@ En matèria de feminisme hem vist com en els últims mesos s'ha dividit el movim
 </amendable>
 <amendable id="2_2_24">
 
-En matèria de diversitat LGTBI pensem que els col\*lectius que més s'apropen als nostres valors són **LAMBDA **i**Diversitat**. Hem d'acompanyar estes organitzacions a tots els actes i activitats que des d'estes convoquen, així com les convocatòries de concentracions o manifestacions. Entenem que també són unes entitats on poder reflectir-se per a redactar argumentari. Així mateix, també existeixen nombroses entitats locals i comarcals de defensa dels drets LGTBI amb qui també podem treballar territorialment.
+En matèria de diversitat LGTBI pensem que els col·lectius que més s'apropen als nostres valors són **LAMBDA **i**Diversitat**. Hem d'acompanyar estes organitzacions a tots els actes i activitats que des d'estes convoquen, així com les convocatòries de concentracions o manifestacions. Entenem que també són unes entitats on poder reflectir-se per a redactar argumentari. Així mateix, també existeixen nombroses entitats locals i comarcals de defensa dels drets LGTBI amb qui també podem treballar territorialment.
 
 </amendable>
 <amendable id="2_2_25">
@@ -417,13 +417,12 @@ A més a més, cal fer esment a la importància que posseeix l'educació, tant f
 </amendable>
 <amendable id="2_2_28">
 
-Finalment, el sobiranisme i l'internacionalisme formen part de l'ADN de la nostra organització, per això se'ns fa imprescindible **establir i augmentar vincles amb altres organitzacions internacionals sobiranistes**. Considerem estratègicament prioritari mantindre unes relacions fluides amb aquelles organitzacions que, pel seu ideari, ens resulten més pròximes (amb especial atenció a les del nostre àmbit lingüístic) i que respecten la nostra concepció del fet nacional valencià d'una manera inequívoca i sense ingerències, mostrant-nos amb naturalitat com el referent polític jove del valencianisme. Així, continuarem col\*laborant amb **Mallorca Nova**, **Galiza Nova**, **Gazte Abertzaleak**, **Jovent Republicà**, **Gazteok Bai**, **Joves Ecosocialistes** i, **Más Madrid Joven** i,  **Chobentú Aragonesista** i **Juventudes Andalucistas**.
+Finalment, el sobiranisme i l'internacionalisme formen part de l'ADN de la nostra organització, per això se'ns fa imprescindible **establir i augmentar vincles amb altres organitzacions internacionals sobiranistes**. Considerem estratègicament prioritari mantindre unes relacions fluides amb aquelles organitzacions que, pel seu ideari, ens resulten més pròximes (amb especial atenció a les del nostre àmbit lingüístic) i que respecten la nostra concepció del fet nacional valencià d'una manera inequívoca i sense ingerències, mostrant-nos amb naturalitat com el referent polític jove del valencianisme. Així, continuarem col·laborant amb **Mallorca Nova**, **Galiza Nova**, **Gazte Abertzaleak**, **Jovent Republicà**, **Gazteok Bai**, **Joves Ecosocialistes** i, **Más Madrid Joven** i, **Chobentú Aragonesista** i **Juventudes Andalucistas**.
 
 </amendable>
 <amendable id="2_2_29">
 
 En l'àmbit continental i coherents amb la nostra defensa de l'Europa dels pobles s'establiran de manera prioritària relacions amb aquelles organitzacions d'esquerres integrants de les joventuts de l'**Aliança Lliure Europea Jove (EFAyY)**. Les relacions han de ser d'enriquiment cultural i cooperació entre pobles, sense perdre l'objectiu de donar a conéixer i fer prevaldre les inquietuds i idiosincràsia valenciana en coherència amb allò establert en la nostra ponència política. Així mateix, donada la naturalesa diversa de l'EFAyY, en què conviuen partits i organitzacions de distintes perspectives ideològiques, sempre donarem suport a aquelles que promouen la interculturalitat i el respecte mutu amb un posicionament ideològic d'esquerres.
-
 
 </amendable>
 <amendable id="2_2_30">
@@ -440,32 +439,494 @@ Per a acabar, cal deixar constància que Joves PV trencarà les seues aliances i
 </amendable-section>
 
 <amendable-section id="3" title="3. Estratègia comunicativa">
+
+<amendable id="3_0_1">
+
+És innecessari parar-se a valorar la urgència/importància de la comunicació en un món en què la digitalització és una realitat que ha canviat la forma d'entendre les relacions socials, la qual cosa inclou també la política. Les estratègies de comunicació política s'han convertit en factors fonamentals per a guanyar-se la ciutadania (o l'electorat) en un context en què, en molts casos, i malgrat que no siga el nostre model, els personatges polítics tenen més pes que les ideologies que defensen.
+
+</amendable>
+
+<amendable id="3_0_2">
+
+En els últims anys la política s'ha emmarcat en un espai en què les idees que defensen els partits no són l'únic element que determina que la ciutadania es decidisca per votar una opció o altra. Qui defensa estes idees i la forma en què ho fa a través de la comunicació política s'ha convertit en part fonamental d'este procés electoral. Quan els ideals d'un partit no calen en la ciutadana per males estratègies de comunicació política, l'element originari en què s'ha basat tradicionalment la política, que seria l'ideari defensat, queda en un segon plànol. D'esta manera, les estratègies de comunicació política juguen un paper fonamental en els rols que desenvolupen els partits polítics en les democràcies.
+
+</amendable>
+<amendable id="3_0_3">
+
+Però no hem de caure en l'electoralisme, o el "fanatisme comunicatiu" i l'addicció dels "likes". Estem ací per un convenciment ideològic, i per això tindre una estratègia política forta i reforçada sempre serà prioritari; però hem de tindre clar que amb això sols no anem a cap lloc. Per tant, l'estratègia de comunicació i la imatge que es vulga transmetre és un factor fonamental i decisiu per tal d'arribar a la ciutadania.
+
+</amendable>
+<amendable id="3_0_3">
+
+L'activitat política s'haurà de coordinar, per tant, amb l'acció comunicativa perquè el pensament polític de Joves PV tinga la major i millor difusió possible.
+
+</amendable>
+<amendable id="3_0_4">
+
+A més, si bé Joves PV no contempla l'objectiu de presentar-se com a organització a unes eleccions, i centra gran part del seu esforç en construir un espai de participació i creixement, la finalitat electoral li és intrínseca com a organització política i com a secció juvenil d'un partit polític, que pretén ser una eina transformadora de la societat per mitjà del govern de les institucions del seu País. Per això, les finalitats comunicatives no se centraran solament en la difusió de l'activitat amb l'objectiu de la mera supervivència com a organització, sinó també en la voluntat del convenciment d'una majoria de la societat que permeta les transformacions socials que defensa.
+
+</amendable>
+<amendable id="3_0_5">
+
+Per a tot això, caldrà tindre en compte que la comunicació és un procés dinàmic i en transformació continuada, a què haurem d'adaptar-nos i en què la innovació serà una de les qüestions claus.
+
+</amendable>
+<amendable id="3_0_6">
+
+De fet, el paper de les persones joves en la comunicació és més que important. Per això Joves PV ha de ser una organització referent en les estratègies comunicatives. Però este fet també ens ha de fer pensar en la capacitat que tenim respecte a Més i a Compromís: si les persones joves som les més capacitades per a la transformació comunicativa, serà lògic que ocupem llocs de responsabilitat o d'aportació en este sentit. Per això hem de ser capaces de proposar i aplicar canvis en les comunicacions del partit, la coalició, les institucions i els nostres lideratges.
+
+</amendable>
+<amendable id="3_0_7">
+
+Per tot això, proposem que les estratègies de comunicació de Joves PV seguisquen el camí de la professionalització de l'acció comunicativa i l'amplificació del seu impacte.
+
+</amendable>
 <amendable-section id="3_1" title="3.1. Professionalització" level="3">
 
+<amendable id="3_1_1">
+
+Serà un objectiu fonamental de Joves PV **estar a l'avantguarda de les noves tendències comunicatives**. I per a això cal tindre en compte la varietat de mitjans de comunicació que, hui dia, existeixen.
+
+</amendable>
+<amendable id="3_1_2">
+
+D'una banda, els mitjans elegits per a llançar campanyes i missatges polítics han anat variant els últims anys ja que, per exemple, la premsa o la televisió ja no tenen el mateix públic que tenien abans. L'aposta més forta i més nova són, aleshores, les **xarxes socials**.
+
+</amendable>
+<amendable id="3_1_3">
+
+És evident que les xarxes tenen la màxima importància per a nosaltres, sobretot perquè també la tenen per a les persones joves. Sincerament, les persones joves no dediquem més de 15 segons a visualitzar una publicació o un perfil (que és el temps màxim que dura una stori d'Instagram, ni llegim un fil de Twitter, a no ser que el contingut tinga esquers inicials que ens atraguen a continuar. Per això cal apostar per la **immediatesa** i complir la regla de **no generar contingut de més de 15 segons** (sobretot a Twitter i Instagram) i que siga **visualment cridaner** sense haver de fer zoom o esperar a què es carregue i es reproduïsca.
+
+</amendable>
+<amendable id="3_1_4">
+
+Encara com també hem d'anar amb compte amb la "política del tuit", ja que entenem la comunicació i el llenguatge com un instrument imprescindible per al diàleg, la participació i la convivència democràtica, i per tant caldrà mantindre un **equilibri** entre els 280 caràcters o 15 segons i la **comunicació d'idees més extensa**. I també caldrà mantindre certa comunicació en **mitjans tradicionals**, malgrat la pèrdua de lectors i televidents, perquè els continuem considerant eines imprescindibles per a la democratització de la informació, sobretot si són públics, i, per què no, per a fer-nos valdre com a joventut a la resta de la societat (de més edat) que encara continua fent-los servir.
+
+</amendable>
+<amendable id="3_1_5">
+
+Caldrà tindre en compte l'auge de noves xarxes socials o ferramentes emergents en xarxes no tan noves. És el cas de **Tik Tok** i de **Reels d'Instagram**.
+
+</amendable>
+<amendable id="3_1_6">
+
+D'altra banda, la política s'aproxima a les xarxes socials d'una forma poc eficient, confonent la modulació del missatge i creuant audiències. És fàcil trobar missatges creuats en xarxes socials que no els correspon i dirigits a un públic que ni tan se vol és potencial usuari d'eixa xarxa social. Açò ocorre per exemple quan s'accedeix al perfil d'un partit polític en Facebook i en Twitter i el contingut és exactament el mateix, que s'ha copiat i pegat el post i la mateixa selecció de fotos sobre l'acte de torn. Per això, serà clau l'**adequació i adaptació del missatge** a cada xarxa social, tenint en compte els formats i els públics.
+
+</amendable>
+<amendable id="3_1_7">
+
+De fet, l'anàlisi del **públic** a qui va dirigit el missatge serà una de les qüestions fonamentals per a l'èxit del mateix. Mentre s'ha de tindre en compte que cada xarxa aplega a públics d'edats diferents (14-24 anys Tik Tok; 18-30 anys Instagram; 16-22 anys Reels i Stories d'Instagram; +18 anys Twitter), també cal considerar que n'hi ha públics molt diversos en gustos que caldrà estudiar i segmentar per a aterrar el missatge el màxim possible.
+
+</amendable>
+<amendable id="3_1_8">
+
+I una vegada segmentada la comunicació, és fàcil passar a aplicar estratègies de **publicitat** pagada a les xarxes socials, amb públics concrets, i, seguint totes les directrius marcades per les xarxes socials quant a els formats i els estils més recomanats per a les publicacions promocionades, aconseguir amplificar exponencialment l'impacte de les nostres comunicacions (sobretot si l'objectiu de les mateixes és fer-les virals).
+
+</amendable>
+<amendable id="3_1_9">
+
+Per tot això, cal **continuar apostant per l'assessorament de perfils professionals en l'acció comunicativa**. Es parla de **professionalització** quan la comunicació, incloent l'administració i generació de continguts de xarxes socials, està en mans de professionals. Esta professionalització de la comunicació en política propicia que cada proposta, cada política, cada llei, cada candidat/a que pretenga obtindre el suport de l'opinió pública és un producte, i com a tal deu ser perfilat fins el més mínim detall i sotmés a un procés de **branding**.
+
+</amendable>
+<amendable id="3_1_10">
+
+De fet, serà imprescindible valorar quin paper juguen els nostres **lideratges** en les comunicacions. Joves PV creu en els lideratges compartits i transformacionals, i per això haurà de jugar de manera equilibrada entre la promoció del caràcter compartit del lideratge, per mitjà de la visibilització del màxim de persones membres, amb la projecció de persones que s'elegisquen per a representar a l'organització en espais de responsabilitat i de presa de decisions.
+
+</amendable>
+<amendable id="3_1_11">
+
+I, malgrat la voluntat de professionalització, cal ser conscients que no tenim diners il·limitats per a contractar personal tècnic que ens assistisca ni professionals o empreses externes que ens ajuden de manera continuada o per a complir amb tots els objectius que ens marquem. Per això, una bona estratègia serà **apostar perquè gent professional de la comunicació** (des de les seues diverses vessants) **se sume a Joves PV**, de manera que puguen desenvolupar tasques voluntàries de coordinació i aportació a l'estratègia comunicativa de l'organització.
+
+</amendable>
+<amendable id="3_1_12">
+
+Per últim, hem d'**apostar per una producció comunicativa tàctica i estètica**. La tàctica i l'estètica seran dos elements fonamentals per a l'èxit de les estratègies comunicatives, també les implementades en la producció o la materialització d'elements comunicatius. D'una banda, cal buscar els millors moments, els millors llocs, els millors missatges, el millor públic i els millors continguts perquè les comunicacions, les accions i els actes tinguen com més impacte millor. I d'altra banda, cal perfilar els millors estils, les millors composicions, els millors elements, els millors colors i les millors tipografies perquè l'impacte siga com més positiu millor.
+
+</amendable>
 </amendable-section>
+
 <amendable-section id="3_2" title="3.2. Amplificació" level="3">
 
+<amendable id="3_2_1">
+
+L'objectiu de la majoria d'estratègies comunicatives rau en la necessitat d'arribar a com més persones millor. Sobretot en els casos en què les comunicacions es preparen per a arribar a públics concrets i menuts, necessites disposar de xarxes de persones entre les quals trobar el teu públic seleccionat. Per això, serà un objectiu intrínsec el d'**augmentar el nombre de seguidors i seguidores en les xarxes socials**.
+
+</amendable>
+<amendable id="3_2_2">
+
+La qüestió està clara: com més atractiu i com més viral siga el contingut publicat, més gent acabarà sumant-se com a seguidora de les nostres xarxes. Es tractarà, aleshores, de crear **continguts amb la tàctica i l'estètica** que parlàvem abans. L'objectiu: aconseguir que compartisquen el contingut com més persones millor, ja no tant per obligació (la nostra pròpia militància), sinó per identificació. Fins ara, els vídeos, els posicionaments clars, i els sentiments han estat elements claus per a fer créixer una xarxa social com l'Instagram de Joves PV de 1.500 a 3.000 seguidors/es en menys de dos anys.
+
+</amendable>
+<amendable id="3_2_3">
+
+També podem fer servir altres **estratègies que ajuden a la identificació amb els nostre comptes**, amb reclams perquè la gent vulga clicar "seguir", com usar imatges de persones (que mostren proximitat i tracte entre iguals), combinar les fotografies reals amb composicions dissenyades, mostrar naturalitat en l'ús de les xarxes (equilibrant l'estètica de les publicacions "preparades" amb la improvisació), o usar imatges amb capacitat de moure a la gent (de fer-la sentir coses).
+
+</amendable>
+<amendable id="3_2_4">
+
+A més, també cal considerar les xarxes socials com una via important per al creixement de militància de Joves PV. Com més joves ens seguisquen, més possibilitats n'hi haurà que se sumen a la nostra organització. Per això també caldrà tindre en compte la **capacitat de contacte** que tenim **amb els nostres seguidors i les nostres seguidores** i aprofitar-la, explorant els seus gustos, interactuant, fent-les partícips d'accions comunicatives, o convidant-les a participar en actes i activitats.
+
+</amendable>
+<amendable id="3_2_5">
+
+També caldrà tindre en compte en este aspecte les noves xarxes socials o ferramentes emergents en xarxes no tan noves. És el cas de Tik Tok i de Reels d'Instagram. També haurem d'**augmentar el contingut en xarxes de gran impacte com Tik Tok i Instagram**.
+
+</amendable>
+<amendable id="3_2_6">
+
+Per una part, **Instagram** va estar la xarxa més emergent fins 2020, encara que no ha parat d'actualitzar-se amb noves ferramentes i altres moltes novetats que l'han mantinguda com la xarxa més usada per part de joves entre 20 i 30 anys. Es tracta d'una xarxa en constant actualització, que va canviant els seus paràmetres de publicitat, o **algoritmes**, que s'han d'anar descobrint i estudiant per tal d'optimitzar al màxim el seu ús (durada de vídeos, proporció de publicacions, maneres de compartir el contingut, etc.). A més, particularment, trobem els **Reels d'Instagram** com una nova ferramenta sorgida com a conseqüència de la "moda Tik Tok", però que no s'usa tant per al mimetisme com per a mostrar contingut de vídeo curt, amb capacitat per a arribar a molta més gent (gràcies als algoritmes previstos) i, moltes vegades, associat a fils musicals en tendència.
+
+</amendable>
+<amendable id="3_2_7">
+
+Per l'altra part, trobem **Tik Tok** com la xarxa més emergent dels últims dos anys, amb una crescuda exponencial des de l'esclat de la pandèmia mundial de la COVID-19, sobretot entre les persones més joves, de 13 a 20 anys. Per tant, Tik Tok ens hauria de permetre connectar amb este públic, que podria ser el relleu i el futur de la nostra organització. De fet, la comunicació política ja s'ha endinsat en este món. Si les persones més joves estan a Tik Tok, allà també hem d'estudiar el llançament de missatges; això sí, sempre dins del codi que s'use en esta xarxa social més desenfadada i, sobretot, sense fer el ridícul.
+
+</amendable>
+<amendable id="3_2_8">
+
+Tik Tok es caracteritza per la brevetat dels continguts, la immediatesa d'ús i consum, la viralitat, l'amateurisme, la música, l'humor, la paròdia i els "challenges". Entre els continguts més exitosos es troben: usuaris o usuàries que es graven fent playback d'una cançó de moda (o ballant-la), "challenges" o desafiaments que es tornen virals, o continguts humorístics de fragments d'àudio que es reutilitzen per tendència. Es tracta, per tant, de continguts que no estem acostumades a crear, que se n'ixen del to usual. I com que es tracta d'una xarxa social relativament nova, no n'hi ha massa referències d'organitzacions polítiques juvenils que l'usen. Per això **caldrà crear un estil propi**, amb continguts especialment pensats i creats per a aparéixer ahí. No es tracta de replicar un vídeo que compartim prèviament a Instagram, perquè els registres són diferents. Segurament, el més fàcil serà posar a treballar en esta línia estratègica a persones de la nostra organització amb el perfil de públic de Tik Tok, que l'usen freqüentment, i que tinguen més idees per a fer-lo servir.
+
+</amendable>
+<amendable id="3_2_9">
+
+Per últim, en la línia de no abandonar la relació amb els mitjans tradicionals, caldrà apostar per **aparéixer més als mitjans de comunicació**. En este sentit, l'aposta per tindre bons contactes amb els mitjans valencians més llegits, vistos i escoltats, i també amb mitjans locals, afavorirà la nostra capacitat d'aparéixer per mitjà de notes de premsa, articles d'opinió, tertúlies, notícies o altres programes. Caldrà saber, també, aprofitar esta presència com a suport de la nostra acció política en la comunicació en les xarxes socials.
+
+</amendable>
 </amendable-section>
 </amendable-section>
 
 <amendable-section id="4" title="4. Estratègia electoral">
+<amendable id="4_0_1">
+
+Compromís va arribar a les eleccions autonòmiques de 2015 amb l'objectiu d'il·lusionar i implicar tothom amb la idea d'un País Valencià valent, combatiu i social. Els primers quatre anys de força parlamentària i de govern a la Generalitat Valenciana van servir per a sanejar les institucions valencianes, revertir la desfeta del PP i engegar polítiques socials i projectes ambiciosos amb la mirada posada en el llarg termini, però també en el curt termini i en les accions i vivències diàries i quotidianes.
+
+</amendable>
+<amendable id="4_0_2">
+
+L'any 2019, malgrat el complicat i desafortunat context electoral del mes d'abril, va servir per a consolidar el govern del canvi. Esta vegada Compromís va acudir a les urnes amb un programa de govern ambiciós en l'àmbit de la joventut, especialment, pel treball de formulació, debat social i consens de propostes liderat, majoritàriament, per Joves PV.
+
+</amendable>
+<amendable id="4_0_3">
+
+Com dèiem, si bé Joves PV no contempla l'objectiu de presentar-se com a organització a unes eleccions, i centra gran part del seu esforç en construir un espai de participació i creixement, la finalitat electoral li és intrínseca com a organització política i com a secció juvenil d'un partit polític, que pretén ser una eina transformadora de la societat per mitjà del govern de les institucions del seu País.
+
+</amendable>
+<amendable id="4_0_4">
+
+Per això, d'entre els principals projectes que la nostra organització pot afrontar, els processos electorals seran cites ineludibles. És més, Joves PV té un paper fonamental. Per això, entre altres qüestions, en el Protocol de relacions entre Joves PV i Més es marca que, "en les conteses electorals en què participe Més o la coalició en què este s'integre, Joves PV té l'obligació de realitzar una campanya dirigida a joves, en coordinació amb la campanya general".
+
+</amendable>
+<amendable id="4_0_5">
+
+Ens hem de preparar, doncs, per al proper període electoral previst per a l'any 2023 o, fins i tot, per al seu inici l'any 2022\. Compromís l'afronta amb moltes debilitats, fruit d'un context reforçat pel PSOE i amb dificultats organitzatives al si de la coalició. Més - Compromís l'afronta amb una estructura orgànica nacional reforçada i amb possibilitats d'engegar una maquinària de coordinació electoral en tots els àmbits. Joves PV l'afronta amb una organització activa i amb la convicció de guanyar presència a les institucions.
+
+</amendable>
+
 <amendable-section id="4_1" title="4.1. Tàctica" level="3">
+
+<amendable id="4_1_1">
+
+El context en què Compromís, Més i Joves PV afronten el pròxim període electoral, ens obliguen a marcar-nos l'objectiu prioritari i essencial de **constituir una maquinària electoral per a preparar les pròximes eleccions municipals, valencians i estatals**. Una maquinària pròpia, de Joves PV, amb molta dedicació jove, però amb la capacitat de coordinar-se i aportar a l'estructura de campanya de Més i Compromís.
+
+</amendable>
+<amendable id="4_1_2">
+
+Per això, els Estatuts proposats per al IV Congrés Nacional inclouen la creació d'un òrgan anomenat **Comité Electoral**, que serà la traducció d'este objectiu. Es tracta d'un òrgan que s'haurà de crear com més prompte millor i que haurà de constituir un equip potent, professional, multidisciplinar i amb perspectives diverses, on la visió estratègica, la capacitat de comunicació política i el coneixement de l'organització, el partit i la coalició tindran una importància especial.
+
+</amendable>
+<amendable id="4_1_3">
+
+Principalment, el Comité Electoral haurà de dur a terme totes les accions necessàries per tal d'assolir els objectius que plantegem en este apartat d'estratègia electoral. Entre altres funcions, caldrà que assumisca la coordinació amb Més i Compromís, la redacció dels programes electorals, la identificació i formació de lideratges, la creació de la campanya o la confecció de les llistes.
+
+</amendable>
+<amendable id="4_1_4">
+
+En primer lloc, caldrà encetar els contactes amb **Més** i **Compromís** per a organitzar la coordinació de les estructures electorals i, sobretot, planificar els treballs que cal fer conjuntament: programes electorals, lideratges i campanya. Una de les oportunitats que gaudim per a la bona coordinació és que Joves PV haurà de formar part, segons el Protocol de relacions, del Comité Electoral Nacional de Més i, per tant, probablement, de l'estructura electoral de Compromís.
+
+</amendable>
+<amendable id="4_1_5">
+
+En segon lloc, per al treball de **lideratges**, serà interessant sumar-se o coordinar-se amb els mecanismes de treball que ja ha encetat Més per a l'anàlisi territorialitzat, poble a poble, de la situació electoral, sobretot, per a fer front a les eleccions municipals de 2023\. Una de les principals fortaleses del nostre partit és l'estructura municipalista. També la xarxa municipal és una de les fortaleses amb què compta Joves PV en l'actualitat. Per això, un serà prioritari treballar per a **aconseguir el màxim nombre de pobles amb persones joves en les llistes electorals municipals**.
+
+</amendable>
+<amendable id="4_1_6">
+
+Si bé en 2019 el treball d'identificació d'entre 200 i 300 persones joves candidates a les eleccions municipals per Compromís (no totes de Joves PV) es va fer una vegada constituïdes les llistes, esta vegada seria idoni començar amb passos previs: usar la informació que disposem sobre la nostra xarxa municipalista actual per a estudiar quina és la situació per a afrontar 2023 (fortaleses i debilitats). Podrà ser positiu apuntar-se als treballs encetats per l'Àrea d'Estratègia de Més i aprofitar així els fluxes d'informació per a fer valdre les persones joves com capaces i com una aposta de present i de futur per a l'èxit electoral en els pobles. En este sentit, ens marcarem l'objectiu d'**apostar pels lideratges joves per a encapçalar llistes electorals municipals**.
+
+</amendable>
+<amendable id="4_1_7">
+
+A més, caldrà mantindre un bon contacte amb la direcció nacional de Més de cara el treball dels lideratges per a les eleccions valencianes i estatals. En el Protocol de relacions es fixa que "Més garantirà la presència de persones joves perquè s'assolisca, com a mínim, el 20% de la llista titular que li corresponga. Per a confecció d'estes llistes, i abans de qualsevol procediment d'elecció interna, Més i Joves PV hauran de signar un acord de mecanismes que garantisquen esta presència, amb fórmules correctores per a garantir-ne també la posterior elecció". Amb això, hauríem d'**aconseguir representació, directa o indirecta, de Joves PV en les llistes electorals de Compromís**.
+
+</amendable>
+<amendable id="4_1_8">
+
+També caldrà **treballar lideratges perquè siguen candidats/es**, és a dir, traduir de l'anàlisi anomenat anteriorment les necessitats formatives i de suport que necessiten els nostres lideratges per tal de ser-ho, i proposar accions per a abordar-les, com la formació o l'assessorament.
+
+</amendable>
+<amendable id="4_1_9">
+
+En tercer lloc, serà una responsabilitat de Joves PV **assegurar les polítiques de joventut i la perspectiva juvenil en els programes electorals de Compromís**. Existeix una molt bona base de les eleccions de 2019, a què es poden sumar els documents redactats els últims dos anys, per als programes de polítiques transversals de joventut per a les eleccions valencianes i estatals. En canvi, caldrà treballar en profunditat un programa marc municipal de joventut per tal que els nostres pobles el puguen fer servir de bases per als seus propis programes.
+
+</amendable>
+<amendable id="4_1_10">
+
+La millor manera de treballar-ho serà la participada, mitjançant la convocatòria d'alguna jornada de treball, amb dinàmiques pròpies de l'educació no formal. De fet, el poc conflicte que genera la redacció dels programes la converteix en un projecte idoni per a establir una cooperació de Joves PV amb Joves amb Iniciativa i Joves VerdsEquo, de manera que estiga millor consolidat per tota la coalició. Fins i tot, es poden plantejar mecanismes per tal que la ciutadania participe en el plantejament de propostes.
+
+</amendable>
+<amendable id="4_1_11">
+
+En qualsevol cas, una de les qüestions més fàcils de treballar serà la redacció dels programes electorals, pel fet que és un projecte que es pot encetar sense necessitat d'esperar massa més temps (per tal que estiga fet com més prompte millor). Això sí, seria positiu aconseguir que puguem participar amb la nostra **perspectiva juvenil** en l'eleboració dels programes generals de Compromís, més enllà de les polítiques de joventut. Es pot proposar, almenys, algun mecanisme de recollida de propostes.
+
+</amendable>
+<amendable id="4_1_12">
+
+I en quart lloc, ens hem de marcar l'objectiu de **crear la millor campanya electoral jove**. Ho farem en coordinació amb Més i Compromís, i per això comptarem, com marca el Protocol de relacions, amb "el finançament i els recursos suficients per a desenvolupar les activitats i accions de la campanya electoral". La millor manera de crear-la és començament amb un fòrum de campanya on participe, almenys, tota la militància. Perquè si la creem de manera conjunta, n'hi haurà més idees, serà més coral, totes la sentirem més nostra i, per tant, serà més fàcil que la compartim (un dels primers passos per a que siga viral i tinga èxit). També hem de comptar amb una bona visió professional en el procés de creació i, igualment, assumir que el Comité Electoral haurà de tindre la capacitat de modular les idees que sorgisquen per tal d'optimitzar-les o d'adaptar-se a les circumstàncies sobrevingudes (que en període electoral n'hi ha moltes).
+
+</amendable>
+<amendable id="4_1_13">
+
+Dues bones recomanacions per a la creació de la campanya: fer el fòrum amb temps (no esperar-se a què comence la campanya 1 mes abans d'eleccions) i crear-la com a Joves PV, amb els objectius de no comptar amb més entrebancs en el procés creatiu i d'execució i de visibilitzar la nostra marca política (encara que en este període la més important sempre serà la marca de Compromís).
+
+</amendable>
 
 </amendable-section>
 <amendable-section id="4_2" title="4.2. Resultats" level="3">
 
+<amendable id="4_2_1">
+
+D'una banda, ara per ara comptem amb vora 90 regidores i regidors de Joves PV a més de 60 ajuntaments dels nostres pobles. A les llistes de les eleccions municipals de 2019 vam comptar amb tres centenars de candidats i candidates joves. Açò fa palesa la força que hem pres als col·lectius i les institucions locals. Ara es tracta d'**aconseguir el màxim nombre de pobles amb regidors/es joves** i de **superar l'actual número de regidors/es electes**. Açò ens permetrà augmentar la nostra xarxa municipal, la base de la nostra organització, i guanyar alhora presència institucional i reforçament orgànic.
+
+</amendable>
+<amendable id="4_2_2">
+
+D'altra banda, la X Legislatura de les Corts Valencianes ha comptat amb 3 diputats joves (PP, Ciudadanos, i Compromís-IdPV). Si la població valenciana entre 18 i 30 anys representa un 12% del total, a les Corts Valencianes sols hi ha un 3% de persones entre 18 i 30 anys (bé, entre 28 i 30 anys). Més comptava inicialment amb 9 escons al parlament valencià, dels quals el 0% eren joves. Joves PV no comptava ni compta amb cap diputat ni diputada a les Corts. Per tant existix una nul·la possibilitat de poder defensar en primera persona els nostres plantejaments polítics ni de construir lideratges que permeten relleu generacional i apoderament juvenil. Esta serà una de les qüestions fonamentals a revertir quant a resultats electorals, amb l'objectiu d'**aconseguir representació de Joves PV en les Corts Valencianes**.
+
+</amendable>
+<amendable id="4_2_3">
+
+A més, fruit de la campanya electoral que siguem capaces de crear i executar, tant Joves PV com Compromís, hem d'aspirar a **consolidar i augmentar el vot de les persones joves a Compromís**, tant en les eleccions valencianes com en les estatals. El vot jove ens ha identificat des del principi com a projecte polític, serà sempre una aposta de futur i és, hui dia, un gran repte front l'augment de la simpatia cap a l'extrema dreta per part de les persones joves.
+
+</amendable>
+
 </amendable-section>
 <amendable-section id="4_3" title="4.3. Elecció indirecta" level="3">
+
+<amendable id="4_3_1">
+
+En primer lloc, en el cas dels ajuntaments, quant a govern i oposició, en l'actualitat de 90 regidors i regidores de Joves PV, unes 50 tenen responsabilitats als governs municipals i unes 40 estan a l'oposició. En casos diferenciats, les persones amb responsabilitats de govern assumixen àrees amb un pes polític fort a les administracions locals. Tanmateix, en altres casos s'aparta a les persones joves de fortes responsabilitats per inexperiència o immaduresa. Ens proposem negociar durant les diferents formacions de governs locals per tal d'**intentar possibilitar a les persones joves assumir qualsevol tasca de govern**, a través de la qual tindran la capacitat i la possibilitat d'executar polítiques valentes en perspectiva jove.
+
+</amendable>
+<amendable id="4_3_2">
+
+Així mateix, amb la mirada posada en l'objectiu de tancar les corporacions provincials, hem de **proposar la participació dels regidors i les regidores de Joves PV en les diputacions provincials**, que hui dia encara compten amb un fort pes econòmic (i de vegades competencial) que sustenta en la majoria dels casos l'acció política dels pobles, sobretot dels més menuts.
+
+</amendable>
+<amendable id="4_3_3">
+
+En segon lloc, el govern valencià compta amb 12 conselleries, 12 sotssecretaries, 29 secretaries autonòmiques, i 83 direccions generals. Així, 1 secretaria autonòmica i 3 direccions generals han estat dirigides per joves (Compromís-IdPV i PSOE). Es diu gerontocràcia. Joves PV no ocupa cap alt càrrec de la Generalitat Valenciana. En este cas, la negació de la joventut es materialitza en la infrarepresentació en el camp polític. Una infrarepresentació que sens dubte té conseqüències en la defensa dels nostres interessos: com que no estem en els espais de presa de decisions les nostres necessitats queden relegades davant d'altres prioritats polítiques o davant de les demandes d'altres sectors poblacionals.
+
+</amendable>
+<amendable id="4_3_4">
+
+Sempre que el nostre partit governe, l'estratègia hauria de ser la d'**apostar per les persones joves per als càrrecs de govern de la Generalitat Valenciana**, per a donar perspectiva jove, en polítiques de joventut, però també en totes les altres àrees de gestió. La Generalitat Valenciana és un espai clau per poder implantar les propostes polítiques de Joves PV.
+
+</amendable>
+<amendable id="4_3_5">
+
+Així mateix, confiem en les grans capacitats professionals del jovent que forma part de la nostra militància, per això caldrà impulsar i **apostar per les persones joves per a l'assessorament dels càrrecs institucionals en tots els àmbits**. El personal eventual és una de les figures que ens poden ajudar a desenvolupar les nostres propostes polítiques a les institucions.
+
+</amendable>
+<amendable id="4_3_6">
+
+Per tot açò, serà important recordar el que marca el **Protocol de relacions** entre Més i Joves PV quant a representació institucional: "La representació institucional de Més comptarà amb persones de Joves PV, tant pel que fa a les persones nomenades en cada institució com pel que fa a cada nivell de responsabilitats. \[...\] En el cas del nomenament de càrrecs institucionals i personal de lliure elecció, Joves PV participarà en la negociació i Més garantirà la presència de persones joves."
+
+</amendable>
 
 </amendable-section>
 </amendable-section>
 
 <amendable-section id="5" title="5. Estratègia institucional">
+<amendable id="5_0_1">
+
+El 2019 ens vam omplir de raons i capacitats per tal d'assumir responsabilitats públiques i de govern que ens ajudaren a Joves PV a portar a les institucions valencianes el nostre discurs i la nostra proposta política.
+
+</amendable>
+<amendable id="5_0_2">
+
+Sí vam aconseguir tindre una gran xarxa de persones regidores i eventuals als ajuntaments dels nostres pobles. Joves PV compta amb vora 90 regidores i regidors, tant amb responsabilitats als governs municipals com a l'oposició, que demostren la força que tenim les persones joves als col·lectius i institucions locals. A més comptem amb 10 persones eventuals als diferents ajuntaments on Compromís té presència. Joves PV és, actualment, una força municipalista.
+
+</amendable>
+<amendable id="5_0_3">
+
+No obstant esta gran presència de regidors i regidores de Joves PV, cap diputat o diputada provincial és jove. Sí que comptem amb dues persones de Joves PV treballant com a personal eventual a la Diputació de Castelló i a la d'Alacant.
+
+</amendable>
+<amendable id="5_0_4">
+
+Hui per hui, les Corts Valencianes sols compten amb un diputat jove (no adscrit). Si la població valenciana entre 18 i 30 anys representa un 12% del total, a les Corts Valencianes sols hi ha un 1% de persones entre 18 i 30 anys (bé, de 30 anys). Més compta amb 11 escons al parlament valencià, dels quals el 0% són joves. Joves PV no compta amb cap diputat ni diputada a les Corts. De nou quedem relegats a ocupar llocs de personal tècnic i Joves PV compta amb 4 persones que treballen com a assessores de diputats i diputades de les Corts Valencianes. No comptem amb cap persona al gabinet de la Presidència de les Corts.
+
+</amendable>
+<amendable id="5_0_5">
+
+Respecte a la Generalitat Valenciana, com hem comentat, Joves PV no ocupa cap alt càrrec. No obstant això, compta amb 4 persones joves com a personal eventual de la Conselleria d'Educació, Cultura i Esport i de la Conselleria d'Economia Sostenible, Sectors Productius, Comerç i Treball.
+
+</amendable>
+<amendable id="5_0_6">
+
+També és important que Joves PV es mantinga vinculat a l'activitat del Congrés. Per això ens hauríem de plantejar la possibilitat d'estar representades per un diputat o una diputada jove, o almenys pròxim als posicionaments polítics de Joves PV. De moemnt, comptem amb una persona com a assessora del nostre diputat a Madrid.
+
+</amendable>
+<amendable id="5_0_7">
+
+Per últim, no tenim representació ni presència al Parlament Europeu, però mantenim connexió amb els espais vinculats al mateix amb una persona treballant en l'EFA i ocupem llocs tant en el Bureau de l'EFA com de l'EFAY.
+
+</amendable>
+<amendable id="5_0_8">
+
+Esta és la xarxa institucional de Joves PV en l'actualitat. No obstant això, cal considerar que n'hi ha un període electoral pròxim que començarà amb les eleccions valencianes en 2022 o 2023, continuarà amb les municipals i les estatals, i acabarà amb les europees en 2024\. Açò significa que esta xarxa canviarà.
+
+</amendable>
+<amendable id="5_0_9">
+
+Tota esta xarxa institucional, per tant, ha de comptar amb una estratègia institucional que ha d'estar coordinada i que depén de la Coordinadora Nacional de Joves PV, la qual haurà de promoure la creació d'espais de coordinació política entre els càrrecs i el personal eventual jove d'institucions com les Corts, la Generalitat o els ajuntaments amb els òrgans de direcció de Joves PV.
+
+</amendable>
 <amendable-section id="5_1" title="5.1. Coordinació municipal" level="3">
+
+<amendable id="5_1_1">
+
+Després de les eleccions de 2019 es va realitzar un important treball d'identificació de les persones joves regidores tant de govern com d'oposició, als nostres ajuntaments i es va crear un **grup de Whatsapp** com una xarxa de connexió on s'han compartit necessitats, dubtes, reflexions sobre la tasca diària, posicionaments conjunts, bones pràctiques, etc. Este grup s'ha de continuar dinamitzant i s'ha de treballar per dotar-lo de contingut, sentit i treball conjunt i estratègic i, d'esta forma, poder teixir una xarxa municipalista per augmentar i activar la coordinació institucional en l'àmbit municipal.
+
+</amendable>
+<amendable id="5_1_2">
+
+També s'ha realitzat una primera **Trobada Municipalista**, un espai de nova creació, amb l'objectiu d'aprendre i fer xarxa per a afrontar tots els reptes que tenim en el treball als nostres pobles i preparar-nos per a 2023\. Per afrontar este període electoral en el qual ens adentrem, caldria continuar el treball encetat en este primera Trobada creant més encontres de regidors i regidores, així com del personal eventual, on puguen compartir experiències, dubtes, dificultats... o es puguen impulsar accions conjuntes de reivindicacions de Joves PV en tots aquells municipis on tenim presència o replicar bones pràctiques en diferents ajuntaments.
+
+</amendable>
+<amendable id="5_1_3">
+
+Per últim, la formació de les persones regidores juga un paper molt important, i Joves PV ha de procurar-la, tant per a les persones amb responsabilitats de govern com per a les persones que han de desenvolupar les tasques d'oposició. Com a objectiu per a després de les eleccions municipals de l'any 2023, s'ha de **formar les noves persones joves regidores**, organitzant un pla de formació intens en tots aquells aspectes necessaris com són: estatuts dels membres de les corporacions locals, grups polítics, elecció de l'alcalde/ssa, qüestions pràctiques sobre la sessió constitutiva i organitzativa, àrees de govern i delegacions, règim de funcionament de la Junta de Govern, Comissions Informatives i Ple, competències dels ajuntaments i altres aspectes que es consideren oportuns.
+
+</amendable>
+<amendable id="5_1_4">
+
+Així, també s'haurà de fer la tasca de renovació del grup de coordinació de regidors/es i personal eventual per tal incorporar les noves persones que entren a formar part de la xarxa municipalista de Joves PV. Ens encaminem, per tant, a **augmentar i activar la coordinació institucional en l'àmbit municipal**.
+
+</amendable>
 
 </amendable-section>
 <amendable-section id="5_2" title="5.2. Coordinació supramunicipal" level="3">
 
+<amendable id="5_2_1">
+
+Joves PV ha realitzat un profund treball de definir les polítiques de joventut que volem aplicar i dur endavant a través dels càrrecs institucionals de Més i de Compromís. D'este treball naixen documents com "La vacuna necessària", una guia amb objectius i actuacions en matèria de joventut per a la seua aplicació per part de la Generalitat Valenciana. El document proposa ampliar les polítiques d'ocupació jove, d'accés a l'habitatge, de formació professional o de salut mental per a persones joves, entre altres moltes àrees i propostes, i proposa destinar 360 milions d'euros del pressupost de la Generalitat per a aquestes polítiques.
+
+</amendable>
+<amendable id="5_2_2">
+
+Així mateix, malgrat que els programes electorals són una guia de presentació a la ciutadania en les campanyes electorals, sobretot en el nostre cas que després hem d'acordar programes de govern de coalició, són bons documents de referència en què hi ha idees que ens agradaria desplegar en les institucions.
+
+</amendable>
+<amendable id="5_2_3">
+
+Encara com no comptem amb cap càrrec en les institucions supramunicipals, hem de fer valdre les persones que llocs d'eventuals en les institucions per poder treballar el model d'implantació de les polítiques de joventut que Joves PV defensa. Amb això, i amb el treball dels objectius electorals que ens proposem, sorgirà la necessitat de **crear una coordinació institucional en l'àmbit supramunicipal** de persones joves després després del pròxim període electoral.
+
+</amendable>
+<amendable id="5_2_4">
+
+Però també s'ha de **coordinar el disseny, la planificació i el desenvolupament d'estes polítiques de joventut amb els càrrecs de Més i Compromís** existents a les diferents institucions supramunicipals per poder respondre a la pregunta: com implanta Joves PV les seues polítiques de joventut en cas de no tindre representació jove? Per tal d'aconseguir este objectiu s'hauran de teixir contactes i organitzar reunions, grups de treball i accions conjuntes amb els càrrecs i fer ús de la seua posició per a conseguir els objectius de visibilització de les propostes de Joves PV en aquelles matèries relacionades amb la joventut.
+
+</amendable>
 </amendable-section>
 </amendable-section>
 
+<amendable-section id="6" title="Annex. Objectius estratègics">
+
+<amendable id="6_0_1">
+
+Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de treball, una sèrie d'objectius estratègics. Estos són els reptes a què hauria de fer la nostra organització des d'ara i fins els pròxims anys. Per a facilitar-ne la lectura, disposem a continuació el llistat d'objectius marcats.
+
+</amendable>
+<amendable id="6_0_2">
+
+**Estratègia orgànica:**
+
+1. Conquistar les zones blanques de militància: constituint col·lectius en totes les comarques.
+2. Augmentar la militància de dones per a assolir la paritat del 50%.
+3. Augmentar la militància menor de 22 anys per a renovar el cens que va jubilant-se.
+4. Augmentar el nombre de col·lectius locals.
+5. Consolidar Joves PV com una xarxa personal.
+6. Acollir degudament a la militància per a implicar-la personalment i políticament.
+7. Continuar apostant pel model de trobades com a model d'èxit d'acollida, dinamització, debat i formació.
+8. Millorar la participació en les assemblees.
+9. Formar quadres polítics i treballar lideratges transformacionals.
+10. Aconseguir que la militància participe en els col·lectius locals de Compromís.
+11. Convertir Joves PV en una escola de formació.
+12. Fer de Joves PV un espai eco friendly.
+13. Fer de Joves PV un espai igualitari.
+14. Millorar la comunicació interna i la coordinació.
+15. Treballar la cohesió interna per a garantir la unitat d'acció.
+
+</amendable>
+<amendable id="6_0_3">
+
+**Estratègia política:**
+
+1. Determinar estratègies i objectius per a cada línia ideològica: esquerra, joventut, valencianisme, ecologisme, igualtat i antifeixisme.
+2. Construir un discurs que traspasse els límits de les institucions.
+3. Treballar juntament amb les entitats socials per a crear un espai de retroalimentació.
+4. Consolidar les relacions orgàniques amb Més.
+5. Tindre clar què volem de Compromís.
+6. Fer-nos visibles per a més col·lectius.
+7. Mantindre una xarxa d'aliades que remen al nostre costat en la mateixa direcció.
+8. Fer de Joves PV l'organització de referència en la defensa dels drets de les persones joves, dels interessos valencians, de la igualtat d'oportunitats i de la classe treballadora.
+9. Continuar tenint una persona representant a la Comissió Permanent del Consell Valencià de la Joventut i augmentar la nostra presència en els consells locals de la joventut.
+10. Fer de Joves PV l'organització de referència en la lluita contra l'emergència climàtica, el patriarcat i els discursos d'odi.
+11. Establir i augmentar vincles amb altres organitzacions internacionals sobiranistes.
+
+</amendable>
+<amendable id="6_0_4">
+
+**Estratègia comunicativa:**
+
+1. Estar a l'avantguarda de les noves tendències comunicatives.
+2. Continuar apostant per l'assessorament de perfils professionals en l'acció comunicativa.
+3. Apostar per una producció comunicativa tàctica i estètica.
+4. Augmentar el nombre de seguidors i seguidores en les xarxes socials.
+5. Augmentar el contingut en xarxes de gran impacte com Tik Tok i Instagram.
+6. Aparéixer més als mitjans de comunicació.
+
+</amendable>
+<amendable id="6_0_5">
+
+**Estratègia electoral:**
+
+1. Constituir una maquinària electoral per a preparar les pròximes eleccions municipals, valencianes i estatals.
+2. Aconseguir el màxim nombre de pobles amb persones joves en les llistes electorals municipals.
+3. Apostar pels lideratges joves per a encapçalar llistes electorals municipals.
+4. Aconseguir representació, directa o indirecta, de Joves PV en les llistes electorals de Compromís.
+5. Treballar lideratges perquè siguen candidats/es.
+6. Assegurar les polítiques de joventut i la perspectiva juvenil en els programes electorals de Compromís.
+7. Crear la millor campanya electoral jove.
+8. Aconseguir el màxim nombre de pobles amb regidors/es joves.
+9. Superar l'actual número de regidors/es electes.
+10. Aconseguir representació de Joves PV en les Corts Valencianes.
+11. Consolidar i augmentar el vot de les persones joves a Compromís.
+12. Intentar possibilitar a les persones joves assumir qualsevol tasca de govern.
+13. Proposar la participació dels regidors i les regidores de Joves PV en les diputacions provincials.
+14. Apostar per les persones joves per als càrrecs de govern de la Generalitat Valenciana.
+15. Apostar per les persones joves per a l'assessorament dels càrrecs institucionals en tots els àmbits.
+
+</amendable>
+<amendable id="6_0_6">
+
+**Estratègia institucional:**
+
+1. Formar les noves persones joves regidores.
+2. Augmentar i activar la coordinació institucional en l'àmbit municipal.
+3. Crear una coordinació institucional en l'àmbit supramunicipal.
+4. Coordinar el disseny, la planificació i el desenvolupament de les polítiques de joventut amb els càrrecs de Més i Compromís.
+
+</amendable>
+</amendable-section>
