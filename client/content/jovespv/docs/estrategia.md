@@ -65,7 +65,7 @@ Un dels reptes que la nostra organització té al davant és el del creixement i
 </amendable>
 <amendable id="1_1_2">
 
-En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en un **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col·lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació. 
+En el moment actual en què Joves PV ens hem consolidat com una organització juvenil de referència políticament, socialment i culturalment al País Valencià, hem de seguir treballant en una **Estratègia de consolidació** del creixement de militància activa que ha tingut l'organització els últims dos anys per tal d'evitar el màxim possible que la implicació de la militància i l'activitat dels col·lectius disminuïsca. Per a açò, cal que la Coordinadora Nacional faça un seguiment i acompanyament molt estret tant dels col·lectius com de la militància dispersa, així com diferents accions per a aconseguir esta consolidació. 
 
 </amendable>
 <amendable id="1_1_3">
