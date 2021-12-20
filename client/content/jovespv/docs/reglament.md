@@ -9,7 +9,7 @@ order: 0
 Són membres de ple dret del IV Congrés Nacional de Joves PV - Compromís totes les persones degudament inscrites en el cens del Congrés previst en el Reglament precongressual.
 
 </amendable>
-<amendable article="2" title="Composició">
+<amendable article="2" title="Constitució">
 
 1. El IV Congrés Nacional de Joves PV quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones membres.
 2. En qualsevol cas, el Congrés quedarà vàlidament constituït en segona convocatòria, mitja hora després de la primera, amb independència del nombre de membres presents.
@@ -74,7 +74,7 @@ Les decisions de la Mesa del Congrés seran preses per majoria simple. En cas d�
 </amendable>
 </amendable-section>
 
-<amendable-section id="T3" title="Títol tercer. Funcions del Congrés">
+<amendable-section id="T3" title="Títol tercer. Règim d'intervencions">
 <amendable article="10" title="Desenvolupament del debat">
 
 Per al debat i aprovació de les ponències se seguirà el següent procediment:
