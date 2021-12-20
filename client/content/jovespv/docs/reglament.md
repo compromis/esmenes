@@ -39,7 +39,7 @@ Seran funcions del Congrés, a més de les previstes en l’Ordre del dia, totes
 </amendable>
 </amendable-section>
 
-<amendable-section id="T2" title="Títol segon. Funcions del Congrés">
+<amendable-section id="T2" title="Títol segon. Mesa del Congrés">
 <amendable article="5" title="Composició">
 
 1. La Mesa del Congrés estarà formada per la Presidència, la Vicepresidència, la Secretaria i la Vicesecretaria.
