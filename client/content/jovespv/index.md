@@ -1,5 +1,5 @@
 ---
-title: Joves PV 2020
+title: IV Congres Joves PV
 ---
 
 <nuxt-link to="/jovespv/reglament" class="doc-button mb-4">
