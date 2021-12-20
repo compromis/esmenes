@@ -2,7 +2,7 @@
 title: IV Congrés Joves PV
 ---
 
-<img src="IV congres SER.png" alt="Imatge del IV Congrés de Joves PV" width="600">
+<img src="IV congres SER.png" alt="Imatge del IV Congrés de Joves PV" width="800">
 
 <nuxt-link to="/jovespv/reglament" class="doc-button mb-4">
 Reglament congressual
