@@ -84,7 +84,7 @@ export default {
     // Create table of contents
     setTimeout(() => {
       this.toc = this.createToc(this.tocComponents)
-    }, 500)
+    }, 1000)
 
     // Add amendment if user submitted one
     this.$root.$on('amendmentSubmitted', (amendment) => {
