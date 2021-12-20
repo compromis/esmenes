@@ -845,7 +845,7 @@ Però també s'ha de **coordinar el disseny, la planificació i el desenvolupame
 <amendable-section id="6" title="Annex. Objectius estratègics">
 <amendable id="6_0_1">
 
-Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de treball, una sèrie d'objectius estratègics. Estos són els reptes a què hauria de fer la nostra organització des d'ara i fins als pròxims anys. Per a facilitar-ne la lectura, disposem a continuació el llistat d'objectius marcats.
+Al llarg d'esta Ponència Estratègia s'han descrit, organitzats en àmbits de treball, una sèrie d'objectius estratègics. Estos són els reptes a què hauria de fer front la nostra organització des d'ara i fins als pròxims anys. Per a facilitar-ne la lectura, disposem a continuació el llistat d'objectius marcats.
 
 </amendable>
 <amendable id="6_0_2" title="Estratègia orgànica">
