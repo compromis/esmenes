@@ -196,9 +196,12 @@ export default {
 
     &-actions-sticky {
       display: flex;
-      gap: 1rem;
       align-items: center;
       padding-left: 1rem;
+
+      .circly-button:not(:last-child) {
+        margin-right: 1rem;
+      }
     }
 
     &-submissions {

@@ -30,7 +30,6 @@ export default {
   background: none;
   color: var(--gray-600);
   transition: 0.25s;
-  gap: 0.5rem;
   flex-direction: row-reverse;
   justify-self: start;
   padding: 0;
@@ -45,6 +44,7 @@ export default {
     height: 2rem;
     border: 2px solid var(--gray-600);
     transition: 0.25s;
+    margin-right: 0.5rem;
   }
 
   &:hover,
