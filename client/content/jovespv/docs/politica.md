@@ -218,7 +218,7 @@ Amb l'arribada de la Transició, els valencians aconseguírem per primera vegada
 </amendable>
 <amendable id="2_2_4">
 
-En perdre la dreta el control de les institucions valencianes, s'han afegit a una defensa de la **recentralització **que no només furtaria els valencians la seua capacitat de definició com a nació lliure i sobirana, sinó que empitjoraria la qualitat dels serveis públics, en començar a desenvolupar-se polítiques dissenyades des de Madrid que no tenen en compte les particularitats i les necessitats dels valencians.
+En perdre la dreta el control de les institucions valencianes, s'han afegit a una defensa de la **recentralització** que no només furtaria els valencians la seua capacitat de definició com a nació lliure i sobirana, sinó que empitjoraria la qualitat dels serveis públics, en començar a desenvolupar-se polítiques dissenyades des de Madrid que no tenen en compte les particularitats i les necessitats dels valencians.
 
 </amendable>
 <amendable id="2_2_5">

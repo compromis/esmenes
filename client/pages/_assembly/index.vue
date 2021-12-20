@@ -23,7 +23,7 @@ export default {
 
 <style lang="scss" scoped>
 .document-container {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 2rem auto;
 }
 </style>

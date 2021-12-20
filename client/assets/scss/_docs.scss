@@ -1,0 +1,24 @@
+
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.doc-button {
+  display: block;
+  border: 2px solid var(--gray-100);
+  padding: 1.5rem;
+  border-radius: $border-radius-sm;
+  font-size: $text-xl;
+  color: var(--text-base);
+  transition: .25s ease;
+  line-height: 1.25;
+
+  &:hover {
+    border-color: var(--white);
+    box-shadow: $shadow-default;
+    text-decoration: none;
+    transform: translateY(-0.25rem);
+  }
+}

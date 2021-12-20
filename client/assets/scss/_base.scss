@@ -1,0 +1,15 @@
+:root {
+  --navbar-height: 3rem;
+  --document-info-height: 12.5rem;
+  --body-bg: white;
+}
+
+html,
+body {
+  scroll-padding-top: calc(var(--navbar-height) + 1rem);
+  background-color: var(--body-bg);
+}
+
+.drawer-shown {
+  overflow: hidden;
+}

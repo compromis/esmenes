@@ -75,7 +75,7 @@ Per altra banda, en l'últim informe de militància presentat per la Coordinador
 </amendable>
 <amendable id="1_1_4">
 
-També s'haurà de treballar per a **augmentar la militància menor de 22 anys per a renovar el cens que va jubilant-se**, amb diferents estratègies perquè les **generacions més joves **s'acosten a la nostra organització i que troben espais segurs i adaptats al seu estil de vida i preferències. Caldrà buscar nínxols de militància més jove per a renovar el cens que va jubilant-se.
+També s'haurà de treballar per a **augmentar la militància menor de 22 anys per a renovar el cens que va jubilant-se**, amb diferents estratègies perquè les **generacions més joves** s'acosten a la nostra organització i que troben espais segurs i adaptats al seu estil de vida i preferències. Caldrà buscar nínxols de militància més jove per a renovar el cens que va jubilant-se.
 
 </amendable>
 <amendable id="1_1_5">
