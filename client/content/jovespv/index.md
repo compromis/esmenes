@@ -1,5 +1,5 @@
 ---
-title: IV Congres Joves PV
+title: IV Congrés Joves PV
 ---
 
 <nuxt-link to="/jovespv/reglament" class="doc-button mb-4">
