@@ -2,7 +2,7 @@
 title: IV Congrés Joves PV
 ---
 
-<img src="/docs/jovespv/header.png" alt="Ser. 19 de febrer 2022. Ontinyent, La Vall d'Albaida" style="width: 100%; max-width: 375px" class="mb-5 ms-2">
+<img src="/docs/jovespv/header.png" alt="Ser. 19 de febrer 2022. Ontinyent, la Vall d'Albaida" style="width: 100%; max-width: 375px" class="mb-5 ms-2">
 
 Benvinguda al web d’esmenes del IV Congrés de Joves PV!
 A continuació trobaràs unes breus **instruccions** per poder fer un ús correcte d’esta.
