@@ -68,6 +68,8 @@ export default {
   overflow-x: auto;
   margin: 0 -1rem;
 
+  @include scrollbar();
+
   .tab-list {
     flex-wrap: nowrap;
     padding: 0 1rem;
