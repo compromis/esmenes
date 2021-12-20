@@ -17,23 +17,23 @@ El termini per a presentar esmenes als documents acabarà el **10 de gener** a l
 
 <div class="doc-grid mb-6">
 <nuxt-link to="/jovespv/reglament" class="doc-button">
-Reglament congressual
+Reglament del Congrés
 </nuxt-link>
 
 <nuxt-link to="/jovespv/estatuts" class="doc-button">
-Ponència d'estatuts
+Estatuts
 </nuxt-link>
 
 <nuxt-link to="/jovespv/politica" class="doc-button">
-Ponència política
+Ponència Política
 </nuxt-link>
 
 <nuxt-link to="/jovespv/estrategia" class="doc-button">
-Ponència estratègia
+Ponència Estratègia
 </nuxt-link>
 
 <nuxt-link to="/jovespv/grafic" class="doc-button">
-Manual d'identitat visual
+Manual d'Identitat Visual Corporativa
 </nuxt-link>
 </div>
 
