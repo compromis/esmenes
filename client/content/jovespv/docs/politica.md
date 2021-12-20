@@ -1,5 +1,5 @@
 ---
-title: Ponència política
+title: Ponència Política
 order: 2
 ---
 
