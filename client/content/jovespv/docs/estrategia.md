@@ -1,5 +1,5 @@
 ---
-title: Ponència estratègica
+title: Ponència Estratègica
 order: 3
 ---
 
