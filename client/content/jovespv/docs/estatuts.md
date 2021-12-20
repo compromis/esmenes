@@ -1,5 +1,5 @@
 ---
-title: Ponència d'estatuts
+title: Estatuts
 order: 1
 ---
 
@@ -220,7 +220,7 @@ El Congrés Nacional està compost per:
 </amendable>
 <amendable article="24" title="Constitució i quòrum">
 
-1. El Congrés Nacional quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones que el composen.
+1. El Congrés Nacional quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones que el componen.
 2. En qualsevol cas, el Congrés Nacional quedarà vàlidament constituït en segona convocatòria, mitja hora després de la primera, amb independència del nombre de membres presents.
 
 </amendable>
@@ -309,7 +309,7 @@ L’Assemblea Nacional és el màxim òrgan decisori i de representació naciona
 1. Les propostes de modificació de l’ordre del dia es debatran al començament de l’Assemblea Nacional.  Excepcionalment, les propostes de punts de l’ordre del dia que requerisquen documentació adjunta s’hauran d’enviar necessàriament a la Coordinadora Nacional en un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària.
 2. Les esmenes es podran enviar a la Coordinadora Nacional entre la convocatòria de l’Assemblea i un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària. Excepcionalment, es podran fer esmenes in voce quan es tracte de documentació adjunta a punts proposats per a la modificació de l’ordre del dia.
 3. Les propostes de resolució es podran enviar a la Coordinadora Nacional entre la convocatòria de l’Assemblea i un termini mai inferior a sis dies naturals d’antelació quan es tracte d’una assemblea ordinària i mai inferior a quatre dies naturals d’antelació quan es tracte d’una assemblea extraordinària. Excepcionalment, es podran presentar propostes de resolució fins al començament de l’assemblea sempre que esta aprove el seu caràcter d’urgència.
-4. Les propostes i esmenes poden ser individuals o col·lectives. Les propostes i esmenes col·lectives podran ser comarcals o signades per dos o més membres. En el cas de les comarcals, han d'estar aprovades per l'Assemblea Comarcal i visades, i la seua defensa ha d’estar delegada en la Secretaria Comarcal o en qui delegue.
+4. Les propostes i esmenes poden ser individuals o col·lectives. Les propostes i esmenes col·lectives podran ser comarcals o signades per dos o més membres. En el cas de les comarcals, han d'estar aprovades per l'Assemblea Comarcal i visades, i la seua defensa ha d’estar delegada a la Secretaria Comarcal o en qui delegue.
 
 </amendable>
 </amendable-section>
@@ -335,7 +335,7 @@ Són funcions de la Coordinadora Nacional:
 10. Contractar, gestionar i acomiadar el personal al servei de Joves PV segons el procediment establert.
 11. Aprovar la modificació del domicili social de Joves PV.
 12. Demanar l’assistència o la presentació d’informes a les persones membres de Joves PV que ocupen càrrecs institucionals.
-13. Elegir les persones representants de Joves PV a òrgans directius de les d’entitats en les que l’organització és part.
+13. Elegir les persones representants de Joves PV a òrgans directius de les d’entitats en les quals l’organització és part.
 14. Totes aquelles tasques relacionades amb l’execució, la representació i el govern de l’entitat descrites en els articles referits a les secretaries.
 
 </amendable>
