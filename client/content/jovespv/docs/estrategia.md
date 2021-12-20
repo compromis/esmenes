@@ -1,5 +1,5 @@
 ---
-title: Ponència estratègica
+title: Ponència Estratègica
 order: 3
 pdf: /docs/jovespv/Ponència Estratègica 2022.pdf
 ---

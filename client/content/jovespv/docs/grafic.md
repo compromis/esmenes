@@ -1,5 +1,5 @@
 ---
-title: Manual d'identitat visual
+title: Manual d'Identitat Visual Corporativa
 order: 4
 pdf: /docs/jovespv/Manual_identitat_visual_corporativa_JOVESPV_COMPROMIS_2022.pdf
 ---

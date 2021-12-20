@@ -1,5 +1,5 @@
 ---
-title: Ponència política
+title: Ponència Política
 order: 2
 pdf: /docs/jovespv/Ponència Política 2022.pdf
 ---

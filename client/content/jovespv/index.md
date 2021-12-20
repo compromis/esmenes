@@ -5,7 +5,7 @@ title: IV Congrés Joves PV
 <img src="/docs/jovespv/ser.svg" alt="Ser" style="width: 100%; max-width: 375px" class="mb-5">
 
 <div class="text-2xl mb-4 lh-sm text-muted">
-  19 de febrer 2022.<br>
+  19 de febrer de 2022.<br>
   Ontinyent, la Vall d'Albaida
 </div>
 
@@ -17,23 +17,23 @@ El termini per a presentar esmenes als documents acabarà el **10 de gener** a l
 
 <div class="doc-grid mb-6">
 <nuxt-link to="/jovespv/reglament" class="doc-button">
-Reglament congressual
+Reglament del Congrés
 </nuxt-link>
 
 <nuxt-link to="/jovespv/estatuts" class="doc-button">
-Ponència d'estatuts
+Estatuts
 </nuxt-link>
 
 <nuxt-link to="/jovespv/politica" class="doc-button">
-Ponència política
+Ponència Política
 </nuxt-link>
 
 <nuxt-link to="/jovespv/estrategia" class="doc-button">
-Ponència estratègia
+Ponència Estratègia
 </nuxt-link>
 
 <nuxt-link to="/jovespv/grafic" class="doc-button">
-Manual d'identitat visual
+Manual d'Identitat Visual Corporativa
 </nuxt-link>
 </div>
 
