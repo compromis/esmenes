@@ -5,7 +5,7 @@ title: IV Congrés Joves PV
 <img src="/docs/jovespv/ser.svg" alt="Ser" style="width: 100%; max-width: 375px" class="mb-5">
 
 <div class="text-2xl mb-4 lh-sm text-muted">
-  19 de febrer de 2022.<br>
+  19 de febrer de 2022<br>
   Ontinyent, la Vall d'Albaida
 </div>
 
