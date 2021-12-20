@@ -90,6 +90,7 @@ export default {
         'faFileAlt',
         'faCheckCircle',
         'faClipboard',
+        'faFileDownload',
       ],
       regular: ['faPencil', 'faTrash', 'faPlus'],
     },

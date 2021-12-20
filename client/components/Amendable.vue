@@ -3,7 +3,7 @@
     <div
       :class="['amendable-content', { hovering, 'is-amendable': canBeAmended }]"
       @click="
-        canBeAmended ? amendText('modification', `#art${article}-edit`) : null
+        canBeAmended ? amendText('modification', `#art${indexId}-edit`) : null
       "
     >
       <component

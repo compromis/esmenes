@@ -1,6 +1,7 @@
 ---
 title: Ponència estratègica
 order: 3
+pdf: /docs/jovespv/Ponència Estratègica 2022.pdf
 ---
 
 <amendable-section id="INTRO" title="Introducció">

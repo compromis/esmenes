@@ -1,6 +1,7 @@
 ---
 title: Ponència política
 order: 2
+pdf: /docs/jovespv/Ponència Política 2022.pdf
 ---
 
 <amendable-section id="1" title="1. Ara i ací">

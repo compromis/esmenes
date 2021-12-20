@@ -1,7 +1,20 @@
 <template>
   <div class="document-wrapper">
     <div class="document-title">
-      <h1 class="text-regular ps-3 mb-3">{{ document.title }}</h1>
+      <h1 class="text-regular ps-3 mb-3">
+        {{ document.title }}
+        <b-button
+          v-if="document.pdf"
+          :href="document.pdf"
+          variant="supermuted"
+          target="_blank"
+          size="sm"
+          class="pdf ms-2 py-2 px-3"
+        >
+          <font-awesome-icon :icon="['fal', 'file-download']" class="me-1" />
+          PDF
+        </b-button>
+      </h1>
       <div v-if="canBeAmended" class="mb-3 mb-lg-0 mt-lg-2 ms-3 ms-lg-0">
         <circly-button
           id="general-amendment"
@@ -157,6 +170,11 @@ export default {
     width: 100%;
     margin: 0 auto;
     margin-top: 3rem;
+
+    .pdf {
+      transform: translateY(-0.25rem);
+      letter-spacing: 0.03em;
+    }
   }
 
   &-content {
