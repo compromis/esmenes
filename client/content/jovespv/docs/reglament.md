@@ -144,7 +144,7 @@ El recompte de votacions es farà en la forma que determine la Mesa. En les vota
 </amendable-section>
 
 <amendable-section id="DA" title="Disposició addicional">
-<amendable article="1" title="Única. Interpretacions">
+<amendable id="DA1" title="Única. Interpretacions">
 
 En cas de dubte en la interpretació d’este Reglament o que sorgisca una qüestió no prevista, correspon la seua resolució a la Mesa del Congrés, tot tenint en compte els Estatuts vigents i el Reglament precongressual i, supletòriament, els Estatuts de Més, així com els principis democràtics, l'analogia, l'equitat i la bona fe.
 
@@ -152,7 +152,7 @@ En cas de dubte en la interpretació d’este Reglament o que sorgisca una qües
 </amendable-section>
 
 <amendable-section id="DF" title="Disposició addicional">
-<amendable article="1" title="Única. Vigor">
+<amendable id="DF1" title="Única. Vigor">
 
 Este Reglament entrà en vigor en el moment de la seua aprovació i fins al tancament de la sessió del IV Congrés Nacional de Joves PV - Compromís.
 
