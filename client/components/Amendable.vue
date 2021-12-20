@@ -59,11 +59,11 @@ export default {
   props: {
     article: {
       type: String,
-      required: true,
+      default: null,
     },
     id: {
       type: String,
-      required: true,
+      default: null,
     },
     title: {
       type: String,
