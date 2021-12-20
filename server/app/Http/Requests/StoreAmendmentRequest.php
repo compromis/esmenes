@@ -34,8 +34,8 @@ class StoreAmendmentRequest extends FormRequest
     public function rules()
     {
         return [
-            'article' => 'required',
-            'title' => 'required',
+            'article' => '',
+            'title' => '',
             'original' => 'required_unless:type,addition',
             'text' => 'required_if:type,addition',
             'justification' => 'required',

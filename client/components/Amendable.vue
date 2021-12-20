@@ -118,7 +118,7 @@ export default {
 
   methods: {
     amendText(type, focusBackTo) {
-      const { article } = this
+      const article = this.article || this.id
       const title =
         this.context && this.indexTitle
           ? this.context + ' > ' + this.indexTitle
