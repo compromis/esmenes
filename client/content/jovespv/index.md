@@ -43,7 +43,7 @@ Existeixen tres possibles esmenes a realitzar de manera **individual**:
 - **Modificar** un text: cal clicar en el paràgraf a modificar i incloure una justificació que ajude a entendre la raó d’esta proposta. Caldrà introduir les modificacions en l’apartat “Text esmenat”, que es visualitzaran en l’apartat “Modificacions”.
 - **Suprimir** un text: es pot esborrar tot un paràgraf directament, incloent una justificació raonada per a la supressió del contingut.
 
-Aquelles propostes promogudes per les assemblees comarcals han de ser presentades per les **secretaries comarcals** mitjançant l’opció que tindran elles i elles habilitada per a tal efecte en el moment de redacció de l’esmena. Recordeu que s’haurà d’haver enviat prèviament l’acta de l’Assemblea Comarcal per a poder fer efectives est tipus d’esmenes.
+Aquelles propostes promogudes per les assemblees comarcals han de ser presentades per les **secretaries comarcals** mitjançant l’opció que tindran elles i ells habilitada per a tal efecte en el moment de redacció de l’esmena. Recordeu que s’haurà d’haver enviat prèviament l’acta de l’Assemblea Comarcal per a poder fer efectives este tipus d’esmenes.
 
 Les esmenes presentades estaran visibles baix de l’article o apartat en qüestió, per tal de ser llegides i signades. A més, disposen d’un enllaç directe que podrà ser compartit per a facilitar la recepció de **signatures**.
 
