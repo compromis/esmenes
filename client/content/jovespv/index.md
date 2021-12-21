@@ -29,7 +29,7 @@ Ponència Política
 </nuxt-link>
 
 <nuxt-link to="/jovespv/estrategia" class="doc-button">
-Ponència Estratègia
+Ponència Estratègica
 </nuxt-link>
 
 <nuxt-link to="/jovespv/grafic" class="doc-button">
