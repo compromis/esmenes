@@ -1,7 +1,7 @@
 ---
 title: Ponència Estratègica
 order: 3
-pdf: /docs/jovespv/Ponència Estratègica 2022.pdf
+pdf: /docs/jovespv/Ponencia_Estrategica_2022.pdf
 ---
 
 <amendable-section id="INTRO" title="Introducció">

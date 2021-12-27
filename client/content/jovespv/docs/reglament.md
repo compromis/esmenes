@@ -1,7 +1,7 @@
 ---
 title: Reglament del Congrés
 order: 0
-pdf: /docs/jovespv/Reglament del Congrés.pdf
+pdf: /docs/jovespv/Reglament_del_Congres.pdf
 ---
 
 <amendable-section id="PRE" title="Títol preliminar">
