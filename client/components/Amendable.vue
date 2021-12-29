@@ -106,8 +106,9 @@ export default {
     },
 
     amendments() {
-      return this.article in this.$store.state.assembly.amendments
-        ? this.$store.state.assembly.amendments[this.article]
+      const ref = this.article || this.id
+      return ref in this.$store.state.assembly.amendments
+        ? this.$store.state.assembly.amendments[ref]
         : []
     },
 
