@@ -80,10 +80,13 @@ export default {
       this.fetchAmendments()
       this.$nextTick(() => {
         this.$nextTick(() => {
-          this.toc = this.createToc(this.tocComponents)
           this.setDocument()
         })
       })
+
+      setTimeout(() => {
+        this.toc = this.createToc(this.tocComponents)
+      }, 1000)
     },
   },
 

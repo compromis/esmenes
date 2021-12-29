@@ -1,42 +1,44 @@
 <template>
   <ul class="toc">
-    <li
-      v-for="item in tocWithAmendments"
-      :key="item.id"
-      :class="{ 'show-children': showChildren === item.id }"
-    >
-      <a
-        :href="`#${item.id}`"
-        class="link-muted-to-black d-flex align-items-start"
-        @click="handleClick(item, $event)"
+    <template v-for="item in tocWithAmendments">
+      <li
+        v-if="item.isIndexable"
+        :key="item.id"
+        :class="{ 'show-children': showChildren === item.id }"
       >
-        <font-awesome-icon
-          v-if="item.children.length"
-          class="chevron me-2"
-          :icon="['fal', 'chevron-right']"
-        />
-        <font-awesome-icon
-          v-else
-          class="file me-2"
-          :icon="['fal', 'file-alt']"
-        />
-        <span>
-          <span class="title">{{ item.title }}</span>
-          <span
-            v-if="item.count > 0"
-            class="amendments"
-            :title="`${item.count} esmenes`"
-          >
-            {{ item.count }}
+        <a
+          :href="`#${item.id}`"
+          class="link-muted-to-black d-flex align-items-start"
+          @click="handleClick(item, $event)"
+        >
+          <font-awesome-icon
+            v-if="hasChildren(item)"
+            class="chevron me-2"
+            :icon="['fal', 'chevron-right']"
+          />
+          <font-awesome-icon
+            v-else
+            class="file me-2"
+            :icon="['fal', 'file-alt']"
+          />
+          <span>
+            <span class="title">{{ item.title }}</span>
+            <span
+              v-if="item.count > 0"
+              class="amendments"
+              :title="`${item.count} esmenes`"
+            >
+              {{ item.count }}
+            </span>
           </span>
-        </span>
-      </a>
-      <transition name="slide">
-        <div v-show="showChildren === item.id" class="children">
-          <document-toc :toc="item.children" />
-        </div>
-      </transition>
-    </li>
+        </a>
+        <transition name="slide">
+          <div v-show="showChildren === item.id" class="children">
+            <document-toc :toc="item.children" />
+          </div>
+        </transition>
+      </li>
+    </template>
   </ul>
 </template>
 
@@ -75,8 +77,12 @@ export default {
       }, 0)
     },
 
+    hasChildren(item) {
+      return item.children.some((child) => child.isIndexable)
+    },
+
     handleClick(item, e) {
-      if (item.children.length) {
+      if (this.hasChildren(item)) {
         e.preventDefault()
         if (this.showChildren !== item.id) {
           this.showChildren = item.id
