@@ -607,8 +607,8 @@ La creació i composició del Comité Electoral tindrà lloc abans de cada perí
 
 1. El Congrés Comarcal és el màxim òrgan de decisió del col·lectiu comarcal.
 2. Són funcions del Congrés Comarcal:
-a. Determinar la línia estratègica, organitzativa i ideològica del col·lectiu.
-b. Elegir les persones que formen la Coordinadora Comarcal.
+    1. Determinar la línia estratègica, organitzativa i ideològica del col·lectiu.
+    2. Elegir les persones que formen la Coordinadora Comarcal.
 3. El Congrés Comarcal estarà compost, es convocarà, es constituirà i funcionarà com una Assemblea Comarcal.
 4. El Congrés Comarcal se celebrarà en un termini mai superior a sis mesos després del Congrés Nacional. Excepcionalment, es podran celebrar congressos comarcals per a constituir nous col·lectius.
 
