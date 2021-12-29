@@ -134,12 +134,15 @@ export default {
     createToc(components) {
       const toc = []
       components.forEach((component) => {
-        if (component.isIndexable) {
+        if ('isIndexable' in component) {
           toc.push({
             id: component.indexId,
             article: component.article,
             title: component.indexTitle,
             children: this.createToc(component.$children),
+            isIndexable: component.isIndexable,
+            isAmendable: component.isAmendable,
+            amendments: component.amendments ? component.amendments.length : 0,
           })
         }
       })

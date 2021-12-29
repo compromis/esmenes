@@ -73,6 +73,10 @@ export default {
       type: [String, Number],
       default: 4,
     },
+    isAmendable: {
+      type: Boolean,
+      default: true,
+    },
   },
 
   data() {

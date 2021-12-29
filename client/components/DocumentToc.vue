@@ -23,11 +23,11 @@
         <span>
           <span class="title">{{ item.title }}</span>
           <span
-            v-if="item.amendments > 0"
+            v-if="item.count > 0"
             class="amendments"
-            :title="`${item.amendments} esmenes`"
+            :title="`${item.count} esmenes`"
           >
-            {{ item.amendments }}
+            {{ item.count }}
           </span>
         </span>
       </a>
@@ -58,17 +58,23 @@ export default {
   computed: {
     tocWithAmendments() {
       return this.toc.map((item) => {
-        if (item.article) {
-          const amendments = this.$store.state.assembly.amendments[item.article]
-          item.amendments = amendments ? amendments.length : 0
-        }
-
+        item.count = this.countAmendments(item)
         return item
       })
     },
   },
 
   methods: {
+    countAmendments(item) {
+      if (item.children.length === 0) {
+        return item.amendments
+      }
+
+      return item.children.reduce((acc, child) => {
+        return acc + this.countAmendments(child)
+      }, 0)
+    },
+
     handleClick(item, e) {
       if (item.children.length) {
         e.preventDefault()
@@ -119,7 +125,7 @@ export default {
 
   .amendments {
     display: inline-flex;
-    background: $gray-500;
+    background: $gradient-primary;
     color: $white;
     width: 1.5em;
     height: 1.5em;
@@ -129,6 +135,7 @@ export default {
     justify-content: center;
     font-weight: bold;
     margin-left: 0.25rem;
+    line-height: 1;
   }
 
   .chevron {
