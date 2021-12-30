@@ -55,7 +55,7 @@
           </div>
           <div
             v-if="amendment.registered_by_assembly"
-            class="amendment-assembly"
+            class="amendment-assembly mt-2"
           >
             <div class="text-sm">Aprovada en assemblea</div>
             {{ amendment.registered_by_assembly }}

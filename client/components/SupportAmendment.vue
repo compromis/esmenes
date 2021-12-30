@@ -2,21 +2,21 @@
   <div>
     <b-button
       :disabled="loading || supported || !canBeSupported"
-      :size="fullWidth ? 'md' : 'sm'"
+      :size="fullWidth ? 'lg' : 'sm'"
       :variant="supported ? 'secondary' : 'primary'"
       outline
       :block="fullWidth"
       @click="support"
     >
-      <span v-if="loading">Carregant...</span>
-      <span v-else-if="supported" class="support-wrapper">
+      <template v-if="loading">Carregant...</template>
+      <template v-else-if="supported">
         <font-awesome-icon :icon="['fal', 'check']" size="lg" class="me-2" />
         Has donat suport
-      </span>
-      <span v-else class="support-wrapper">
+      </template>
+      <template v-else>
         <font-awesome-icon :icon="['fal', 'vote-yea']" size="lg" class="me-2" />
         Dona suport
-      </span>
+      </template>
     </b-button>
   </div>
 </template>
@@ -76,12 +76,3 @@ export default {
   },
 }
 </script>
-
-<style lang="scss" scoped>
-.support-wrapper {
-  display: flex;
-  line-height: 1.4;
-  align-items: center;
-  justify-content: center;
-}
-</style>

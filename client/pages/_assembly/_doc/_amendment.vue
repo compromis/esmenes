@@ -51,7 +51,7 @@
           </div>
         </b-card>
         <div class="amendment-justification mt-3">
-          <div class="text-md">Justificació</div>
+          <div class="text-md text-muted">Justificació</div>
           <p>{{ amendment.justification }}</p>
         </div>
         <div class="amendment-author mt-3">
@@ -120,6 +120,8 @@ export default {
 
   methods: {
     formatHtml(text) {
+      if (!text) return '(sense text)'
+
       return String(text)
         .replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1<br>$2')
         .replaceAll('  ', '&nbsp;&nbsp;')
