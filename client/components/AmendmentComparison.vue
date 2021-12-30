@@ -52,13 +52,5 @@ export default {
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
   }
-
-  span:first-child {
-    display: none;
-  }
-
-  span:last-child {
-    display: none;
-  }
 }
 </style>
