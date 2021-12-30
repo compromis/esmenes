@@ -55,18 +55,18 @@
           <p>{{ amendment.justification }}</p>
         </div>
         <div class="amendment-author mt-3">
-          <div class="text-md">Presentada per</div>
+          <div class="text-md text-muted">Presentada per</div>
           {{ amendment.registered_by }}
         </div>
         <div
           v-if="amendment.registered_by_assembly"
-          class="amendment-assembly mt-3"
+          class="amendment-assembly text-muted mt-3"
         >
           <div class="text-md">Aprovada en assemblea</div>
           {{ amendment.registered_by_assembly }}
         </div>
         <div v-if="amendment.supports.length" class="amendment-supports mt-3">
-          <div class="text-md">Llista de suports</div>
+          <div class="text-md text-muted">Llista de suports</div>
           <b-badge-list>
             <b-badge
               v-for="support in amendment.supports"
