@@ -66,7 +66,10 @@
           {{ amendment.registered_by_assembly }}
         </div>
         <div v-if="amendment.supports.length" class="amendment-supports mt-3">
-          <div class="text-md text-muted">Llista de suports</div>
+          <div class="text-md text-muted">
+            Llista de suports ({{ amendment.supports.length }} de 15 signatures
+            necessàries)
+          </div>
           <b-badge-list>
             <b-badge
               v-for="support in amendment.supports"
