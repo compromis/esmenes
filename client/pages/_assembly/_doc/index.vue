@@ -24,6 +24,7 @@
           Esmena general
         </circly-button>
       </div>
+      <div v-else></div>
       <amendment-list
         :amendments="generalAmendments"
         class="mx-3 mx-xl-0 mt-3 mt-xl-0"
