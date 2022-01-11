@@ -457,7 +457,7 @@ En els últims anys la política s'ha emmarcat en un espai en què les idees que
 Però no hem de caure en l'electoralisme, o el "fanatisme comunicatiu" i l'addicció dels "likes". Estem ací per un convenciment ideològic, i per això tindre una estratègia política forta i reforçada sempre serà prioritari; però hem de tindre clar que amb això sols no anem a cap lloc. Per tant, l'estratègia de comunicació i la imatge que es vulga transmetre és un factor fonamental i decisiu per tal d'arribar a la ciutadania.
 
 </amendable>
-<amendable id="3_0_3">
+<amendable id="3_0_31">
 
 L'activitat política s'haurà de coordinar, per tant, amb l'acció comunicativa perquè el pensament polític de Joves PV tinga la major i millor difusió possible.
 
