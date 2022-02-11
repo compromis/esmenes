@@ -19,7 +19,8 @@ export default {
         pending: 'Pendent de revisió',
         approved: 'Aprovada',
         compromise: 'Transaccionada',
-        denied: 'A votació',
+        denied: 'Rebutjada',
+        withdrawn: 'Retirada',
       }
 
       return words[this.status]
@@ -31,6 +32,7 @@ export default {
         approved: 'success',
         compromise: 'info',
         denied: 'danger',
+        withdrawn: 'supermuted',
       }
 
       return variants[this.status]
