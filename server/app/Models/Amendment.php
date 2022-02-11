@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
+use App\Scopes\NotHiddenScope;
 
 class Amendment extends Model
 {
@@ -18,6 +19,8 @@ class Amendment extends Model
     protected static function boot()
     {
         parent::boot();
+
+        static::addGlobalScope(new NotHiddenScope);
 
         static::creating(function ($query) {
             $query->ref = Str::random(10);
