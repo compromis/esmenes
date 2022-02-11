@@ -3,7 +3,13 @@
     <div class="container pt-4">
       <div v-if="amendment" class="amendment-item">
         <div class="amendment-header d-flex mb-3">
-          <h4 class="mb-0">Esmena #{{ amendment.num }}</h4>
+          <h4 class="mb-0">
+            {{
+              amendment.custom_num
+                ? amendment.custom_num
+                : `Esmena #${amendment.num}`
+            }}
+          </h4>
           <amendment-status :status="amendment.status" class="ms-2" />
         </div>
         <b-card type="outline" padded size="sm">
@@ -39,7 +45,7 @@
             <div v-if="activeTab === 'amended'">
               <div
                 class="text-sans-serif text-lg"
-                v-html="formatHtml(amendment.amended)"
+                v-html="formatHtml(amendment.compromise || amendment.amended)"
               ></div>
             </div>
             <div v-if="activeTab === 'original'">
@@ -50,20 +56,27 @@
             </div>
           </div>
         </b-card>
-        <div class="amendment-justification mt-3">
+        <div class="amendment-justification mt-3 d-none">
           <div class="text-md text-muted">Justificació</div>
           <p>{{ amendment.justification }}</p>
         </div>
-        <div class="amendment-author mt-3">
+        <div
+          v-if="amendment.custom_registered_by"
+          class="amendment-author mt-3"
+        >
           <div class="text-md text-muted">Presentada per</div>
-          {{ amendment.registered_by }}
+          {{ amendment.custom_registered_by }}
         </div>
         <div
-          v-if="amendment.registered_by_assembly"
+          v-else-if="amendment.registered_by_assembly"
           class="amendment-assembly text-muted mt-3"
         >
           <div class="text-md">Aprovada en assemblea</div>
           {{ amendment.registered_by_assembly }}
+        </div>
+        <div v-else class="amendment-author mt-3">
+          <div class="text-md text-muted">Presentada per</div>
+          {{ amendment.registered_by }}
         </div>
         <div v-if="amendment.supports.length" class="amendment-supports mt-3">
           <div class="text-md text-muted">

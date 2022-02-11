@@ -27,7 +27,11 @@
                   :to="linkBase + amendment.ref"
                   class="link-muted-to-black"
                 >
-                  Esmena #{{ amendment.num }}
+                  {{
+                    amendment.custom_num
+                      ? amendment.custom_num
+                      : `Esmena #${amendment.num}`
+                  }}
                 </nuxt-link>
               </h5>
               <amendment-status
@@ -42,23 +46,27 @@
             <amendment-comparison
               class="mb-3 text-md"
               :before="amendment.original"
-              :after="amendment.amended"
+              :after="amendment.compromise || amendment.amended"
             />
           </div>
-          <div class="amendment-justification">
+          <div class="amendment-justification d-none">
             <div class="text-sm">Justificació</div>
             <p>{{ amendment.justification }}</p>
           </div>
-          <div class="amendment-author">
+          <div v-if="amendment.custom_registered_by" class="amendment-author">
             <div class="text-sm">Presentada per</div>
-            {{ amendment.registered_by }}
+            {{ amendment.custom_registered_by }}
           </div>
           <div
-            v-if="amendment.registered_by_assembly"
+            v-else-if="amendment.registered_by_assembly"
             class="amendment-assembly mt-2"
           >
             <div class="text-sm">Aprovada en assemblea</div>
             {{ amendment.registered_by_assembly }}
+          </div>
+          <div v-else class="amendment-author">
+            <div class="text-sm">Presentada per</div>
+            {{ amendment.registered_by }}
           </div>
         </li>
       </b-card-list>
