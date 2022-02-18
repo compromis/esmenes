@@ -46,6 +46,28 @@ class LoginController extends Controller
     }
 
     /**
+     * Autologin
+     */
+    public function autologin(Request $request, $token)
+    {
+        $user = User::where('autologin', $token)->first();
+
+        if (!$user) {
+            return response()->json([
+                'error' => 'Invalid token'
+            ], 401);
+        }
+
+        $token = $user->tokens()->first()->plainTextToken;
+
+        if (!$token) {
+            $token = $user->createToken('Esmenes')->plainTextToken;
+        }
+
+        return redirect(config('esmenes.frontend_url') . '/login?token=' . $token);
+    }
+
+    /**
      * User information
      */
     public function user(Request $request)

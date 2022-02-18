@@ -18,6 +18,7 @@ use App\Http\Controllers\AmendmentController;
 */
 
 Route::get('/user/login', [LoginController::class, 'login']);
+Route::get('/user/auto/{token}', [LoginController::class, 'autologin']);
 
 Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', [LoginController::class, 'user']);
