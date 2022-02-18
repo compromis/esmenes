@@ -58,10 +58,8 @@ class LoginController extends Controller
             ], 401);
         }
 
-        $userToken = $user->tokens()->first();
-        $token = ($userToken) ? $userToken->plainTextToken : $user->createToken('Esmenes')->plainTextToken;
-
-        return redirect(config('esmenes.frontend_url') . '/login?token=' . $token);
+        $frontToken = $user->createToken('Esmenes')->plainTextToken;
+        return redirect(config('esmenes.frontend_url') . '/login?token=' . $frontToken);
     }
 
     /**
