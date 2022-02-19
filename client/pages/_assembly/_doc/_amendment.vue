@@ -39,7 +39,7 @@
               <amendment-comparison
                 class="text-lg"
                 :before="amendment.original"
-                :after="amendment.amended"
+                :after="amendment.compromise || amendment.amended"
               />
             </div>
             <div v-if="activeTab === 'amended'">
