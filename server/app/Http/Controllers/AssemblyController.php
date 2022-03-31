@@ -9,7 +9,7 @@ class AssemblyController extends Controller
 {
     public function assemblies(Request $request)
     {
-        $assemblies = Assembly::all();
+        $assemblies = Assembly::orderBy('id', 'desc')->get();
         $user = $request->user();
 
         // Remove assemblies that the user does not have access to
