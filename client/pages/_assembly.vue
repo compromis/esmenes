@@ -52,8 +52,12 @@ export default {
   },
 
   async mounted() {
-    const assembly = await this.$api.assembly(this.assembly)
-    this.$store.commit('assembly/setAssembly', assembly)
+    try {
+      const assembly = await this.$api.assembly(this.assembly)
+      this.$store.commit('assembly/setAssembly', assembly)
+    } catch (error) {
+      window.location.replace(process.env.NUXT_ENV_ESPAI_SSO)
+    }
   },
 }
 </script>
