@@ -80,8 +80,12 @@
         </div>
         <div v-if="amendment.supports.length" class="amendment-supports mt-3">
           <div class="text-md text-muted">
-            Llista de suports ({{ amendment.supports.length }} de 15 signatures
-            necessàries)
+            Llista de suports
+            <span v-if="min_supports > 0">
+              ({{ amendment.supports.length }} de {{ min_supports }} signatures
+              necessàries)
+            </span>
+            <span v-else>({{ amendment.supports.length }})</span>
           </div>
           <b-badge-list>
             <b-badge
@@ -121,6 +125,12 @@ export default {
       amendment: null,
       activeTab: 'comparison',
     }
+  },
+
+  computed: {
+    min_supports() {
+      return this.$store.state.assembly.assembly.min_supports
+    },
   },
 
   async mounted() {
