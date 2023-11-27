@@ -114,7 +114,7 @@ Ningú podrà fer ús de la paraula si no li ha estat concedida prèviament per 
 <amendable article="15" title="Presentació de propostes de resolució i candidatures">
 
 1. La Mesa del Congrés acceptarà propostes de resolució avalades per les signatures d'un mínim de 20 membres del Congrés o aprovades per les assemblees comarcals en la forma que determinen els Estatuts. Hauran de versar sobre qüestions d'actualitat política i en cap cas sobre aspectes ja contemplats a les ponències.
-2. La presentació de les propostes de resolució s’haurà de fer a la Mesa del Congrés abans de les 14:00 hores del dissabte 19 de febrer de 2022.
+2. La presentació de les propostes de resolució s’haurà de fer a la Mesa del Congrés abans de les 14:00 hores del dissabte 10 de febrer de 2022.
 3. La presentació de candidatures als diversos òrgans es realitzarà a través d’un document que es posarà a disposició de les persones membres en el mateix Congrés. Esta candidatura es presentarà, signada, a la Mesa del Congrés abans de les 14:00 hores del dissabte 19 de febrer de 2022.
 4. En cas que la Ponència d’Estatuts no estiga aprovada a les 14:00 hores, el termini de presentació de candidatures s’ajornarà fins 30 minuts després de l’aprovació d’esta.
 
