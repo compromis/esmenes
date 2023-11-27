@@ -117,6 +117,7 @@ Són membres de Joves PV totes aquelles persones amb la condició de militant o 
     4. Cooperar en l’aplicació i el desenvolupament de la política de l’organització.
     5. Contribuir al sosteniment econòmic de l’organització amb les quotes estipulades.
 
+
 </amendable>
 <amendable article="14" title="Simpatitzants">
 
@@ -131,6 +132,7 @@ Són membres de Joves PV totes aquelles persones amb la condició de militant o 
     1. Complir els Estatuts i les resolucions preses pels òrgans de representació i de govern.
     2. Participar activament en l’acció política i organitzativa assistint, dins de les seues possibilitats, als actes i reunions programades.
     3. Contribuir des del seu àmbit d’influència al creixement de l’organització, tot facilitant la incorporació de membres.
+
 
 </amendable>
 <amendable article="15" title="Sol·licituds d’afiliació">
@@ -199,6 +201,7 @@ El Congrés Nacional està compost per:
     5. El calendari i el funcionament del debat precongressual.
     6. La constitució del Congrés.
 
+
 </amendable>
 <amendable article="22" title="Ordre del dia">
 
@@ -207,6 +210,7 @@ El Congrés Nacional està compost per:
     1. Correspon a l’Assemblea Nacional determinar l’ordre del dia. En cas que la convocatòria siga deguda a les causes c) o d) de l’article 20.2, l’ordre haurà d’incloure necessàriament la renovació de la Coordinadora Nacional, de la Comissió de Garanties, de la Comissió d'abordatge de violències masclistes i LGTBIfòbiques i de les persones representants al Consell Nacional de Més.
     2. Excepcionalment, si la convocatòria és deguda a la sol·licitud d’una tercera part de la militància, aquesta haurà d’anar acompanyada d’una proposta d’ordre del dia. En cas que l’ordre del dia incloga l’elecció de la Coordinadora Nacional, també haurà d’incloure necessàriament la renovació de la Comissió de Garanties, de la Comissió d'abordatge de violències masclistes i LGTBIfòbiques i de les persones representants al Consell Nacional de Més.
     3. Independentment de la convocatòria d’un Congrés extraordinari, se’n celebrarà un d’ordinari passat el termini establert des de l’últim Congrés ordinari.
+
 
 </amendable>
 
@@ -221,6 +225,7 @@ El Congrés Nacional està compost per:
     5. Fer una proposta de Mesa del Congrés.
 3. La Comissió Organitzadora del Congrés estarà composta per un mínim de nou persones i un màxim de quinze.
 4. L’elecció tindrà lloc en l’Assemblea Nacional en què s’aprove el Reglament precongressual. Podem formar-ne part les persones que tinguen dret a participar del Congrés i que presenten la candidatura en el termini establert en la convocatòria de la dita Assemblea Nacional. Les persones assistents a l’Assemblea Nacional votaran dues terceres parts del nombre màxim de membres, d’una llista oberta formada per les persones candidates.
+
 
 </amendable>
 <amendable article="24" title="Constitució i quòrum">
@@ -261,6 +266,7 @@ L’Assemblea Nacional és el màxim òrgan decisori i de representació naciona
     12. Substituir les persones representants de Joves PV al Consell Nacional de Més en cas de no haver-hi suplents.
     13. Debatre i aprovar propostes de resolució de caràcter ideològic, que seran adjuntades a la ponència política.
 2. En qualsevol cas, seran responsabilitat de l’Assemblea Nacional totes aquelles qüestions no atribuïdes expressament a cap altre òrgan.
+
 
 </amendable>
 <amendable article="28" title="Composició">

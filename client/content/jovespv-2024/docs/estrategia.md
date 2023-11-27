@@ -6,6 +6,7 @@ pdf: /docs/jovespv-2024/Ponencia_estrategica_2024.pdf
 
 <amendable-section id="INTRO" title="Introducció">
 <amendable id="0_0_1" last>
+
 Quatre anys després d’aprovar la primera Ponència Estratègica de Joves PV i iniciar el camí d’acció de la nostra organització presentem la que marcarà el rumb durant els pròxims dos anys.
 
 </amendable>
@@ -328,6 +329,7 @@ Joves PV ha d’aprofitar el posicionament de la marca Compromís, per donar vis
 <amendable id="2_2_3">
 
 Així mateix, hem de tenir en compte les altres dues organitzacions juvenils que existeixen a Compromís (SOM i Joves VerdsEquo PV) amb les quals hem de tenir una relació coordinada en els espais que així es determine.
+
 </amendable-section>
 <amendable-section id="2_3" title="2.3. Relacions amb entitats de la societat civil" level="3">
 <amendable id="2_3_1">
@@ -343,15 +345,18 @@ Així mateix, hem de treballar per tal d’afermar les relacions ja existents am
 <amendable id="2_3_3">
 
 A més a més, hem de treballar per aquestes aliances, per tal que siguen efectives, que ens visibilitzen, augmenten les nostres forces i ens posicionen com a l’organització juvenil més important del País. 
+
 </amendable>
 <amendable id="2_3_4">
 
 Les entitats socials són una ferramenta de defensa i protecció dels drets de la ciutadania. Per tant, no ens serà possible construir un país més inclusiu i més igualitari sense la participació d’aquests agents, que conformen un motor de canvi molt potent. 
 Aquesta xarxa de la qual parlem és indispensable per defensar i reivindicar els nostres valors, per això és vital que des de Joves PV es fomente també l’associacionisme dels seus membres, a banda de la relació amb les associacions. La participació activa de la nostra militància en altres entitats enfortirà la nostra organització.
+
 </amendable>
 <amendable id="2_3_5">
 
 Ens proposem treballar juntament amb les entitats socials per a crear un espai de retroalimentació on nosaltres portem a l'agenda política les matèries sobre les quals treballem i elles ens ajuden marcant-nos l'argumentari i proporcionant-nos visibilitat en diferents àmbits.
+
 </amendable>
 <amendable-section id="2_3_1" title="2.3.1 Relacions amb entitats de la societat civil" level="4">
 <amendable id="2_3_1_1">
@@ -372,6 +377,7 @@ Ara mateix, una persona representant de Joves PV forma part de la Comissió Perm
 <amendable id="2_3_1_4">
 
 A més a més, hem de prestar especial atenció als consells locals de la joventut, que són espais que aglutinen, representen i fomenten l'associacionisme juvenil dels municipis. Per a la nostra organització és cabdal tindre una representació en tots i cadascun dels consells locals, entenent-los com espais on defensar i representar la joventut i vetlar pels seus drets davant les administracions locals. Per això, ens proposem **augmentar la nostra presència en els consells locals de la joventut**, arribant als consells on no tenim representació i entrant a la Comissió Permanent dels consells on ja tenim representació.
+
 </amendable>
 </amendable-section>
 
@@ -397,27 +403,33 @@ Joves CCOO PV, és la secció juvenil del sindicat CCOO PV, l’organització m�
 </amendable>
 <amendable id="2_3_2_5">
 
-Hem de promoure la creació de vincles que ens ajuden a cooperar amb aquestes organitzacions per tal de lluitar per un treball digne per a la joventut i perquè es dignifiquen els nostres treballs i es reconeguen les nostres capacitats. 
+Hem de promoure la creació de vincles que ens ajuden a cooperar amb aquestes organitzacions per tal de lluitar per un treball digne per a la joventut i perquè es dignifiquen els nostres treballs i es reconeguen les nostres capacitats.
+
 </amendable>
 <amendable id="2_3_2_6">
 
 Pel que fa a l'habitatge, la **manca d'associacionisme juvenil que lluite per una casa digna per a la joventut** fa que ens fixem en altres entitats i amb les quals es fa més complicat l'acostament. Per exemple, la **Plataforma d'Afectades per la Hipoteca **(PAH). És un moviment social que naix amb la intenció de donar una resposta ciutadana a la situació d'aquelles persones que comencen a no poder pagar la hipoteca i veuen com el banc els pot reclamar un deute elevadíssim, fins i tot després de perdre l'habitatge. Aquesta plataforma ha aconseguit posar en el focus mediàtic el dret a l'habitatge com un dret inherent a l'ésser humà, i on les administracions públiques tenen l'obligació de garantir-lo. A més a més, dins d'aquesta organització trobem la intersecció "STOP desahucios", encarregada de lluitar pels drets d'aquells més vulnerables en matèria d'habitatge.
+
 </amendable>
 <amendable id="2_3_2_7">
 
 Encara més, i sobretot després de la pandèmia de la COVID-19, **la falta de salut mental s'ha posat en el focus mediàtic**, fent que aquesta ocupe lloc en els debats polítics i socials. Entitats com la Federació Salut Mental CV promouen la salut mental i sensibilitzen sobre aquest. Entenem que estrényer llaços amb aquesta entitat és necessari per a crear el nostre argumentari sobre aquestes matèries.
+
 </amendable>
 <amendable id="2_3_2_8">
 
 També hem d’apostar per formar-nos en aquesta matèria i poder comptar amb aquesta organització i amb els col·legis professionals com a ponents a les nostres formacions en aquesta matèria per tal d’ampliar els nostres coneixements sobre aquests temes tan necessaris i integrar-ho en els nostres plans d'acció.
+
 </amendable>
 <amendable id="2_3_2_9">
 
 Així mateix, considerem d'extrema necessitat fer esment a la diversitat cultural. Considerem que Joves PV és i ha de continuar sent una representació real de la diversitat i, per això, cal reforçar els nostres llaços amb entitats com CEA(R) PV, CIE's NO o Save The Children.
+
 </amendable>
 <amendable id="2_3_2_10">
 
 CEA(R) PV és la Comissió d'Ajuda al Refugiat del País Valencià, que té com a objectius la defensa del dret d'asil i els drets de les persones refugiades apàtrides i migrants vulnerables, amb necessitat de protecció internacional i/o en risc d'exclusió social, al mateix temps que treballa per afavorir els processos d'integració social d'aquestes persones al País Valencià. I CIE's NO és una plataforma pel tancament dels centres d'internament a estrangers.
+
 </amendable>
 </amendable-section>
 
@@ -443,30 +455,38 @@ Escola Valenciana és una federació que aglutina moltes entitats locals, comarc
 </amendable>
 <amendable id="2_3_3_5">
 
-En últim lloc, trobem l'ACV Tirant lo Blanc i la Fundació Nexe, una associació cívica valenciana i una fundació de caràcter valencianista amb les quals hem col·laborat al llarg dels últims anys amb la formulació d'ideari polític i realització de seminaris, activitats formatives i projectes de gran envergadura com el documental “El Llegat” o les Trobades Nacionals d’Estiu 2022 i 2023. Aquestes col·laboracions han oferit una oportunitat a les persones membres de Joves PV perquè coneixen aquest espai, es formen amb les diferents activitats que aquesta associació organitza, així com espais de debat i reflexió al voltant de polítiques amb perspectiva sobiranista i valencianista. 
+En últim lloc, trobem l'ACV Tirant lo Blanc i la Fundació Nexe, una associació cívica valenciana i una fundació de caràcter valencianista amb les quals hem col·laborat al llarg dels últims anys amb la formulació d'ideari polític i realització de seminaris, activitats formatives i projectes de gran envergadura com el documental “El Llegat” o les Trobades Nacionals d’Estiu 2022 i 2023. Aquestes col·laboracions han oferit una oportunitat a les persones membres de Joves PV perquè coneixen aquest espai, es formen amb les diferents activitats que aquesta associació organitza, així com espais de debat i reflexió al voltant de polítiques amb perspectiva sobiranista i valencianista.
+
 </amendable>
 <amendable id="2_3_3_6">
 
 A més a més, cal fer esment a la importància que posseeix l'educació, tant formal com no formal, sent els nostres referents la Federació Valenciana d'Estudiants (FAAVEM) i Escola Valenciana en l'àmbit de l'ensenyament primari i secundari, el Bloc de l'Estudiantat Agermanat (BEA) en l'àmbit universitari, i la Federació d'Escoltisme Valencià (FEV) en l'àmbit de l'educació no formal.
+
 </amendable>
 <amendable id="2_3_3_7">
 
 Concretament, en l’àmbit universitari haurem de marcar una estratègia pròpia per a l’ampliació de les bases del sobiranisme valencià (en període electoral universitari o fora d’ell), aprofitant la doble militància d’algunes persones de Joves PV en el BEA, encara que prioritzant la seua autonomia i naturalesa apartidista. Des de Joves PV hauríem de treballar de manera conjunta amb el BEA per tal que s’hi instaure en aquelles Universitats valencianes on no en té presència. 
+
 </amendable>
 <amendable id="2_3_3_8">
 
 Finalment, el sobiranisme i l'internacionalisme formen part de l'ADN de la nostra organització, per això se'ns fa imprescindible **establir i augmentar vincles amb altres organitzacions internacionals sobiranistes**. Considerem estratègicament prioritari mantindre unes relacions fluides amb aquelles organitzacions que, pel seu ideari, ens resulten més pròximes (amb especial atenció a les del nostre àmbit lingüístic) i que respecten la nostra concepció del fet nacional valencià d'una manera inequívoca i sense ingerències, mostrant-nos amb naturalitat com el referent polític jove del valencianisme. Així, continuarem col·laborant amb **Mallorca Nova, Galiza Nova, Gazte Abertzaleak, Jovent Republicà, Juventudes Andalucistas, Jóvenes Andalucistas, Chobentut Aragonesista, Joves Ecosocialistes i Más Madrid Joven**.
+
 </amendable>
 <amendable id="2_3_3_9">
 
 En l'àmbit continental i coherents amb la nostra defensa de l'Europa dels pobles s'establiran de manera prioritària relacions amb aquelles organitzacions d'esquerres integrants de les joventuts de l'**Aliança Lliure Europea Jove (EFAY)**. Les relacions han de ser d'enriquiment cultural i cooperació entre pobles, sense perdre l'objectiu de donar a conéixer i fer prevaldre les inquietuds i idiosincràsia valenciana en coherència amb l'establert en la nostra ponència política. Així mateix, donada la naturalesa diversa de l'EFAY, en què conviuen partits i organitzacions de distintes perspectives ideològiques, sempre donarem suport a aquelles que promouen la interculturalitat i el respecte mutu amb un posicionament ideològic d'esquerres.
+
 </amendable>
 <amendable id="2_3_3_10">
 
 També en l'àrea de relacions internacionals hem de mantindre relació amb aquelles associacions, fundacions i organitzacions no governamentals que tinguen com a eix central del seu treball la defensa dels drets humans i del dret a l'autodeterminació dels pobles, com per exemple **CEAS SÀHARA (Frente Polisario)**.
+
 </amendable>
 <amendable id="2_3_3_11">
+
 Per acabar, cal deixar constància que Joves PV trencarà les seues aliances i vincles amb qualsevol de les organitzacions anteriorment esmentades en el cas que deixara de veure reflectits els valors que respecta i representa.
+
 </amendable>
 </amendable-section>
 
@@ -501,6 +521,7 @@ A més, al País Valencià hi ha una **gran varietat d'associacions ecologistes*
 <amendable id="2_3_6_1">
 
 En matèria de diversitat LGTBI+ pensem que els col·lectius que més s'apropen als nostres valors són **LAMBDA i Diversitat**. Hem d'acompanyar estes organitzacions a tots els actes i activitats que convoquen, així com les concentracions o manifestacions. Entenem que també són unes entitats on poder reflectir-nos per a redactar argumentari. Així mateix, també existeixen nombroses entitats locals i comarcals de defensa dels drets LGTBI amb qui també podem treballar territorialment.
+
 </amendable>
 </amendable-section>
 </amendable-section>
@@ -738,9 +759,7 @@ La pàgina web, a més a més, és un canal que ha de servir per millor la comun
 Cal saber que una pàgina web desactualitzada pot projectar una imatge negativa i de desinterés, per la qual cosa, mantenint-la actualitzada podem mostrar el compromís i serietat que volem que reflectisca la nostra organització.
 
 </amendable>
-
 </amendable-section>
-
 </amendable-section>
 
 <amendable-section id="4" title="4. Estratègia electoral">
@@ -775,7 +794,6 @@ Així mateix, ara no cap una explicació en profunditat de les estratègies elec
 
 </amendable>
 </amendable-section>
-
 </amendable-section>
 
 <amendable-section id="5" title="5. Estratègia institucional">
@@ -812,6 +830,7 @@ També és important que Joves PV es mantinga vinculat a l'activitat del Congré
 <amendable id="5_0_7">
 
 Finalment, no tenim representació ni presència al Parlament Europeu, però mantenim connexió amb els espais vinculats al mateix amb una persona treballant en l'EFA i ocupem llocs tant en el Bureau de l'EFA com de l'EFAY.
+
 </amendable>
 <amendable id="5_0_8">
 
@@ -839,7 +858,6 @@ També s'ha de continuar apostant per la **Trobada Municipalista** com a espai a
 
 Per acabar, la formació de les persones regidores juga un paper molt important i Joves PV ha de procurar-la, tant per a les persones amb responsabilitats de govern com per a les persones que han de desenvolupar les tasques d'oposició. Així, i en col·laboració amb el Més, s’han elaborat jornades de formació per a regidores. No obstant això, caldria un pla de formació més específic o establir trobades municipalistes on es tracten temes i/o problemàtiques concretes (estatuts dels membres de les corporacions locals, grups polítics, elecció de l'alcalde/ssa, qüestions pràctiques sobre la sessió constitutiva i organitzativa, àrees de govern i delegacions, règim de funcionament de la Junta de Govern, Comissions Informatives i Ple, competències dels ajuntaments…)
 
-
 </amendable-section>
 <amendable-section id="5_2" title="5.2. Coordinació supramunicipal" level="3">
 
@@ -858,7 +876,6 @@ Com que comptem amb càrrecs de Joves PV a les tres circumscripcions, la coordin
 Tanmateix, la coordinació supramunicipal, no depén exclusivament dels càrrecs de Joves PV, sinó que també hem de fer valdre la resta de càrrecs per tal de desenvolupar polítiques de joventuts perquè són transversals. 
 
 </amendable>
-
 </amendable-section>
 </amendable-section>
 

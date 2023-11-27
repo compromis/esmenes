@@ -11,23 +11,23 @@ title: V Congrés Joves PV
 
 A continuació trobaràs unes breus instruccions per poder fer un ús correcte d’esta ferramenta.
 
-El termini per a presentar esmenes als documents acabarà el **10 de gener** a les 23:59:59. Els diferents documents esmenables que trobaràs a cada pestanya són:
+El termini per a presentar esmenes als documents acabarà el **18 de desembre** a les 23:59:59. Els diferents documents esmenables que trobaràs a cada pestanya són:
 
 <div class="doc-grid mb-6">
 <nuxt-link to="/jovespv-2024/reglament" class="doc-button">
-Reglament del Congrés
+  Reglament del Congrés
 </nuxt-link>
 
 <nuxt-link to="/jovespv-2024/estatuts" class="doc-button">
-Estatuts
+  Estatuts
 </nuxt-link>
 
 <nuxt-link to="/jovespv-2024/politica" class="doc-button">
-Ponència Política
+  Ponència Política
 </nuxt-link>
 
 <nuxt-link to="/jovespv-2024/estrategia" class="doc-button">
-Ponència Estratègica
+  Ponència Estratègica
 </nuxt-link>
 </div>
 
