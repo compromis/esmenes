@@ -122,9 +122,8 @@ A més, necessitem unes relacions laborals que siguen compatibles amb el treball
 </amendable>
 </amendable-section>
 <amendable-section id="1_3" title="1.3 Educació" level="3">
-<amendable id="1_3_1">
+<amendable id="1_3_1" title="a) Educació formal">
 
-**a) Educació formal**
 L'**educació** és el pilar fonamental de creixement personal i col·lectiu, i l’accés universal garanteix una societat igualitària, pròspera i democràtica. Defensem un sistema gratuït durant totes les etapes, amb independència de la situació o condició de l’alumnat, amb els recursos necessaris per a poder complir-ho, especialment pel que fa a les dificultats socioeconòmiques. Per tant, necessàriament, ha d’estar centrat en l'accés, la participació i l’aprenentatge integral de tot l'alumnat, i no els beneficis empresarials privats.
 
 </amendable>
@@ -148,9 +147,8 @@ Aquest canvi de model ha de passar per potenciar la **formació** en itineraris 
 Defensem una **formació professional** de qualitat, vinculada al territori, amb multiplicitat d’itineraris per a afavorir la inserció i la potenciació de sectors productius de present i futur, donant-li importància i prestigi a aquests estudis per superar l'estigma que encara arrosseguen. Apostem per unes **universitats públiques** per a totes les persones, amb un sistema de beques fort que garantisca que la renda econòmica no siga una barrera d’accés als estudis, i amb un pla de finançament que garantisca l’estabilització i consolidació de plantilles de professorat i de personal investigador.
 
 </amendable>
-<amendable id="1_3_6">
+<amendable id="1_3_6" title="b) Educació no formal">
 
-**b) Educació no formal**
 Més enllà de l’espai escolar hi ha espais d’aprenentatge i creixement que, en alguns casos ja iniciats en la infància i mitjançant l’educació en valors a través d’activitats i projectes, esdevenen autèntiques oportunitats per a desenvolupar una actitud crítica davant el món. Es tracta d’espais en forma d’entitats i activitats educatives, culturals, esportives o lúdiques, emmarcades en el que entenem com a educació no formal, que conviden la gent jove a trobar-se, organitzar-se i créixer.
 
 </amendable>
@@ -185,9 +183,8 @@ A més, ens sumem al pràcticament unànime consens polític, social, sindical i
 </amendable>
 </amendable-section>
 <amendable-section id="1_6" title="1.6. Salut i sanitat" level="3">
-<amendable id="1_6_1">
+<amendable id="1_6_1" title="a) Salut">
 
-**a) Salut**
 Entenem la **salut** com a un dret, que s'ha de garantir amb un sistema sanitari totalment públic. Defensem una concepció de la salut que aborde totes les seues dimensions, que entenga la salut mental com a una part indispensable de l'atenció primària i l'accés lliure, gratuït i segur als recursos en salut mental des de la infància i la joventut. En aquest sentit, no hem de perdre de vista com les desigualtats estructurals afecten  la salut mental de la població, i hem de concebre l'assoliment dels drets bàsics per a la vida i el desenvolupament personal com una de les principals solucions als problemes de salut mental de les persones, especialment les joves. Un bon nivell de salut generalitzat exigeix establir un estil de vida saludable, que tinga especial incidència en qüestions com la drogodependència, l’alimentació o l’esport. Açò passa principalment per l’educació i per l’ús de les eines que tenim a l’abast per a la detecció precoç, que han de comptar amb els recursos suficients per a fer de la salut una de les potes principals del benestar social. 
 
 </amendable>
@@ -196,9 +193,8 @@ Entenem la **salut** com a un dret, que s'ha de garantir amb un sistema sanitari
 Les administracions públiques han de ser les encarregades de posar solució als problemes que la posen en perill i de formar la ciutadania per a la prevenció d'aquests, però hem de fer valdre la resta de factors que hi influeixen. El model econòmic actual, en què destinem la major part del temps a activitats productives, i que empobreix a la classe treballadora, fa que un sector molt gran de la població no tinga accés al desenvolupament d’hàbits saludables. Per això, és imprescindible que canvie aquest paradigma cap a unes condicions més compatibles amb la vida i la salut. 
 
 </amendable>
-<amendable id="1_6_3">
+<amendable id="1_6_3" title="b) Sanitat">
 
-**b) Sanitat**
 Un dels objectius polítics indefugibles per a Joves PV ha de ser, més enllà de defensar els mínims coberts per la sanitat que tants anys va costar assolir, la lluita contra la deriva privatitzadora més recent i que exclou qui menys té. Reivindiquem una **sanitat** d'accés universal per a totes les persones, independent de la seua situació econòmica, origen, lloc de residència o situació administrativa; en què els recursos de salut estiguen al seu abast, especialment en l'àmbit rural. Una sanitat amb perspectiva de gènere, que tinga en compte els determinants de sexe en la salut, que assegure els tractaments i abordaments diferenciats per a les dones, i que respecte la seua integritat com a pacients. Entre altres, hem d’acabar amb la violència obstètrica, i avançar cap al tracte humà de les dones en el moment de parir o en la situació de pèrdua inesperada de l’infant.
  
 </amendable>
@@ -400,7 +396,7 @@ Aquest sistema cisheteropatriarcal i masclista normalitza, legitima i invisibili
 Però els assassinats són, només, una de les múltiples formes de violència patriarcal, fruit de tot un engranatge que perpetra discriminacions i desigualtats. Rebutgem i condemnem tota violència física, psicològica, econòmica o sexual, i qualsevol pràctica que mercantilitze, cosifique o faça de les dones una idea d'objecte, com la **pornografia**, els **ventres de lloguer** o la **prostitució**. Són pràctiques que aprofiten la situació econòmica per a satisfer els desitjos patriarcals i les dinàmiques capitalistes, sota condicions laborals d'explotació, que suposen una privació del dret a decidir sobre el seu cos a les dones. Reivindiquem els **drets reproductius** de les dones i acabar amb la **violència obstètrica** i l'assetjament cap a les dones que volen interrompre el seu embaràs. Per això, és indispensable una legislació que vetle per l’erradicació de totes les formes de violències masclistes.  
 
 </amendable>
-<amendable id="3_1_4" title="a) Noves masculinitats">
+<amendable id="3_1_4" title="b) Noves masculinitats">
 
 Considerem imprescindible que s'impulse des de l'educació formal i no formal una veritable **coeducació**, com a eina que ensenye i forme sobre la igualtat entre els hòmens i les dones sense promoure estereotips ni rols de gènere, i que sensibilitze en aquests termes. Per a assolir una igualtat efectiva, necessitem una educació afectiva-sexual a les aules des de les primeres etapes i adaptades a cada edat als centres educatius.
 
