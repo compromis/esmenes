@@ -1,7 +1,7 @@
 ---
 title: Estatuts
 order: 1
-pdf: /docs/jovespv/Estatuts_2024.pdf
+pdf: /docs/jovespv-2024/Estatuts_2024.pdf
 ---
 
 <amendable-section id="PRE" title="Títol preliminar">

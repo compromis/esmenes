@@ -1,18 +1,18 @@
 ---
 title: Reglament del Congrés
 order: 0
-pdf: /docs/jovespv/Reglament_del_Congres.pdf
+pdf: /docs/jovespv-2024/Reglament_del_Congres.pdf
 ---
 
 <amendable-section id="PRE" title="Títol preliminar">
 <amendable article="1" title="Composició">
 
-Són membres de ple dret del IV Congrés Nacional de Joves PV - Compromís totes les persones degudament inscrites en el cens del Congrés previst en el Reglament precongressual.
+Són membres de ple dret del V Congrés Nacional de Joves PV - Compromís totes les persones degudament inscrites en el cens del Congrés previst en el Reglament precongressual.
 
 </amendable>
 <amendable article="2" title="Constitució">
 
-1. El IV Congrés Nacional de Joves PV quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones membres.
+1. El V Congrés Nacional de Joves PV quedarà vàlidament constituït en primera convocatòria amb la meitat més una de les persones membres.
 2. En qualsevol cas, el Congrés quedarà vàlidament constituït en segona convocatòria, mitja hora després de la primera, amb independència del nombre de membres presents.
 
 </amendable>
@@ -21,7 +21,7 @@ Són membres de ple dret del IV Congrés Nacional de Joves PV - Compromís totes
 <amendable-section id="T1" title="Títol primer. Funcions del Congrés">
 <amendable article="3" title="Ordre del dia">
 
-El Congrés tindrà el següent ordre del dia:
+El Congrés tindrà el següent Ordre del dia:
 1. Aprovació, si escau, de l’Ordre del dia del Congrés.
 2. Debat i aprovació, si escau, del Reglament del Congrés.
 3. Elecció de la Mesa del Congrés.
@@ -29,14 +29,15 @@ El Congrés tindrà el següent ordre del dia:
 5. Debat i aprovació, si escau, dels Estatuts.
 6. Debat i aprovació, si escau, de la Ponència Política.
 7. Debat i aprovació, si escau, de la Ponència Estratègica.
-8. Debat i modificació, si escau, del Manual d’Identitat Visual Corporativa.
-9. Debat i aprovació, si escau, de propostes de resolució.
-10. Elecció de la Coordinadora Nacional, la Comissió de Transparència i Garanties, la Comissió d’abordatge de violències masclistes i LGTBIfòbiques, i els i les membres del Consell Nacional de Més.
-11. Cloenda.
+8. Debat i aprovació, si escau, de propostes de resolució.
+9. Elecció de la Coordinadora Nacional, la Comissió de Garanties, la Comissió d’abordatge de violències masclistes i LGTBIfòbiques, i els i les membres del Consell Nacional de Més.
+10. Cloenda.
+
 
 </amendable>
 <amendable article="4" title="Altres funcions">
 Seran funcions del Congrés, a més de les previstes en l’Ordre del dia, totes aquelles que se’n puguen derivar de les previstes en els Estatuts vigents i el Reglament precongressual, inclosa la modificació de l’Ordre del dia.
+
 </amendable>
 </amendable-section>
 
@@ -45,6 +46,7 @@ Seran funcions del Congrés, a més de les previstes en l’Ordre del dia, totes
 
 1. La Mesa del Congrés estarà formada per la Presidència, la Vicepresidència, la Secretaria i la Vicesecretaria.
 2. La Mesa haurà de complir la paritat de gèneres prevista en els Estatuts vigents.
+
 
 </amendable>
 <amendable article="6" title="Funcions">
@@ -55,17 +57,20 @@ Seran funcions del Congrés, a més de les previstes en l’Ordre del dia, totes
 4.  La Vicesecretaria cobrirà les responsabilitats de la Secretaria en cas de necessitat.
 5. A més, la Mesa tindrà capacitat autònoma per a distribuir-se el treball, distribuir els temps d'intervenció, procedir al recompte de votacions, així com totes les necessàries per al bon desenvolupament del Congrés i els règims d’intervencions i votacions.
 
+
 </amendable>
 <amendable article="7" title="Elecció">
 
 1. Les persones que formen la Mesa del Congrés seran elegides entre els i les membres del Congrés, a proposta de la Comissió Organitzadora del Congrés.
 2. Es podran fer propostes alternatives de Mesa amb el suport escrit d’un mínim del 5% de membres del Congrés. En este cas, es procedirà a votació i es proclamarà aquella que obtinga majoria absoluta de vots en primera votació o majoria simple de vots en segona.
 
+
 </amendable>
 <amendable article="8" title="Substitucions">
 
 1. La Mesa del Congrés es revocarà i es procedirà a l'elecció d'una nova si així ho acorda la majoria absoluta de membres del Congrés, a proposta escrita d'un mínim del 20% de membres del Congrés.
 2. En cas de dimissió d’algun o alguna membre de la Mesa es procedirà a la substitució a proposta de la mateixa. Però si la dimissió és conjunta de 3 o més components, s’haurà de procedir a l’elecció d’una nova Mesa.
+
 
 </amendable>
 <amendable article="9" title="Acords">
@@ -84,9 +89,10 @@ Per al debat i aprovació de les ponències se seguirà el següent procediment:
 3. En el cas que s’haja presentat una esmena a la totalitat, esta serà debatuda abans que les esmenes parcials, i en el supòsit de prosperar, les esmenes parcials es mantindran sempre que siguen compatibles amb l’esmena a la totalitat.
 4. En el cas que la persona ponent haja assumit una esmena parcial, qualsevol membre del Congrés podrà intervindre per a demanar el manteniment del text original, durant un màxim de 2 minuts, donant lloc a una intervenció d'igual durada per part de la ponent.
 5. Finalment es procedirà a la votació de l'esmena debatuda.
-6. Acabada la votació de les esmenes parcials, es donarà la paraula a la persona ponent, que farà una valoració global del text amb les esmenes incorporades, per un temps màxim de 10 minuts.
+6. Acabada la votació de les esmenes parcials, es donarà la paraula a la persona ponent, que farà una valoració global del text amb les esmenes incorporades, per un temps màxim de 5 minuts.
 7. Després s'obrirà un únic torn tancat de paraula i la Mesa distribuirà el temps entre qui vulga intervindre. Clourà el debat la ponent, que disposarà del temps que li assigne la Mesa, en funció del nombre d’intervencions.
 8. Finalment es procedirà a la votació de la totalitat del text.
+
 
 </amendable>
 <amendable article="11" title="Moderació">
@@ -103,13 +109,15 @@ Ningú podrà fer ús de la paraula si no li ha estat concedida prèviament per 
 1. En qualsevol moment, qualsevol participant del Congrés podrà plantejar una qüestió d'ordre tot indicant la norma estatutària o reglamentària l'aplicació de la qual es reclame. Les qüestions d'ordre es resoldran per la Mesa, sense que per este motiu calga promoure's debat.
 2. Es podran concedir torns breus de paraula per a respondre a al·lusions personals. Estos torns no superaran el temps màxim d’un minut.
 
+
 </amendable>
 <amendable article="15" title="Presentació de propostes de resolució i candidatures">
 
-1. La Mesa del Congrés acceptarà propostes de resolució avalades per les signatures d'un mínim de 20 membres del Congrés. Hauran de versar sobre qüestions d'actualitat política i en cap cas sobre aspectes ja contemplats a les ponències.
+1. La Mesa del Congrés acceptarà propostes de resolució avalades per les signatures d'un mínim de 20 membres del Congrés o aprovades per les assemblees comarcals en la forma que determinen els Estatuts. Hauran de versar sobre qüestions d'actualitat política i en cap cas sobre aspectes ja contemplats a les ponències.
 2. La presentació de les propostes de resolució s’haurà de fer a la Mesa del Congrés abans de les 14:00 hores del dissabte 19 de febrer de 2022.
 3. La presentació de candidatures als diversos òrgans es realitzarà a través d’un document que es posarà a disposició de les persones membres en el mateix Congrés. Esta candidatura es presentarà, signada, a la Mesa del Congrés abans de les 14:00 hores del dissabte 19 de febrer de 2022.
 4. En cas que la Ponència d’Estatuts no estiga aprovada a les 14:00 hores, el termini de presentació de candidatures s’ajornarà fins 30 minuts després de l’aprovació d’esta.
+
 
 </amendable>
 </amendable-section>
@@ -121,6 +129,7 @@ Ningú podrà fer ús de la paraula si no li ha estat concedida prèviament per 
 2. Les votacions sobre persones seran necessàriament secretes. Tindran la consideració de votació sobre persones aquelles en què el resultat afecte directament els drets, els deures, les expectatives, l’honor o la imatge d’estes.
 3. Per a l’elecció de la Mesa, la votació només serà secreta en cas d’alternativa a la proposta de la Comissió Organitzadora del Congrés o en cas que ho demane el 10% de les persones membres del Congrés.
 
+
 </amendable>
 <amendable article="17" title="Acords">
 
@@ -130,6 +139,7 @@ Ningú podrà fer ús de la paraula si no li ha estat concedida prèviament per 
 4. En cas d’empat es repetirà la votació. En cas de persistir l’empat:
   1. Generalment, prevaldrà l’statu quo.
   2. Quan es tracta de l’elecció de càrrecs de representació, es resoldrà per sorteig.
+
 
 </amendable>
 <amendable article="18" title="Votacions">
@@ -155,7 +165,7 @@ En cas de dubte en la interpretació d’este Reglament o que sorgisca una qües
 <amendable-section id="DF" title="Disposició final">
 <amendable id="DF1" title="Única. Vigor">
 
-Este Reglament entrà en vigor en el moment de la seua aprovació i fins al tancament de la sessió del IV Congrés Nacional de Joves PV - Compromís.
+Este Reglament entrà en vigor en el moment de la seua aprovació i fins al tancament de la sessió del V Congrés Nacional de Joves PV - Compromís.
 
 </amendable>
 </amendable-section>
