@@ -44,4 +44,3 @@ Les esmenes presentades estaran visibles baix de l’article o apartat en qüest
 Per a l’acceptació de les **esmenes parcials** han d’estar signades per un mínim de 15 persones o presentades per un col·lectiu comarcal.
 
 En cas de voler presentar una proposta alternativa a tot un document, les **esmenes a la totalitat** han d’incloure un text alternatiu i s’han de presentar signades per un mínim de 50 persones de tres comarques diferents. Seran invàlides aquelles signatures que donen suport a dues esmenes d’este tipus a la mateixa ponència. S’han de presentar a info@jovespv.org o a la Seu Nacional de Compromís.
-
