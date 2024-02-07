@@ -19,12 +19,11 @@ pdf: /docs/jovespv-2024/Estatuts_2024.pdf
 </amendable>
 <amendable article="3" title="Principis">
 
-1. Joves PV s’inspira, des del punt de vista nacional, en les diferents tradicions del valencianisme polític, i des del punt de vista social, en els postulats de l'esquerra democràtica, de l’ecologisme i del feminisme, així com en el republicanisme pel que fa a la forma del govern.
-2. Joves PV s’erigeix el punt de trobada del jovent valencià que reivindica una societat més justa, igualitària, solidària, democràtica i ambientalment sostenible, garant de les llibertats individuals i col·lectives del poble valencià, inclòs l’accés complet i efectiu a l’exercici de la seua sobirania.
-3. Joves PV assumeix com a principi la superació democràtica del sistema capitalista actual que condemna la societat, i especialment el jovent, a patir la desigualtat extrema, la injustícia, la precarietat i la pobresa, dins d’un context de crisi climàtica.
-4. Joves PV propugna com a valor fonamental de l’organització la pluralitat interna i el respecte a la divergència d’opinions.
-5. Els principis ideològics i estratègics de Joves PV estaran reflectits en les ponències aprovades en el seu Congrés Nacional.
-
+1.  Joves PV s’inspira, des del punt de vista nacional, en les diferents tradicions del valencianisme polític, i des del punt de vista social, en els postulats de l'esquerra democràtica, de l’ecologisme, de l'antifeixisme i del feminisme, així com en el republicanisme pel que fa a la forma del govern.
+2.  Joves PV s’erigeix el punt de trobada del jovent valencià que reivindica una societat més justa, igualitària, solidària, democràtica i ambientalment sostenible, garant de les llibertats individuals i col·lectives del poble valencià, inclòs l’accés complet i efectiu a l’exercici de la seua sobirania.
+3.  Joves PV assumeix com a principi la superació democràtica del sistema capitalista actual que condemna la societat, i especialment el jovent, a patir la desigualtat extrema, la injustícia, la precarietat i la pobresa, dins d’un context de crisi climàtica.
+4.  Joves PV propugna com a valor fonamental de l’organització la pluralitat interna i el respecte a la divergència d’opinions.
+5.  Els principis ideològics i estratègics de Joves PV estaran reflectits en les ponències aprovades en el seu Congrés Nacional.
 
 </amendable>
 <amendable article="4" title="Objectius">
@@ -33,10 +32,10 @@ Els objectius de Joves PV són:
 1. La defensa dels drets de la joventut, especialment el seu dret a participar en els processos polítics, socials, econòmics, laborals i culturals.
 2. La defensa dels interessos del poble valencià i la consecució d’un projecte de construcció nacional i popular per al País Valencià que ha de veure’s culminat, en la seua màxima expressió, en l’assoliment de la plena sobirania d’aquest poble i la seua plasmació legal mitjançant la constitució de l’Estat valencià republicà.
 3. La defensa i promoció del valencià com a llengua pròpia del País Valencià i la garantia dels drets lingüístics en tots els àmbits.
-4. El foment dels valors de la igualtat i la justícia social, la solidaritat i la cooperació entre pobles, la protecció del medi ambient i la lluita contra l’emergència climàtica o la laïcitat, així com de polítiques socials inclusives i d’enfortiment de l’estat del benestar.
+4. El foment dels valors de la igualtat i la justícia social, la solidaritat, la cooperació entre pobles o la laïcitat, així com les polítiques socials inclusives i d’enfortiment de l’estat del benestar.
 5. La promoció, tant en l’àmbit extern com en l’intern, dels valors democràtics del pluralisme, la participació, la transparència i el diàleg, fent servir per a aquesta finalitat totes les eines necessàries i obrint-se a la comunicació amb altres agents de la societat.
 6. L’impuls de la formació política i social de totes les persones militants i simpatitzants, i del conjunt de la joventut valenciana, d’acord amb els principis de l’organització i les seues necessitats estratègiques.
-
+7. La defensa del territori, la protecció del medi ambient, la lluita contra l'emergència climàtica i la defensa dels drets dels animals.
 
 </amendable>
 <amendable article="5" title="Àmbit d’actuació">
@@ -86,10 +85,19 @@ Joves PV i Més mantenen relacions estables, les quals s’inspiraran en els pri
 4. En el supòsit d’absència, s’acreditarà les persones substitutes d’entre la llista de suplents generada en el Congrés Nacional.
 5. En el supòsit de vacant d’alguna persona representant al Consell Nacional serà substituïda per la següent candidatura de la llista de suplents. Si s’esgota la llista de suplents, es repetirà el procediment d’elecció de càrrecs en la següent Assemblea Nacional.
 
+1.  La representació de Joves PV al Consell Nacional de Més es triarà al Congrés Nacional per mitjà del mètode de llista oberta entre la militància de Joves PV que ho siguen alhora de Més. El procediment serà la presentació de candidatures individuals.
+2.  Cada militant de Joves PV que ho siga alhora de Més podrà votar dues terceres parts del total de candidatures que es puguen proclamar. Cada candidatura serà vàlida de proclamació si obté igual o més del 10% dels vots presents. Les candidatures vàlides no proclamades constituiran una llista de suplents ordenada en funció del nombre de vots obtinguts.
+3.  Són funcions dels consellers i les conselleres:
+    1.  Assistir a les sessions del Consell Nacional de Més.
+    2.  Comunicar, en cas de preveure-ho, la seua absència a alguna de les sessions del Consell Nacional de la forma estipulada.
+    3.  Respectar en tot cas el mandat de Joves PV establert pel Congrés Nacional o l’Assemblea Nacional. En cas de no existir cap mandat, s’entendrà que els consellers i les conselleres tindran llibertat de vot.
+4.  En el supòsit d’absència, s’acreditarà les persones substitutes d’entre la llista de suplents generada en el Congrés Nacional.
+5.  En el supòsit de vacant d’alguna persona representant al Consell Nacional serà substituïda per la següent candidatura de la llista de suplents. Si s’esgota la llista de suplents, es repetirà el procediment d’elecció de càrrecs en la següent Assemblea Nacional.
+
 </amendable>
 <amendable article="11" title="Resolució de conflictes">
 
-L’Assemblea Nacional estudiarà qualsevol conflicte que puga sorgir entre Joves PV i Més, previ informe de la Comissió de Garanties o la Comissió d’abordatge de violències masclistes i LGTBIfòbiques.
+L’Assemblea Nacional estudiarà qualsevol conflicte que puga sorgir entre Joves PV i Més, previ informe de la Comissió de Garanties o la Comissió d’Abordatge de Violències Masclistes i LGTBIfòbiques.
 
 </amendable>
 </amendable-section>
@@ -192,15 +200,14 @@ El Congrés Nacional està compost per:
 </amendable>
 <amendable article="21" title="Reglament precongressual">
 
-1. Correspon a l’Assemblea Nacional l’aprovació d’un Reglament precongressual durant la sessió de convocatòria del Congrés, a proposta de la Coordinadora Nacional, que regule l’organització del mateix i el període precongressual.
-2. El reglament precongressual recollirà:
-    1. La data de celebració del Congrés.
-    2. L’ordre del dia del Congrés.
-    3. El funcionament i la presa d’acords de la Comissió Organitzadora del Congrés.
-    4. Qui participa en el procés precongressual.
-    5. El calendari i el funcionament del debat precongressual.
-    6. La constitució del Congrés.
-
+1.  Correspon a l’Assemblea Nacional l’aprovació d’un Reglament Precongressual durant la sessió de convocatòria del Congrés, a proposta de la Coordinadora Nacional, que regule l’organització del mateix i el període precongressual.
+2.  El Reglament Precongressual recollirà:
+    1.  La data de celebració del Congrés.
+    2.  L’ordre del dia del Congrés.
+    3.  El funcionament i la presa d’acords de la Comissió Organitzadora del Congrés.
+    4.  Qui participa en el procés precongressual.
+    5.  El calendari i el funcionament del debat precongressual.
+    6.  La constitució del Congrés.
 
 </amendable>
 <amendable article="22" title="Ordre del dia">
@@ -226,6 +233,15 @@ El Congrés Nacional està compost per:
 3. La Comissió Organitzadora del Congrés estarà composta per un mínim de nou persones i un màxim de quinze.
 4. L’elecció tindrà lloc en l’Assemblea Nacional en què s’aprove el Reglament precongressual. Podem formar-ne part les persones que tinguen dret a participar del Congrés i que presenten la candidatura en el termini establert en la convocatòria de la dita Assemblea Nacional. Les persones assistents a l’Assemblea Nacional votaran dues terceres parts del nombre màxim de membres, d’una llista oberta formada per les persones candidates.
 
+1.  La Comissió Organitzadora del Congrés és la màxima responsable de l’organització del Congrés. És un òrgan independent de la Coordinadora Nacional.
+2.  Les seues responsabilitats són:
+    1.  Elegir el lloc de celebració del Congrés per a assegurar-se que puga anar-hi tota la militància.
+    2.  Preparar el reglament del Congrés i les ponències de debat.
+    3.  Facilitar els recursos i els mitjans per al desenvolupament del debat precongressual.
+    4.  Decidir sobre l'estratègia comunicativa, externa i interna, de les qüestions relacionades amb el Congrés.
+    5.  Fer una proposta de Mesa del Congrés.
+3.  La Comissió Organitzadora del Congrés estarà composta per un mínim de nou persones i un màxim de quinze.
+4.  L’elecció tindrà lloc en l’Assemblea Nacional en què s’aprove el Reglament precongressual. Poden formar-ne part les persones que tinguen dret a participar del Congrés i que presenten la candidatura en el termini establert en la convocatòria de la dita Assemblea Nacional. Les persones assistents a l’Assemblea Nacional votaran dues terceres parts del nombre màxim de membres, d’una llista oberta formada per les persones candidates.
 
 </amendable>
 <amendable article="24" title="Constitució i quòrum">
@@ -251,28 +267,28 @@ L’Assemblea Nacional és el màxim òrgan decisori i de representació naciona
 </amendable>
 <amendable article="27" title="Funcions">
 
-1. Són funcions de l’Assemblea Nacional:
-    1. Convocar el Congrés Nacional.
-    2. Vetlar pel compliment de les resolucions del Congrés Nacional.
-    3. Interpretar els presents Estatuts.
-    4. Decidir sobre les polítiques i les campanyes que duu a terme l’organització.
-    5. Controlar la gestió de la Coordinadora Nacional i de les persones representants a les Executives Nacionals de Més i de Compromís i al Consell Nacional de Més i de qualsevol altra persona que exercisca la representació directa de Joves PV en algun òrgan o institució.
-    6. Aprovar anualment el pressupost general i les seues bases d’execució, el balanç econòmic, les quotes i la resta d’aportacions econòmiques.
-    7. Acordar l’adquisició de béns immobles, vehicles i qualsevol despesa que es desvie en més d’un 20% de la consignada al pressupost general.
-    8. Constituir i dissoldre les comissions, els grups de treball i els fòrums que considere necessaris.
-    9. Recollir, analitzar i donar resposta a les propostes de les persones membres i els col·lectius.
-    10. Ratificar l’àmbit dels col·lectius comarcals en funció de la realitat organitzativa i, en cas de conflicte, fixar-ne l’àmbit.
-    11. Ratificar les substitucions de les vacants que es produïsquen en la Coordinadora Nacional.
-    12. Substituir les persones representants de Joves PV al Consell Nacional de Més en cas de no haver-hi suplents.
-    13. Debatre i aprovar propostes de resolució de caràcter ideològic, que seran adjuntades a la ponència política.
-2. En qualsevol cas, seran responsabilitat de l’Assemblea Nacional totes aquelles qüestions no atribuïdes expressament a cap altre òrgan.
-
+1.  Són funcions de l’Assemblea Nacional:
+    1.  Convocar el Congrés Nacional.
+    2.  Vetlar pel compliment de les resolucions del Congrés Nacional.
+    3.  Interpretar els presents Estatuts.
+    4.  Decidir sobre les polítiques i les campanyes que duu a terme l’organització.
+    5.  Controlar la gestió de la Coordinadora Nacional i de les persones representants a les Executives Nacionals de Més i de Compromís i al Consell Nacional de Més i de qualsevol altra persona que exercisca la representació directa de Joves PV en algun òrgan o institució.
+    6.  Aprovar anualment el pressupost general i les seues bases d’execució, el balanç econòmic, les quotes i la resta d’aportacions econòmiques.
+    7.  Acordar l’adquisició de béns immobles, vehicles i qualsevol despesa que es desvie en més d’un 20% de la consignada al pressupost general.
+    8.  Constituir i dissoldre les comissions, els grups de treball i els fòrums que considere necessaris.
+    9.  Recollir, analitzar i donar resposta a les propostes de les persones membres i els col·lectius.
+    10.  Ratificar l’àmbit dels col·lectius comarcals en funció de la realitat organitzativa i, en cas de conflicte, fixar-ne l’àmbit.
+    11.  Ratificar les substitucions de les vacants que es produïsquen en la Coordinadora Nacional.
+    12.  Substituir les persones representants de Joves PV al Consell Nacional de Més en cas de no haver-hi suplents.
+    13.  Debatre i aprovar propostes de resolució de caràcter ideològic, que seran adjuntades a la ponència política.
+    14.  Ratificar la tria de membres que representen Joves PV en algun òrgan o gestionen les relacions amb altres col·lectius.
+2.  En qualsevol cas, seran responsabilitat de l’Assemblea Nacional totes aquelles qüestions no atribuïdes expressament a cap altre òrgan.
 
 </amendable>
 <amendable article="28" title="Composició">
 
-1. L’Assemblea Nacional està composta per la totalitat de membres de Joves PV, que podran participar de les sessions amb veu i vot.
-2. Extraordinàriament, la Coordinadora Nacional podrà  restringir la participació solament a la militància en aquelles assemblees que considere oportunes per raó del contingut.
+1.  L’Assemblea Nacional està composta per la totalitat de membres de Joves PV, que podran participar de les sessions amb veu i vot.
+2.  Extraordinàriament, la Coordinadora Nacional podrà restringir la participació solament a la militància en aquelles assemblees de caràcter extraordinari que considere oportunes per raó del contingut, justificant-ho en la convocatòria de l’Assemblea.
 
 </amendable>
 <amendable article="29" title="Mesa i acta de l’Assemblea">
@@ -288,6 +304,17 @@ L’Assemblea Nacional és el màxim òrgan decisori i de representació naciona
 6. En cas d’absència de la Presidència, la Vicepresidència assumirà les funcions. En cas d’absència d’ambdós càrrecs, assumirà les funcions una persona militant proposada per la Coordinadora Nacional i ratificada per l’Assemblea Nacional.
 7. En cas d’absència de la Secretaria, assumirà les funcions una persona militant proposada per la Coordinadora Nacional i ratificada per l’Assemblea Nacional.
 
+1.  La Mesa de l’Assemblea s’elegirà en la primera reunió de l’Assemblea Nacional després del Congrés i estarà formada per la Presidència, la Vicepresidència i la Secretaria.
+2.  La primera reunió de l'Assemblea Nacional després del Congrés, abans de l'elecció de la Mesa de l'Assemblea, estarà presidida i dirigida per la Coordinadora Nacional.
+3.  Per a l’elecció de la Mesa:
+    1.  El procediment serà la presentació de candidatures individuals a la Presidència o a la Secretaria de la Mesa.
+    2.  En una primera votació es podrà votar una única candidatura a la Presidència. Ocuparà el càrrec de Presidència la persona més votada i el de Vicepresidència la segona persona més votada.
+    3.  En una segona votació es podrà votar una única candidatura a la Secretaria. Ocuparà el càrrec de Secretaria la persona més votada.
+4.  Correspon a la Presidència de la Mesa moderar i dirigir la sessió.
+5.  Correspon a la Secretaria de la Mesa alçar acta de la sessió, on figuraran els acords adoptats i totes les circumstàncies que resulten procedents per al fidel reflex d’aquesta. Estarà signada per la Secretaria, amb el vistiplau de la Presidència, i serà aprovada en la següent Assemblea Nacional ordinària.
+6.  En cas d’absència de la Presidència, la Vicepresidència assumirà les funcions. En cas d’absència d’ambdós càrrecs, l’Assemblea Nacional triarà una persona militant d’entre les presents que s’oferisca per a assumir les funcions per a esta assemblea.
+7.  En cas d’absència de la Secretaria, l’Assemblea Nacional triarà una persona militant d’entre les presents que s’oferisca per a assumir les funcions per a esta assemblea.
+8. En cas que alguna de les persones membres de la Mesa incórrega en el supòsit establert per l’article 99  d’absentar-se tres assemblees consecutives, en eixa tercera assemblea es modificarà l'ordre del dia per a incloure la tria d'una nova persona per a eixe càrrec.
 
 </amendable>
 <amendable article="30" title="Convocatòria">
@@ -355,10 +382,10 @@ Són funcions de la Coordinadora Nacional:
 </amendable>
 <amendable article="36" title="Composició">
 
-1. La Coordinadora Nacional està composta per la suma de les persones que formen part d’una llista tancada electa i de les persones elegides dins d’una llista oberta.
-2. La llista tancada estarà formada per un mínim de huit persones i un màxim de catorze. Així mateix, haurà de contindre necessàriament una Secretaria General, una Secretaria d’Organització, una Secretaria de Finances, una Secretaria de Comunicació, una Secretaria de Dinamització i una Secretaria de Política.
-3. De la llista oberta, seran elegides un total de set persones.
-4. Si s'escau, també seran membres de la Coordinadora Nacional, amb veu però sense vot, les persones representants de Joves PV a la Comissió Permanent del Consell Valencià de la Joventut i el Bureau de l’EFAY.
+1.  La Coordinadora Nacional està composta per la suma de les persones que formen part d’una llista tancada electa i de les persones elegides dins d’una llista oberta.
+2.  La llista tancada estarà formada per un mínim de huit persones i un màxim de catorze. Així mateix, haurà de contindre necessàriament una Secretaria General, una Secretaria d’Organització, una Secretaria de Finances, una Secretaria de Comunicació, una Secretaria de Dinamització i una Secretaria de Política.
+3.  De la llista oberta, seran elegides un total de set persones.
+4.  Si s'escau, també seran membres de la Coordinadora Nacional, amb veu però sense vot, les persones membres de Joves PV amb la condició de diputades en les Corts Valencianes, el Congrés i el Senat, i les persones representants de Joves PV a la Comissió Permanent del Consell Valencià de la Joventut i el Bureau de l’EFAY.
 
 </amendable>
 <amendable article="37" title="Elecció, presa de possessió i mandat">
@@ -373,9 +400,9 @@ Són funcions de la Coordinadora Nacional:
 </amendable>
 <amendable article="38" title="Organització de la Coordinadora Nacional">
 
-1. La Coordinadora Nacional serà autònoma per a decidir la manera d’organitzar i coordinar la seua activitat en les àrees, secretaries o comissions (permanents o temporals) que considere adients, respectant la necessitat d’incloure en la seua estructura la Secretaria General i les secretaries d’Organització, Finances, Comunicació, Dinamització i Política.
-2. S’establiran les formes  d’organització de la Coordinadora Nacional en la seua primera reunió després del Congrés Nacional, de forma que totes les persones elegides quedaran adscrites necessàriament a una àrea o una secretaria amb unes funcions determinades. Aquesta decisió es comunicarà en la primera Assemblea Nacional que se celebre i se’n publicarà l’organigrama.
-3. La Coordinadora Nacional posarà a l’abast dels i les membres de Joves PV les seues actes, on figuraran els acords adoptats.
+1.  La Coordinadora Nacional serà autònoma per a decidir la manera d’organitzar i coordinar la seua activitat en les àrees, secretaries o comissions (permanents o temporals) que considere adients, respectant la necessitat d’incloure en la seua estructura la Secretaria General i les secretaries d’Organització, Finances, Comunicació, Dinamització i Política.
+2.  S’establiran les formes d’organització de la Coordinadora Nacional en la seua primera reunió després del Congrés Nacional, de forma que totes les persones elegides quedaran adscrites necessàriament a una àrea o una secretaria amb unes funcions determinades. Aquesta decisió es comunicarà en la primera Assemblea Nacional que se celebre i se’n publicarà l’organigrama.
+3.  La Coordinadora Nacional posarà a l’abast dels i les membres de Joves PV les seues actes abans de la convocatòria de la següent Assemblea Nacional, on figuraran els acords adoptats.
 
 </amendable>
 <amendable article="39" title="Secretaria General">
@@ -580,7 +607,9 @@ El Comité Electoral és l'òrgan que té com a finalitat optimitzar el treball 
 </amendable>
 
 <amendable article="59" title="Composició">
-La creació del Comité Electoral tindrà lloc abans de cada període electoral. El Comité estarà compost per dues terceres parts a proposta de la Coordinadora Nacional i per una tercera part elegida pel mètode de llista oberta en l’Assemblea Nacional.
+
+La creació del Comité Electoral tindrà lloc abans de cada període electoral. El Comité estarà compost per un mínim de nou persones i un màxim de vint-i-una, dues terceres parts a proposta de la Coordinadora Nacional i una tercera part elegida pel mètode de llista oberta en l’Assemblea Nacional.
+
 </amendable>
 <amendable article="60" title="Funcionament">
 
@@ -809,9 +838,9 @@ La Comissió de Coordinació Territorial està composta per les secretaries de l
 </amendable>
 <amendable article="78" title="Convocatòria">
 
-1. La Comissió de Coordinació Territorial es reunirà amb caràcter ordinari sempre abans d'una Assemblea Nacional ordinària. Serà convocada per la Secretaria d’Organització amb una antelació mínima de quinze dies naturals a la data de celebració, tot indicant l’ordre del dia.
-2. La Comissió de Coordinació Territorial es reunirà amb caràcter extraordinari a petició de tres assemblees comarcals o de la majoria absoluta de membres de la Coordinadora Nacional. Serà convocada amb una antelació mínima de set dies naturals a la data de celebració, tot indicant l’ordre del dia.
-3. El lloc de celebració de la Comissió de Coordinació Territorial serà itinerant pel territori.
+1.  La Comissió de Coordinació Territorial es reunirà amb caràcter ordinari sempre abans d'una Assemblea Nacional ordinària. Serà convocada per la Secretaria d’Organització amb una antelació mínima de quinze dies naturals a la data de celebració, tot indicant l’ordre del dia.
+2.  La Comissió de Coordinació Territorial es reunirà amb caràcter extraordinari a petició de tres assemblees comarcals o de la majoria absoluta de membres de la Coordinadora Nacional. Serà convocada amb una antelació mínima de set dies naturals a la data de celebració, tot indicant l’ordre del dia.
+3.  El lloc de celebració de la Comissió de Coordinació Territorial serà itinerant pel territori i en línea.
 
 </amendable>
 <amendable article="79" title="Presa d'acords">
@@ -825,9 +854,8 @@ La Comissió de Coordinació Territorial està composta per les secretaries de l
 <amendable-section id="T7" title="Títol seté. Del règim intern de funcionament">
 <amendable article="80" title="Règim general">
 
-1. Les convocatòries d’òrgans hauran de comptar amb una hora d'inici, una hora de finalització i una temporalització de l'ordre del dia.
-2. Tots els òrgans podran disposar d’un reglament de funcionament propi, que mai podrà contradir els presents Estatuts. Aquest haurà de ser aprovat per una majoria qualificada de dues terceres parts de l’òrgan en qüestió.
-
+1.  Les convocatòries d’òrgans hauran d'efectuar-se per canals oficials de comunicació interna i comptar amb una hora d'inici, una hora de finalització i una temporalització de l'ordre del dia.
+2.  Tots els òrgans podran disposar d’un reglament de funcionament propi, que mai podrà contradir els presents Estatuts. Aquest haurà de ser aprovat per una majoria qualificada de dues terceres parts de l’òrgan en qüestió.
 </amendable>
 <amendable article="81" title="Presa d'acords">
 
@@ -857,11 +885,12 @@ La Comissió de Coordinació Territorial està composta per les secretaries de l
 </amendable>
 <amendable article="83" title="Incompatibilitats">
 
-1. La persona que ocupe la Secretaria General no podrà exercir cap altre càrrec orgànic als col·lectius territorials. Així mateix, aquesta persona no podrà accedir a la Secretaria General quan ja haja estat en el càrrec durant dues legislatures.
-2. En la Coordinadora Nacional, una mateixa persona no podrà ocupar més d’una secretaria obligatòria.
-3. Les persones que componen la Comissió de Garanties i la Comissió d’abordatge de violències masclistes i LGTBIfòbiques no podran exercir cap altre càrrec orgànic dins de Joves PV superior a l’àmbit comarcal.
-4. Davant d’una elecció, no podrà participar en el recompte cap persona candidata a aquesta. Així mateix, no podrà participar en la moderació d’un conflicte cap part implicada.
-5. Les persones que ocupen un càrrec electe en els òrgans de govern i representació de Joves PV esgotaran el seu mandat encara que hagen complit 31 anys, mantenint tots els seus drets com a militants.
+1.  La persona que ocupe la Secretaria General no podrà exercir cap altre càrrec orgànic als col·lectius territorials. Així mateix, aquesta persona no podrà accedir a la Secretaria General quan ja haja estat en el càrrec durant dues legislatures.
+2.  En la Coordinadora Nacional, una mateixa persona no podrà ocupar més d’una secretaria obligatòria.
+3.  Les persones que componen la Comissió de Garanties i la Comissió d’abordatge de violències masclistes i LGTBIfòbiques no podran exercir cap altre càrrec orgànic dins de Joves PV superior a l’àmbit comarcal.
+4.  Davant d’una elecció, no podrà participar en el recompte cap persona candidata a aquesta. Així mateix, no podrà participar en la moderació d’un conflicte cap part implicada.
+5.  Les persones que ocupen un càrrec electe en els òrgans de govern i representació de Joves PV esgotaran el seu mandat encara que hagen complit 31 anys, mantenint tots els seus drets com a militants.
+6. Allà on hi haja una quota jove per formar part de llistes electorals, es tractarà de prioritzar que siguen les persones menors de 30 anys qui ocupen aquesta.
 
 </amendable>
 <amendable article="84" title="Mocions de censura">
@@ -881,9 +910,13 @@ La Comissió de Coordinació Territorial està composta per les secretaries de l
 </amendable>
 <amendable article="85" title="Coherència política">
 
-1. La llengua vehicular de Joves PV és el valencià
+1. La llengua vehicular de Joves PV és el valencià.
 2. Joves PV comptarà amb un Pla d’Igualtat amb l’objectiu de garantir, com a mínim, la igualtat entre dones i homes.
 3. Joves PV disposarà d'un Pla de Sostenibilitat amb l’objectiu que l’acció que es porte a terme seguisca criteris ambientals i des de la perspectiva de l’emergència climàtica.
+
+1.  La llengua vehicular de Joves PV és el valencià
+2.  Joves PV comptarà amb un Pla d’Igualtat amb l’objectiu de garantir, com a mínim, la igualtat entre dones i homes. **Aquest pla es revisarà i renovarà , si s’escau, cada dos anys.**
+3.  Joves PV disposarà d'un Pla de Sostenibilitat amb l’objectiu que l’acció que es porte a terme seguisca criteris ambientals i des de la perspectiva de l’emergència climàtica. **Aquest pla es revisarà i renovarà, si s’escau, cada dos anys.**
 
 </amendable>
 </amendable-section>
