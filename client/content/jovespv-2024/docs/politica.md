@@ -135,7 +135,7 @@ L'educació ha d'acompanyar a la totalitat de l'alumnat de forma personalitzada 
 </amendable>
 
 
-<amendable id="1_3_4" title="b) Educació no formal">
+<amendable id="1_3_6" title="b) Educació no formal">
 
 Més enllà de l’espai escolar hi ha espais d’aprenentatge i creixement que, en alguns casos ja iniciats en la infància i mitjançant l’educació en valors a través d’activitats i projectes, esdevenen autèntiques oportunitats per a desenvolupar una actitud crítica davant el món. Es tracta d’espais en forma d’entitats i activitats educatives, culturals, esportives o lúdiques, emmarcades en el que entenem com a educació no formal, que conviden la gent jove a trobar-se, organitzar-se i créixer.
 
