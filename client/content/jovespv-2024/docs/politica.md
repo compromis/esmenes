@@ -133,19 +133,9 @@ Defensem un desenvolupament interdisciplinari de les capacitats personals, cient
 L'educació ha d'acompanyar a la totalitat de l'alumnat de forma personalitzada i adaptar-se al seu ritme, creant projectes en què tot l'alumnat puga conviure, aprenga de les altres de forma igualitària i coeducadora; una educació en què la diversitat siga motiu de celebració, d'enriquiment, d'aprenentatge i de comunitat; que vaja més enllà de les aules, que contemple la necessitat d'aprendre, créixer i compartir també en un **oci educatiu** vinculat al teixit social. Defensem una educació, en definitiva, pública, gratuïta, valenciana, inclusiva, intercultural, laica i igualitària.
 
 </amendable>
-<amendable id="1_3_4">
 
-Aquest canvi de model ha de passar per potenciar la **formació** en itineraris vinculats al nou model productiu, que done impuls a la investigació i la innovació en aquests àmbits i done suport a les empreses existents i les noves que operen en aquests nous paràmetres. La formació professional i universitària són claus, i per això la seua funció ha d’estar lligada a l’entorn i al desenvolupament social i econòmic. El seu paper ha d’estar garantit amb l’estabilitat, personal i recursos necessaris.
 
-</amendable>
-<amendable id="1_3_5">
-
-Defensem una **formació professional** de qualitat, vinculada al territori i amb itineraris múltiples per tal d'afavorir la diversificació d'oficis. Volem impulsar les professions que contribuiran a generar un nou model de benestar i felicitat, com totes aquelles relacionades amb les cures. I volem recuperar professions tradicionals que el circuit capitalista ha expulsat de les nostres societats. Per això, hem de donar importància i prestigi als estudis de formació professional, sobre els quals pesa encara un estigma elitista i classista. 
-Apostem per unes **universitats públiques**, on tothom hi puga tenir accés en igualtat d'oportunitats. Entenem que el sistema actual de beques és necessari i que aquest s'ha d'enfortir per tal de garantir que la renda econòmica no siga una barrera d'exclusió. Però som conscients que aquestes no són sinó una solució secundària a un problema estructural: els alts costs reals dels estudis superiors. Fòrmules com una renda bàsica universal o una herència jove universal haurien de permetre abordar millor esta dolència estructural del sistema universitari.
-L'espai universitari ha de ser l'avant-guarda de pensament i recerca científica de la nostra societat. Per això, hem de garantir un finançament de les universitat públiques valencianes estable, suficient i que permeta consolidar projectes i planters de professorat i de personal investigador a llarg termini. Les universitats han de tornar a ser un espai de pensament crític i humanista allunyat dels fenòmens de mercantilització que hem observat amb l'anomenat pla Bolònia. A més, la universitat que volem ha de tindre el valencià com a llengua vehicular, ha de fomentar l’ús d’aquesta en la docència, la transferència i la investigació i garantir els drets lingüístics de la comunitat universitària.
-
-</amendable>
-<amendable id="1_3_6" title="b) Educació no formal">
+<amendable id="1_3_4" title="b) Educació no formal">
 
 Més enllà de l’espai escolar hi ha espais d’aprenentatge i creixement que, en alguns casos ja iniciats en la infància i mitjançant l’educació en valors a través d’activitats i projectes, esdevenen autèntiques oportunitats per a desenvolupar una actitud crítica davant el món. Es tracta d’espais en forma d’entitats i activitats educatives, culturals, esportives o lúdiques, emmarcades en el que entenem com a educació no formal, que conviden la gent jove a trobar-se, organitzar-se i créixer.
 
@@ -166,10 +156,9 @@ Creiem en una educació no formal com a espai emancipador, com a via per a desen
 <amendable-section id="1_4" title="1.4. Universitats i investigació" level="3">
 <amendable id="1_4_1">
 
- Defensem una formació professional de qualitat, vinculada al territori, amb multiplicitat d’itineraris per a afavorir la inserció i la potenciació de sectors productius de present i futur, donant-li importància i prestigi a aquests estudis per superar l'estigma que encara arrosseguen. Apostem per unes universitats públiques per a totes les persones, amb un sistema de beques fort que garantisca que la renda econòmica no siga una barrera d’accés als estudis, i amb un pla de finançament que garantisca l’estabilització i consolidació de plantilles de professorat i de personal investigador.
- Apostem per un desenvolupament públic de la investigació, desenvolupament i innovació (I+D+i) que millore la condició humana i faça progressar a la de la societat. És fonamental que tinga una perspectiva humana, ecològica i que es regisca estrictament pels principis de l’ètica de la investigació. Així, s’han de potenciar les recerques vinculades amb la millora social i ambiental i deslligar l’I+D+i de la pura producció econòmica i la generació de capital. És necessari també dotar al personal investigador de l’estabilitat necessària per a portar a terme les seues recerques, que han de tindre sempre una transferència a la societat.
- Un desenvolupament de l'I+D+i que vaja acompanyat per una reindustrialització, una recuperació de la sobirania industrial que acoste el centre de producció al centre de consum, i minve, per tant, les emissions de CO2 per transport. A més, s’ha de garantir que estiga bastit de les eines necessàries per a controlar la qualitat del producte i el respecte als drets laborals.
-
+Aquest canvi de model ha de passar per potenciar la formació en itineraris vinculats al nou model productiu, que done impuls a la investigació i la innovació en aquests àmbits i done suport a les empreses existents i les noves que operen en aquests nous paràmetres. La formació professional i universitària són claus, i per això la seua funció ha d’estar lligada a l’entorn i al desenvolupament social i econòmic. El seu paper ha d’estar garantit amb l’estabilitat, personal i recursos necessaris.
+Defensem una formació professional de qualitat, vinculada al territori i amb itineraris múltiples per tal d'afavorir la diversificació d'oficis. Volem impulsar les professions que contribuiran a generar un nou model de benestar i felicitat, com totes aquelles relacionades amb les cures. I volem recuperar professions tradicionals que el circuit capitalista ha expulsat de les nostres societats. Per això, hem de donar importància i prestigi als estudis de formació professional, sobre els quals pesa encara un estigma elitista i classista. Apostem per unes universitats públiques, on tothom hi puga tenir accés en igualtat d'oportunitats. Entenem que el sistema actual de beques és necessari i que aquest s'ha d'enfortir per tal de garantir que la renda econòmica no siga una barrera d'exclusió. Però som conscients que aquestes no són sinó una solució secundària a un problema estructural: els alts costs reals dels estudis superiors. Fórmules com una renda bàsica universal o una herència jove universal haurien de permetre abordar millor aquesta dolència estructural del sistema universitari. L'espai universitari ha de ser l'avantguarda de pensament i recerca científica de la nostra societat. Per això, hem de garantir un finançament de les universitats públiques valencianes estable, suficient i que permeta consolidar projectes i planters de professorat i de personal investigador a llarg termini. Les universitats han de tornar a ser un espai de pensament crític i humanista allunyat dels fenòmens de mercantilització que hem observat amb l'anomenat pla Bolonya. A més, la universitat que volem ha de tindre el valencià com a llengua vehicular, ha de fomentar l’ús d’aquesta en la docència, la transferència i la investigació i garantir els drets lingüístics de la comunitat universitària.
+Apostem per un desenvolupament públic de la investigació, desenvolupament i innovació (I+D+i) que millore la condició humana i faça progressar a la de la societat. És fonamental que tinga una perspectiva humana, ecològica i que es regisca estrictament pels principis de l’ètica de la investigació. Així, s’han de potenciar les recerques vinculades amb la millora social i ambiental i deslligar l’I+D+i de la pura producció econòmica i la generació de capital. És necessari també dotar al personal investigador de l’estabilitat necessària per a portar a terme les seues recerques, que han de tindre sempre una transferència a la societat. Un desenvolupament de l'I+D+i que vaja acompanyat per una reindustrialització, una recuperació de la sobirania industrial que acoste el centre de producció al centre de consum, i minve, per tant, les emissions de CO2 per transport. A més, s’ha de garantir que estiga bastit de les eines necessàries per a controlar la qualitat del producte i el respecte als drets laborals.
 </amendable>
 </amendable-section>
 <amendable-section id="1_5" title="1.5. Habitatge" level="3">
@@ -359,7 +348,7 @@ Defensem la normalització de la llengua, i això implica el dret a usar-la en t
 </amendable>
 </amendable-section>
 
-<amendable-section id="2_6" title="2.6. Identidad" level="3">
+<amendable-section id="2_6" title="2.6. Identitat" level="3">
 <amendable id="2_6_1">
 
 El poble valencià va nàixer l'any 1261 amb l'aprovació dels Furs a l'Antic Regne de València, i va esdevindre ja aleshores un poble amb una identitat pròpia. Ara, segles després i malgrat guerres, humiliacions i dictadures, mantenim viva aquesta identitat. Els valencians i les valencianes, hem de continuar defensant i sent conscients d'esta identitat basada en una història, una llengua i uns costums propis i que va més enllà, i ha esdevingut també, una terra solidària i d'acollida.
@@ -527,19 +516,8 @@ Un **model productiu** que ja és clau en el present, i que ho serà encara més
 
 </amendable>
 </amendable-section>
-<amendable-section id="4_3" title="4.3. Investigació i innovació" level="3">
-<amendable id="4_3_1">
 
-Apostem per un desenvolupament públic de la **investigació, desenvolupament i innovació (I+D+i)**, al servei del canvi de model productiu, que no perda el punt de vista del desenvolupament sostenible, i garantisca estabilitat i oportunitats laborals del personal investigador en empreses de l’entorn. D’altra banda, ha d’anar dirigit a la digitalització, la robotització, la reconversió de llocs de treball i la garantia formativa de les persones que hi treballen.
-
-</amendable>
-<amendable id="4_3_2">
-
-Un desenvolupament de l'I+D+i que vaja acompanyat per una reindustrialització, una recuperació de la sobirania industrial que acoste el centre de producció al centre de consum, i minve, per tant, les emissions de CO2 per transport. A més, s’ha de garantir que estiga bastit de les eines necessàries per a controlar la qualitat del producte i el respecte als drets laborals.
-
-</amendable>
-</amendable-section>
-<amendable-section id="4_4" title="4.4. Protecció de l’entorn" level="3">
+<amendable-section id="4_4" title="4.3. Protecció de l’entorn" level="3">
 <amendable id="4_4_1" title="a) Medi natural">
 
 Un dels perills del canvi climàtic són les afeccions que produeix al nostre medi natural. La **urbanització** descontrolada de les últimes dècades, especialment a les zones de costa, i els fenòmens climàtics extrems estan posant en perill els nostres ecosistemes. A més a més, la globalització facilita la introducció d’espècies invasores que amenacen les nostres espècies endèmiques. Cal protegir els valors naturals del nostre territori, des de les muntanyes fins a la costa, des dels boscos fins a les marjals. La **protecció** del nostre entorn és la millor eina de què disposem per a fer front als perills ocasionats per les inundacions i els incendis forestals. Per això, hem de combatre l’especulació urbanística i l’explotació excessiva del nostre medi natural. Cal realitzar una ordenació territorial responsable i sostenible que puga compaginar la protecció del medi natural amb el desenvolupament social.
@@ -582,7 +560,7 @@ Un altre punt important és la problemàtica de l’escassesa d’**aigua** i la
 
 </amendable>
 </amendable-section>
-<amendable-section id="4_5" title="4.5. Energia" level="3">
+<amendable-section id="4_5" title="4.4. Energia" level="3">
 <amendable id="4_5_1">
 
 Per fer front a la qüestió climàtica hem d’abordar la **transició energètica**. Actualment, el sistema energètic continua depenent majoritàriament dels combustibles fòssils (gas natural, carbó i petroli) encara que s’han realitzat avanços cap a la generació d’energia renovable. Aquesta dependència dels combustibles fòssils suposa un perill per al clima per les emissions de gasos i molts beneficis per a les grans empreses elèctriques que aprofiten aquesta forta dependència per a unflar els preus i beneficiar-se’n a costa de la ciutadania. Hem d’aprofitar l’entorn que tenim, i fer servir aquest avantatge per a generar energies renovables, com ara la solar, per tal de fer avançar el sector energètic en la transformació cap a l’abandonament de les que no ho siguen.
@@ -603,7 +581,7 @@ L’especulació ha vist en les energies renovables un nou negoci, amb una petja
 
 </amendable>
 </amendable-section>
-<amendable-section id="4_6" title="4.6. Mobilitat" level="3">
+<amendable-section id="4_6" title="4.5. Mobilitat" level="3">
 <amendable id="4_6_1">
 
 Un altre dels principals generadors d'emissions és el vehicle privat motoritzat, que, a més, és l’únic mitjà de transport funcional a les zones d’interior i ruralitzades, amb una joventut precaritzada i una menor possibilitat d’accés a un cotxe o moto. Malgrat els esforços fets per a facilitar la mobilitat sostenible, encara són insuficients. Hem d'apostar per un servei de mobilitat públic, de qualitat i sostenible amb el medi, ajustat a cada territori i que vertebre el conjunt del País Valencià amb l’objectiu que qualsevol persona puga desplaçar-se sense haver de tindre un vehicle en propietat.

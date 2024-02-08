@@ -402,7 +402,7 @@ Són funcions de la Coordinadora Nacional:
 
 1.  La Coordinadora Nacional serà autònoma per a decidir la manera d’organitzar i coordinar la seua activitat en les àrees, secretaries o comissions (permanents o temporals) que considere adients, respectant la necessitat d’incloure en la seua estructura la Secretaria General i les secretaries d’Organització, Finances, Comunicació, Dinamització i Política.
 2.  S’establiran les formes d’organització de la Coordinadora Nacional en la seua primera reunió després del Congrés Nacional, de forma que totes les persones elegides quedaran adscrites necessàriament a una àrea o una secretaria amb unes funcions determinades. Aquesta decisió es comunicarà en la primera Assemblea Nacional que se celebre i se’n publicarà l’organigrama.
-3.  La Coordinadora Nacional posarà a l’abast dels i les membres de Joves PV les seues actes abans de la convocatòria de la següent Assemblea Nacional, on figuraran els acords adoptats.
+3.   La Coordinadora Nacional posarà a l’abast dels i les membres de Joves PV les seues actes en un termini de quatre setmanes després d’haver-se produït i sempre abans de la següent Assemblea Nacional, on figuraran els acords adoptats.
 
 </amendable>
 <amendable article="39" title="Secretaria General">
