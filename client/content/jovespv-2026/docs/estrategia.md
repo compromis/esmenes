@@ -4,7 +4,7 @@ order: 3
 ---
 
 <amendable-section id="INTRO" title="Introducció">
-<amendable id="1" title="Introducció">
+<amendable id="1">
 
 La Ponència Estratègica de Joves PV s'ha consolidat com un instrument útil per al funcionament de la nostra organització, per això, es manté aquest document amb la intenció de continuar marcant el camí d'acció de la nostra organització durant els pròxims dos anys.
 
@@ -147,53 +147,56 @@ Caldrà establir un llistat de temes que preocupen la joventut per tal d'orienta
 
 </amendable>
 
-<amendable id="2.3" title="Relacions amb entitats de la societat civil">
+<amendable-section id="2.3" title="Relacions amb entitats de la societat civil" level="3">
+<amendable id="2.3.0">
 
 Joves PV ha de treballar conjuntament amb les entitats socials per a crear espais de retroalimentació i articulació política compartida. Aquesta línia de treball s'organitza en diversos àmbits sectorials: :contentReference[oaicite:11]{index=11}
 
-<amendable subid="2.3.1" title="Entitats que defensen els drets de les persones joves">
+</amendable>
+<amendable id="2.3.1" title="Entitats que defensen els drets de les persones joves">
 
 1. Treballar amb entitats juvenils que promoguen la participació, la igualtat d'oportunitats i els drets socials.  
 2. Coordinar accions, campanyes i espais de formació conjuntament amb les entitats juvenils del territori.  
 
 </amendable>
 
-<amendable subid="2.3.2" title="Entitats que defensen els drets laborals i socials">
+<amendable id="2.3.2" title="Entitats que defensen els drets laborals i socials">
 
 1. Enfortir la relació amb sindicats juvenils i organitzacions que lluiten contra la precarietat.  
 2. Impulsar espais de mobilització conjunta en temes com treball digne, habitatge, serveis públics i salut mental.
 
 </amendable>
 
-<amendable subid="2.3.3" title="Entitats que defensen el valencianisme">
+<amendable id="2.3.3" title="Entitats que defensen el valencianisme">
 
 1. Teixir aliances amb entitats que promouen la cultura, la identitat i la llengua valenciana.  
 2. Participar en campanyes i plataformes que treballen per la defensa del valencià i el seu ús social.
 
 </amendable>
 
-<amendable subid="2.3.4" title="Entitats feministes">
+<amendable id="2.3.4" title="Entitats feministes">
 
 1. Col·laborar amb col·lectius feministes per a reforçar la lluita contra la violència masclista, les desigualtats estructurals i la discriminació.  
 2. Participar en mobilitzacions, jornades i espais reivindicatius feministes.
 
 </amendable>
 
-<amendable subid="2.3.5" title="Entitats ecologistes">
+<amendable id="2.3.5" title="Entitats ecologistes">
 
 1. Treballar conjuntament amb organitzacions ambientalistes per a fer front a l'emergència climàtica.  
 2. Impulsar campanyes sobre sostenibilitat, consum responsable i protecció del territori.
 
 </amendable>
 
-<amendable subid="2.3.6" title="Entitats que defensen la diversitat">
+<amendable id="2.3.6" title="Entitats que defensen la diversitat">
 
 1. Consolidar aliances amb entitats LGTBIQ+ i col·lectius de defensa de la diversitat cultural.  
 2. Enfortir la lluita contra els discursos d'odi, el racisme i la xenofòbia mitjançant accions conjuntes.
 
 </amendable>
-
 </amendable-section>
+</amendable-section>
+
 <amendable-section id="T3" title="3. Estratègia comunicativa">
 
 <amendable id="3.0" title="Introducció">

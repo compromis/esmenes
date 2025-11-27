@@ -27,13 +27,11 @@ La nostra sobirania col·lectiva com a poble es fonamenta en la defensa d'un Pa�
 </amendable-section>
 
 <amendable-section id="1" title="Fem possible un País Valencià d'esquerres">
-<amendable-section id="1_0" title="Introducció">
 <amendable id="1_0_0">
 
 Deia Joan Fuster: "el País Valencià serà d'esquerres o no serà". Aquesta afirmació ens recorda que no podem cedir davant del populisme ni del discurs de la por. Ens comprometem amb polítiques progressistes, valentes i centrades en la vida digna de la classe treballadora del nostre País. Les solucions reals han de vindre sempre des d'una perspectiva de progrés.
 
 </amendable>
-</amendable-section>
 
 <amendable-section id="1_1" title="1.1 Anticapitalisme" level="3">
 <amendable id="1_1_0">
