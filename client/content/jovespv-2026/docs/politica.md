@@ -4,40 +4,50 @@ order: 2
 ---
 
 <amendable-section id="0" title="Fem possible el País Valencià">
-
 <amendable id="0_1" title="Models econòmics i precarietat">
+
 L'economia valenciana continua atrapada en el **monocultiu del sector serveis**, un model precaritzador que condemna especialment les persones joves a la temporalitat, l'estacionalitat i la impossibilitat de projectar un futur estable. Aquesta estructura econòmica, imposada per lògiques neoliberals i de rendibilitat immediata, ha generat un País Valencià dependent, vulnerable i amb escasses oportunitats per a desenvolupar projectes vitals dignes.
-</amendable>
 
+</amendable>
 <amendable id="0_2" title="Sostenibilitat i protecció del territori">
+
 La nostra economia ha de deixar de basar-se en la destrucció del territori i en la hiperdependència d'un model que no garanteix el benestar col·lectiu. Apostem per un **desenvolupament sostenible**, socialment just i respectuós amb el medi ambient, que defense els interessos de la ciutadania davant els d'una minoria privilegiada. La protecció del territori és imprescindible per a garantir el futur del nostre poble.
-</amendable>
 
+</amendable>
 <amendable id="0_3" title="Sobirania econòmica i drets socials">
+
 Cal apostar per un model que situe al centre la **sobirania econòmica**, i que permeta a totes les persones viure amb dignitat: accedir a l'habitatge, tindre un treball de qualitat, alimentar-se de manera justa i segura, i desenvolupar projectes personals i col·lectius lliures. Les sobiranies són l'eina per superar l'autoritarisme i la precarietat estructural.
-</amendable>
 
+</amendable>
 <amendable id="0_4" title="Sobirania com a poble valencià">
+
 La nostra sobirania col·lectiva com a poble es fonamenta en la defensa d'un País Valencià **més just, més democràtic i més lliure**. Reivindiquem un autogovern real que pose les institucions al servei del benestar de la ciutadania i que defense el territori davant decisions preses lluny i sense escoltar la veu valenciana. Davant els intents de recentralització, exigim més i millor capacitat política, social i territorial per decidir el nostre futur.
-</amendable>
 
 </amendable>
+</amendable-section>
+
 <amendable-section id="1" title="Fem possible un País Valencià d'esquerres">
+<amendable-section id="1_0" title="Introducció">
+<amendable id="1_0_0">
 
-<amendable id="1_0" title="Introducció">
-Deia Joan Fuster: el País Valencià serà d'esquerres o no serà. Aquesta afirmació ens recorda que no podem cedir davant del populisme ni del discurs de la por. Ens comprometem amb polítiques progressistes, valentes i centrades en la vida digna de la classe treballadora del nostre País. Les solucions reals han de vindre sempre des d'una perspectiva de progrés.
+Deia Joan Fuster: "el País Valencià serà d'esquerres o no serà". Aquesta afirmació ens recorda que no podem cedir davant del populisme ni del discurs de la por. Ens comprometem amb polítiques progressistes, valentes i centrades en la vida digna de la classe treballadora del nostre País. Les solucions reals han de vindre sempre des d'una perspectiva de progrés.
+
 </amendable>
+</amendable-section>
 
 <amendable-section id="1_1" title="1.1 Anticapitalisme" level="3">
 <amendable id="1_1_0">
+
 El sistema capitalista concentra la riquesa en mans d'uns pocs i condemna la majoria a la precarietat. El neoliberalisme, centrat en la propietat privada i l'individualisme, ha generat desigualtat, pobresa i exclusió.  
 
 Defensem un sistema alternatiu basat en el reforç del sector públic, la solidaritat de classe i la garantia universal de drets bàsics. Ens declarem **anticapitalistes** i defensem la regulació dels béns essencials perquè el seu accés no depenga del mercat ni del benefici privat.
+
 </amendable>
 </amendable-section>
 
 <amendable-section id="1_2" title="1.2 Ocupació" level="3">
 <amendable id="1_2_0">
+
 És evident que el model neoliberal està esgotat: ha trencat la classe mitjana, ha degradat el mercat laboral i ha generat una desigualtat creixent.  
 
 Volem viure per a treballar, i no treballar per a sobreviure. El treball ha de ser dignificat, estable i compatible amb les cures. Defensem:  
@@ -47,11 +57,13 @@ Volem viure per a treballar, i no treballar per a sobreviure. El treball ha de s
 - Itineraris de formació contínua i consolidació laboral per a joves  
 
 Rebutgem l'explotació de becàries i becaris, exigint retribucions justes i tasques ajustades als plans formatius. Les cures, històricament feminitzades, han de ser reconegudes, dignificades i professionalitzades.
+
 </amendable>
 </amendable-section>
 
 <amendable-section id="1_3" title="1.3 Educació" level="3">
 <amendable id="1_3_a" title="Educació formal">
+
 L'educació és un pilar essencial de la igualtat i ha de ser pública, gratuïta i universal. Apostem per un sistema educatiu centrat en l'accés, la continuïtat i el desenvolupament integral de l'alumnat, no en el benefici privat.  
 
 Rebutgem la privatització i els concerts educatius.  
@@ -65,13 +77,15 @@ Defensem:
 - Atenció a la salut mental a les escoles  
 - Formació Professional dignificada i vinculada al nou model productiu  
 - Acadèmies públiques d'oposicions per democratitzar l'accés a la funció pública
-</amendable>
 
+</amendable>
 <amendable id="1_3_b" title="Educació no formal">
+
 L'educació no formal -entitats juvenils, cultura popular, esports, associacionisme- és una eina d'emancipació i creixement personal i col·lectiu.  
 
 Defensem espais associatius que generen convivència, pensament crític i apoderament.  
 Les administracions públiques han de garantir espais, suport i reconeixement al voluntariat juvenil.
+
 </amendable>
 </amendable-section> 
 
@@ -85,6 +99,7 @@ Defensem l'augment de la inversió pública en universitats, la reducció de les
 La investigació ha d'estar enfocada a transformar el model productiu, fer front a l'emergència climàtica i garantir un desenvolupament sostenible i innovador. Apostem perquè el coneixement generat a les universitats i centres d'investigació revertisca directament en la societat valenciana.
 
 </amendable>
+</amendable-section> 
 
 <amendable-section id="1_5" title="1.5 Habitatge" level="3">
 <amendable id="1_5_0">
@@ -186,6 +201,7 @@ La societat ha d'establir un diàleg que permeta conéixer les seues necessitats
 
 </amendable>
 </amendable-section>
+</amendable-section>
 
 <amendable-section id="2" title="Fem possible un País Valencià lliure i sobirà">
 <amendable id="2_0">
@@ -194,8 +210,8 @@ El nacionalisme valencià naix de la convicció que el nostre poble té dret a d
 
 </amendable>
 
-
-<amendable id="2_1" title="Sobirania popular i nacional">
+<amendable-section id="2_1" title="2.1 Sobirania popular i nacional" level="3">
+<amendable id="2_1_0">
 
 L'objectiu polític del nacionalisme valencià (o el valencianisme polític) és la sobirania plena del País Valencià, i la forma jurídica que este necessita prendre per tal d'aconseguir-la i assegurar-la és la d'un Estat valencià republicà i independent de l'Estat espanyol. Estes reclamacions són justes i venen de lluny, i responen a les inquietuds d'un poble que es sap nació i que es vol lliure. És l'única manera que tenim de construir una nació més verda, justa i igualitària per a totes les persones, i ho farem possible.
 
@@ -210,9 +226,10 @@ Este sistema opressor no ho és només per a nosaltres, sinó que afecta també 
 La tragèdia de la DANA ha fet paleses totes estes dinàmiques que denunciem, i ha exemplificat que els valencians i les valencianes no som més que diners per a l'Estat espanyol i càlculs electorals per als governants que Madrid ha triat per a nosaltres. La incompetència i indecència dels governants del PP a la Generalitat i la inacció manifesta dels governants del PSOE al govern espanyol demostren que les nostres vides només són importants per als i les nostres, i som nosaltres qui hem de lluitar per esta construcció nacional i popular, perquè literalment ens hi va la vida.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_2" title="Institucions pròpies i dret civil valencià">
+<amendable-section id="2_2" title="2.2 Institucions pròpies i dret civil valencià" level="3">
+<amendable id="2_1_0">
 
 Les institucions valencianes pateixen una crisi institucional greu, fomentada per l'actual i els darrers governs de la dreta al País Valencià, que han augmentat el descrèdit de les institucions públiques. Durant l'actual legislatura més que en qualsevol altra, els moviments espanyolistes i centralitzadors de la dreta i l'extrema dreta han agitat i agreujat encara més el deteriorament institucional heretat, fent de la Generalitat Valenciana un òrgan sense capacitat real de comprendre i resoldre els problemes de les persones que la necessiten.
 
@@ -227,9 +244,10 @@ Igualment, és necessari, mentre siguem administrativament una autonomia, la rec
 L'atac a les institucions per part de la dreta i l'extrema dreta no és només vetllat i subtil sinó que en algunes ocasions és reaccionari, manifest i fruit d'un rebuig a estes, com és el cas de l'Acadèmia Valenciana de la Llengua o el Consell Valencià de Cultura, que volen estrangular econòmicament aquells i aquelles que tenen l'obligació democràtica de defensar-les. El problema que tenen amb l'AVL i el CVC és, precisament, que són valencianes, però nosaltres defensem, com sempre hem fet, aquelles institucions que lluiten per la nostra llengua i promouen la nostra cultura, perquè són la nostra forma de vore el món.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_3" title="Cultura">
+<amendable-section id="2_3" title="2.3 Cultura" level="3">
+<amendable id="2_3_0">
 
 La cultura és una de les ferramentes col·lectives més poderoses que tenim per fer front a l'individualisme i al neoliberalisme que volen convertir-nos en simples consumidors i consumidores sense vincles ni consciència comunitària. La cultura és el que ens uneix, el que ens explica i el que ens projecta cap al futur com a poble. Sense una cultura forta, viva i lliure, no hi ha ni humanitat ni nació possible.
 
@@ -244,9 +262,10 @@ La cultura també ha d'adaptar-se a les noves realitats socials i a les necessit
 La cultura valenciana no és només un patrimoni a preservar; és l'eix vertebrador del País. Reivindiquem formes culturals autòctones, un relat propi i institucions culturals fortes. No renunciarem mai a la nostra cultura.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_4" title="Llengua">
+<amendable-section id="2_4" title="2.4 Llengua" level="3">
+<amendable id="2_4_0">
 
 La llengua és un dels fonaments del projecte nacional valencià i l'eina que fa possible la cohesió social, la transmissió cultural i l'exercici pràctic de la sobirania. La nostra nació només podrà ser plenament lliure si el valencià és la llengua central de la vida pública, institucional i comunitària.
 
@@ -259,9 +278,10 @@ Per garantir els drets lingüístics, defensem la plena obligatorietat del conei
 Així mateix, la ràdio i televisió públiques han de tindre el valencià com a llengua única, vehicular i articuladora de tota la programació.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_5" title="Identitat">
+<amendable-section id="2_5" title="2.5 Identitat" level="3">
+<amendable id="2_5_0">
 
 La identitat valenciana és el marc des del qual construïm comunitat i expliquem el nostre projecte sobirà. No és només un conjunt de símbols, sinó un espai compartit que ens dona cohesió i sentit col·lectiu.
 
@@ -274,9 +294,10 @@ L'educació és central per a explicar-nos com a poble i transmetre consciència
 La identitat no és herència immòbil, sinó procés viu i compartit.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_7" title="Model territorial">
+<amendable-section id="2_6" title="2.6 Model territorial" level="3">
+<amendable id="2_6_0">
 
 El projecte nacional valencià necessita una ordenació territorial pròpia i coherent amb la realitat del País. El model provincial i les diputacions són estructures imposades, anacròniques i obstacles per a la vertebració.
 
@@ -287,9 +308,10 @@ El municipalisme és pilar de la nostra ideologia. Els ajuntaments necessiten re
 La lluita contra el despoblament és estratègica: calen infraestructures, serveis públics i oportunitats econòmiques en zones rurals.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="2_8" title="Finançament">
+<amendable-section id="2_7" title="2.7 Finançament" level="3">
+<amendable id="2_7_0">
 
 La riquesa s'ha de redistribuir de forma radical, a través d'uns serveis públics forts, una sanitat universal, uns serveis socials garantits i un sistema de pensions digne. Defensem una política tributària fortament redistributiva que pose els beneficis de les elits al servei del conjunt de la ciutadania.
 
@@ -301,6 +323,7 @@ No volem només un País Valencià suficientment finançat, sinó un País Valen
 
 </amendable>
 </amendable-section>
+</amendable-section>
 
 <amendable-section id="3" title="Fem possible un País Valencià feminista i divers">
 <amendable id="3_0">
@@ -309,10 +332,8 @@ El sistema cisheteropatriarcal i androcèntric en el que vivim produeix una disc
 
 </amendable>
 
-
-<amendable id="3_1" title="Feminisme">
-
-<section title="Igualtat real">
+<amendable-section id="3_1" title="3.1 Feminisme" level="3">
+<amendable id="3_1_1" title="Igualtat real">
 
 Solament a l'acte de nàixer les dones joves tenim una gran possibilitat de viure a la pobresa. Este fenomen és global, i ho veiem clar amb exemples com l'escletxa salarial entre dones i hòmens per la mateixa feina, el sostre de vidre i el terra de fang que dificulta l'accés als llocs de responsabilitat a les dones dins del món laboral.
 
@@ -320,15 +341,15 @@ Per a aconseguir una igualtat real i efectiva, són necessàries mesures socials
 
 Defensem l'accés gratuït a béns de primera necessitat com tampons, compreses i copes menstruals, així com l'eliminació de la "taxa rosa". Apostem per més recursos per a la investigació i l'educació en menstruació i salut sexual, i per eliminar tabús cap a una societat més igualitària. Treballem perquè els espais de debat i representació siguen menys jerarquitzats i amb participació equitativa. Apostem per la creació d'espais segurs en espais públics, privats, formals i no formals.
 
-</section>
+</amendable>
 
-<section title="Interseccionalitat">
+<amendable id="3_1_2" title="Interseccionalitat">
 
 Defensem la interseccionalitat per tal de tindre en compte les múltiples desigualtats i opressions que pateixen les dones. El feminisme que defensem ha d'incloure totes les dones, sense excepcions. No donarem suport a cap associació o moviment que no complisca este principi.
 
-</section>
+</amendable>
 
-<section title="Violències">
+<amendable id="3_1_3" title="Violències">
 
 Este sistema cisheteropatriarcal i masclista normalitza, legitima i invisibilitza desigualtats, discriminacions i violències cap a les dones. Una de les conseqüències més evidents és la quantitat de dones assassinades: des de 2003 fins al 30 de juny de 2025, s'han comés 1315 feminicidis a l'Estat espanyol. A estes víctimes s'hi sumen les morts de menors per violència vicària, els menors que perden mares, i totes les dones assassinades que no consten en els registres oficials.
 
@@ -338,9 +359,9 @@ També rebutgem la mercantilització i cosificació de les dones, com la pornogr
 
 Reivindiquem els drets reproductius, el dret a interrompre l'embaràs en llibertat i seguretat, i acabar amb la violència obstètrica.
 
-</section>
+</amendable>
 
-<section title="Masculinitats igualitàries">
+<amendable id="3_1_4" title="Masculinitats igualitàries">
 
 És imprescindible impulsar una coeducació real tant en l'educació formal com en la no formal. Necessitem educació afectiva-sexual des de les primeres etapes educatives, adaptada a cada edat.
 
@@ -348,9 +369,9 @@ Cal promoure que els homes reflexionen sobre els privilegis que tenen en la soci
 
 Els homes han d'entendre que no hi ha una sola forma de ser home, igual que no hi ha una única manera de ser dona. I han d'assumir i compartir els treballs domèstics, de criança i de cures.
 
-</section>
+</amendable>
 
-<section title="Criar, curar i cuidar">
+<amendable id="3_1_5" title="Criar, curar i cuidar">
 
 Ens posicionem en contra de qualsevol estructura cisheteropatriarcal i neoliberal que reduïsca les dones a un producte. Apostem per un model d'adopció, criança i cures lliure de patriarcat, i pel reconeixement del dret a la cura en igualtat.
 
@@ -358,50 +379,51 @@ Les tasques de criança i cures han recaigut històricament en les dones, genera
 
 Defensem el reconeixement econòmic del treball invisible i no remunerat, la professionalització de les cures, i la dignificació de totes les persones que les duen a terme.
 
-</section>
-
 </amendable>
+</amendable-section>
 
-
-
-<amendable id="3_2" title="Drets LGTBIQ+">
+<amendable-section id="3_2" title="3.2 Drets LGTBIQ+" level="3">
+<amendable id="3_2_0">
 
 Al llarg de la història, les persones LGTBIQ+ han sigut un col·lectiu oprimit, discriminat i invisibilitzat. Els drets conquerits estan amenaçats per l'auge de l'extrema dreta i els discursos d'odi, que actuen tant des de les institucions com des del carrer.
 
-<section title="Violències">
+</amendable>
+
+<amendable id="3_2_1" title="Violències">
 
 L'opressió per identitat de gènere o orientació sexual és conseqüència dels rols de gènere preestablerts que castiguen les persones que no s'ajusten a la cisheteronorma. Les discriminacions es donen en l'àmbit professional, personal, públic i en l'accés a drets fonamentals.
 
 Rebutgem tota forma de violència contra les persones LGTBIQ+ i treballem per una educació en valors que trenque els rols de gènere. Defensem la prevenció i l'erradicació dels delictes d'odi impulsats pel feixisme. Exigim també que les teràpies de conversió -considerades tortura- siguen tipificades com a delicte al Codi Penal.
 
-</section>
+</amendable>
 
-<section title="Diversitat familiar">
+<amendable id="3_2_2" title="Diversitat familiar">
 
 Defensem el reconeixement real de la diversitat familiar: monoparentals, homoparentals i totes aquelles formes que no responen al model pare-mare. Cal garantir igualtat d'oportunitats en cures, criança i reproducció.
 
 Reivindiquem un sistema d'adopció que pose al centre el benestar de la infància i reconega completament totes les famílies. Defensem que la sanitat pública assumisca les pràctiques reproductives per evitar la seua mercantilització.
 
-</section>
+</amendable>
 
-<section title="Identitat de gènere">
+<amendable id="3_2_3" title="Identitat de gènere">
 
 Les persones amb identitats de gènere dissidents són especialment vulnerables i pateixen discriminacions en educació, treball, habitatge i vida social. Les administracions han de fer polítiques per pal·liar esta realitat.
 
 Defensem la Llei Integral del Reconeixement del Dret a la Identitat i Expressió de Gènere aprovada per Compromís, i treballem per impedir les retallades de la dreta i l'extrema dreta. També reclamem que la Llei Trans Estatal incloga explícitament els drets de les persones no binàries.
 
-</section>
-
 </amendable>
+</amendable-section>
+</amendable-section>
 
-<amendable id="4" title="Fem possible un País Valencià antifeixista">
+<amendable-section id="4" title="Fem possible un País Valencià antifeixista">
+<amendable id="4_0">
 
 Joves PV es defineix i actua com una organització juvenil antifeixista. Entenem l'antifeixisme com la lluita contra el feixisme, però també, essencialment, com la defensa dels drets humans de totes les persones sense importar l'origen, la identitat, el gènere, la posició socioeconòmica, la cultura, la llengua o l'ètnia. Ser antifeixista és defensar els drets de les persones, principalment, a ser; i esta ponència vetllarà perquè les accions que es duen a terme així ho demostren. Joves PV centrarà la seua lluita, entre altres, en treballar contra els discursos d'odi i l'extrema dreta. En resum, en combatre el feixisme.
 
 </amendable>
 
-
-<amendable id="4_1" title="Auge de l'extrema dreta">
+<amendable-section id="4_1" title="4.1 Auge de l'extrema dreta" level="3">
+<amendable id="4_1_0">
 
 L'antifeixisme es converteix en l'eix vertebrador de qualsevol organització democràtica com és la nostra. És per això que ha d'estar present en la nostra quotidianitat, més encara ara que l'extrema dreta creix i vol dominar les institucions. En un moment en el qual l'extrema dreta guanya terreny en Europa, l'Estat espanyol i fins i tot al nostre País, hem de vetllar per combatre el seu discurs reaccionari. Combatre'l des dels carrers i les institucions, per evitar que es legitimen i normalitzen aquelles conductes i agressions contra tot allò que som i representem.
 
@@ -412,9 +434,10 @@ En l'actualitat, existeix un blanquejament i una idealització del que va ser la
 Ara més que mai s'ha de fer front a l'extrema dreta, perquè ja hem vist que la seua presència institucional ens costa la vida, els drets i la supervivència. Joves PV farà front als atacs contra partits d'esquerra, a la negació de la violència estructural cap a les dones, a les entitats del tercer sector, a les persones migrants i al col·lectiu LGTBIQ+. Lluitar contra els discursos de por i estigmatització reforçats per l'extrema dreta serà clau. Defensem els drets de les persones per fer fora la por del carrer i de les institucions; ens organitzem per frenar i véncer els discursos reaccionaris.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="4_2" title="Combatem els discursos d'odi">
+<amendable-section id="4_2" title="4.2 Combatem els discursos d'odi" level="3">
+<amendable id="4_2_0">
 
 Davant l'augment dels discursos antimigratoris, masclistes i homòfobs que afecten tota la societat, especialment els joves, és tasca de la nostra organització fer front als mateixos.
 
@@ -425,13 +448,15 @@ Vetllarem per la defensa de la llibertat i la tolerància, combatent qualsevol d
 El nostre País sempre serà una terra d'acollida on caben totes les persones independentment dels seus trets, la seua condició sexual, el seu gènere, la seua situació econòmica o la seua procedència. Seguirem vetllant perquè així continue sent i per frenar els qui pretenen impedir-ho.
 
 </amendable>
+</amendable-section>
 
-
-<amendable id="4_3" title="Drets Humans">
+<amendable-section id="4_3" title="4.3 Drets Humans" level="3">
+<amendable id="4_3_0">
 
 Un dels puntals de la nostra lluita és la defensa de la Declaració Universal dels Drets Humans (DUDH) com a garantia de respecte a les persones i a les seues llibertats. Entenem el feminisme, l'ecologisme, l'internacionalisme, el cooperativisme i el republicanisme com a trets fonamentals que emanen de la DUDH, i que articulen la nostra posició política antifeixista contra el model sociocultural neoliberal.
 
-<section title="Solidaritat entre pobles">
+</amendable>
+<amendable title="Solidaritat entre pobles">
 
 Durant dècades, el projecte europeu ha sigut una promesa de pau i prosperitat, però estes valors s'han vist afectats per crisis socials, econòmiques i polítiques i per l'hegemonia neoliberal. El valencianisme ha de convertir l'actual crisi en una oportunitat per construir l'Europa que volem.
 
@@ -443,9 +468,9 @@ Volem una Europa verda, democràtica, feminista, social, dels pobles i no dels m
 
 Exigim trencar relacions econòmiques i diplomàtiques amb estats ocupants i opressors.
 
-</section>
+</amendable>
 
-<section title="Migració">
+<amendable title="Migració">
 
 Volem construir una resposta antifeixista des de la base, fomentant una societat solidària i plural. El País Valencià és una terra d'acollida, i donem suport als col·lectius que lideren la lluita antifeixista.
 
@@ -455,9 +480,9 @@ Per aconseguir integració real, calen polítiques públiques valentes: invertir
 
 Hem d'instar l'Estat espanyol a rebutjar els discursos d'odi i a combatre el racisme i la xenofòbia. Cap persona és il·legal.
 
-</section>
+</amendable>
 
-<section title="Cooperació">
+<amendable title="Cooperació">
 
 Cal una aposta decidida per un model de cooperació que combata les desigualtats socioeconòmiques globals, amb el focus en les persones destinàries del suport.
 
@@ -465,15 +490,17 @@ La cooperació ha d'enfocar-se al compliment dels Objectius de Desenvolupament S
 
 La cooperació ha d'incorporar perspectiva jove: els plans directors de cooperació han de considerar les persones joves com a grup prioritari i han de ser desenvolupats per equips amb participació juvenil real.
 
-</section>
-
 </amendable>
-<amendable id="5" title="Fem possible el País Valencià ecologista">
+</amendable-section>
+</amendable-section>
+
+<amendable-section id="5" title="Fem possible el País Valencià ecologista">
+<amendable id="5_0">
 El canvi climàtic és un gran repte global que ja és una realitat que ens afecta dia a dia al nostre País. Hem de ser conscients d'esta problemàtica i treballar mitjançant polítiques valentes per dotar-nos d'un sistema més preparat per a fer front als reptes que ja venen.
 </amendable>
 
-
-<amendable id="5_1" title="Emergència climàtica">
+<amendable-section id="5_1" title="5.1 Emergència climàtica" level="3">
+<amendable id="5_1_0">
 L'emergència climàtica és una realitat en el nostre entorn i ha vingut per a quedar-se. A poc a poc s'erosiona el nostre medi natural i social, generant noves problemàtiques: plagues, fenòmens meteorològics extrems, inundacions, incendis forestals Els seus perills ens afecten a totes i tots, i la lluita ha de ser col·lectiva.
 
 Apostem per la justícia climàtica. L'Estat espanyol té una responsabilitat directa en les causes del canvi climàtic, i també en les mesures per frenar-lo. Tenim l'obligació d'impulsar polítiques ambientals eficients, que mitiguen els efectes de l'activitat humana i posen fre a pràctiques nocives.
@@ -484,9 +511,10 @@ Cal actuar per una descarbonització real: reducció d'emissions, neutralitat cl
 
 També denunciem l'enorme problema dels plàstics, contaminants per als ecosistemes i perillosos per a la salut humana. És imprescindible una aposta contundent per la substitució, reducció i reciclatge real dels plàstics.
 </amendable>
+</amendable-section>
 
-
-<amendable id="5_2" title="Economia circular">
+<amendable-section id="5_2" title="5.2 Economia circular" level="3">
+<amendable id="5_2_0">
 L'emergència climàtica és causada pel model econòmic actual, basat en la sobreexplotació de recursos fins al seu esgotament. Cal un model econòmic reduccionista, respectuós amb el medi ambient i socialment just.
 
 Defensem polítiques ecologistes valentes, que tinguen en compte els sectors més contaminants i busquen solucions més enllà del canvi climàtic.
@@ -496,20 +524,24 @@ Reivindiquem un sistema econòmic circular basat en les cinc erres: Reduir, Reut
 És essencial que l'agricultura i la indústria evolucionen cap a formes sostenibles, i superar el turisme depredador per un model cooperatiu, local i equilibrat.
 
 El futur passa per una economia verda, la relocalització productiva, la innovació tecnològica i uns serveis públics de qualitat.
+
 </amendable>
+</amendable-section>
 
+<amendable-section id="5_3" title="5.3 Investigació i innovació" level="3">
+<amendable id="5_3_0">
 
-<amendable id="5_3" title="Investigació i innovació">
 Apostem per un desenvolupament públic de la investigació, desenvolupament i innovació (I+D+i) que servisca al canvi productiu i al desenvolupament sostenible.
 
 Cal garantir estabilitat laboral al personal investigador i establir una perspectiva humana, ecològica i ètica en tota la recerca. La investigació ha de millorar la vida de les persones i tindre una transferència real a la societat, allunyant-la de la mera generació de capital.
 
 Defensem una I+D+i vinculada a la reindustrialització i a la recuperació de la sobirania industrial, reduint emissions de CO? en el transport i assegurant drets laborals al llarg de tota la cadena productiva.
+
 </amendable>
+</amendable-section>
 
-
-<amendable id="5_4" title="Protecció de l'entorn">
-<section title="Medi natural">
+<amendable-section id="5_4" title="5.4 Protecció de l'entorn" level="3">
+<amendable id="5_4_1" title="Medi natural">
 
 El canvi climàtic afecta greument el nostre medi natural. La urbanització descontrolada, especialment en zones de costa i inundables, i els fenòmens climàtics extrems posen en risc els ecosistemes. També la globalització incrementa l'arribada d'espècies invasores.
 
@@ -525,9 +557,9 @@ Reivindiquem renaturalitzar les ciutats, apropar la natura a la població i miti
 
 També cal una gestió sostenible de residus, minimitzant l'ús d'abocadors i fomentant que les grans empreses assumisquen la seua responsabilitat ambiental.
 
-</section>
+</amendable>
 
-<section title="Recursos">
+<amendable id="5_4_2" title="Recursos">
 
 Apostem per una agricultura, ramaderia i pesca que supere la lògica intensiva i extractivista. Defensem un model extensiu, ecològic i respectuós amb els animals i els ecosistemes.
 
@@ -537,11 +569,12 @@ Denunciem l'espoli dels intermediaris i apostem per processos agrícoles sosteni
 
 L'aigua és un recurs limitat i vulnerable: cal protegir zones humides, ecosistemes i garantir un ús responsable, evitant actuacions que agreugen la crisi climàtica.
 
-</section>
 </amendable>
+</amendable-section>
 
+<amendable-section id="5_5" title="5.5 Energia" level="3">
+<amendable id="5_5_0">
 
-<amendable id="5_5" title="Energia">
 La transició energètica és imprescindible. El sistema actual continua depenent de combustibles fòssils malgrat els avanços en renovables.
 
 Hem d'aprofitar els recursos naturals del País Valencià per impulsar l'energia solar i altres renovables, rebutjant les energies contaminants, inclosa l'energia nuclear. Tot i això, reconeixem que, per inacció política, encara exerceix un paper transitori en el subministrament energètic.
@@ -551,10 +584,13 @@ Defensem el desmantellament progressiu de les centrals nuclears i l'eliminació 
 La transició ha de ser socialment justa: cal democratitzar l'energia, reduir macroprojectes i apostar per cooperatives i autoconsum.
 
 Les renovables han d'instal·lar-se amb el mínim impacte territorial, prioritzant espais ja alterats i garantint una planificació consensuada i ordenada.
+
 </amendable>
+</amendable-section>
 
+<amendable-section id="5_6" title="5.6 Mobilitat" level="3">
+<amendable id="5_6_0">
 
-<amendable id="5_6" title="Mobilitat">
 El vehicle privat motoritzat és un dels principals generadors d'emissions, i sovint l'única opció en zones rurals. Cal un sistema de mobilitat públic, sostenible i adaptat als territoris que vertebre el País Valencià.
 
 Reivindiquem una xarxa de transport públic única, pública, accessible i intermodal, que penalitze l'ús del vehicle privat on hi haja alternatives de qualitat.
@@ -566,10 +602,12 @@ On no siga viable un servei regular, apostem pel transport a demanda i sistemes 
 Volem un model basat en transport col·lectiu electrificat, bicicleta i desplaçaments a peu, amb espais segurs, xarxes ciclables i una planificació urbana que reduïsca l'impacte ambiental.
 
 Ens oposem a infraestructures portuàries o projectes que danyen espais naturals o tinguen impactes contaminants.
+
 </amendable>
+</amendable-section>
 
-
-<amendable id="5_7" title="Animalisme">
+<amendable-section id="5_7" title="5.7 Animalisme" level="3">
+<amendable id="5_7_0">
 
 La transformació ecològica implica reconéixer els drets dels animals, reduir el consum de carn i peix i eliminar la tortura animal del nostre oci i festes.
 
@@ -578,4 +616,5 @@ Rebutgem tota explotació i maltractament animal. Defensem un País Valencià an
 La indústria càrnica és una de les més contaminants del món. Cal replantejar el consum de carn per motius ambientals, de salut i per evitar la sobreexplotació de recursos.
 
 </amendable>
-
+</amendable-section>
+</amendable-section>
