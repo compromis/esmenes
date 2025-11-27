@@ -131,26 +131,26 @@ Caldrà establir un llistat de temes que preocupen la joventut per tal d'orienta
 
 <amendable id="2.1" title="Relacions amb Més-Compromís">
 
-1. Joves PV ha de consolidar les relacions orgàniques amb Més, treballant de manera coordinada i lleial, reforçant els espais de cooperació política i estratègica. :contentReference[oaicite:3]{index=3}  
-2. És imprescindible tindre clar quin paper vol exercir Joves PV dins de Compromís: com a actor estratègic, com a referent juvenil i com a impulsor de la línia política transformadora i valencianista. :contentReference[oaicite:4]{index=4}  
-3. Joves PV ha de continuar formant part dels espais institucionals compartits, mantenint almenys una persona representant a la Comissió Permanent del Consell Valencià de la Joventut i incrementant la presència als consells locals de joventut. :contentReference[oaicite:5]{index=5}
-4. També hem d'establir i augmentar vincles amb altres organitzacions internacionals sobiranistes, de manera alineada amb l'estratègia global de Més. :contentReference[oaicite:6]{index=6}
+1. Joves PV ha de consolidar les relacions orgàniques amb Més, treballant de manera coordinada i lleial, reforçant els espais de cooperació política i estratègica.
+2. És imprescindible tindre clar quin paper vol exercir Joves PV dins de Compromís: com a actor estratègic, com a referent juvenil i com a impulsor de la línia política transformadora i valencianista. 
+3. Joves PV ha de continuar formant part dels espais institucionals compartits, mantenint almenys una persona representant a la Comissió Permanent del Consell Valencià de la Joventut i incrementant la presència als consells locals de joventut.
+4. També hem d'establir i augmentar vincles amb altres organitzacions internacionals sobiranistes, de manera alineada amb l'estratègia global de Més. 
 
 </amendable>
 
 <amendable id="2.2" title="Relacions amb Compromís">
 
-1. Joves PV ha de definir clarament què necessita i espera de Compromís, especialment pel que fa al paper juvenil dins l'espai i a la incorporació de la perspectiva jove en totes les seues polítiques. :contentReference[oaicite:7]{index=7}  
-2. Hem de fer-nos visibles davant més col·lectius, ampliant el discurs per arribar a les joves treballadores, que representen un segment creixent de la població. :contentReference[oaicite:8]{index=8}  
-3. Cal mantindre una xarxa d'aliades que compartisquen els objectius polítics i que ens permeten remar conjuntament, tant en l'àmbit orgànic com institucional. :contentReference[oaicite:9]{index=9}  
-4. Joves PV ha de posicionar-se com a organització de referència en la defensa dels drets de les persones joves, dels interessos valencians, de la classe treballadora i de la igualtat d'oportunitats. :contentReference[oaicite:10]{index=10}
+1. Joves PV ha de definir clarament què necessita i espera de Compromís, especialment pel que fa al paper juvenil dins l'espai i a la incorporació de la perspectiva jove en totes les seues polítiques. 
+2. Hem de fer-nos visibles davant més col·lectius, ampliant el discurs per arribar a les joves treballadores, que representen un segment creixent de la població.
+3. Cal mantindre una xarxa d'aliades que compartisquen els objectius polítics i que ens permeten remar conjuntament, tant en l'àmbit orgànic com institucional.
+4. Joves PV ha de posicionar-se com a organització de referència en la defensa dels drets de les persones joves, dels interessos valencians, de la classe treballadora i de la igualtat d'oportunitats. 
 
 </amendable>
 
 <amendable-section id="2.3" title="Relacions amb entitats de la societat civil" level="3">
 <amendable id="2.3.0">
 
-Joves PV ha de treballar conjuntament amb les entitats socials per a crear espais de retroalimentació i articulació política compartida. Aquesta línia de treball s'organitza en diversos àmbits sectorials: :contentReference[oaicite:11]{index=11}
+Joves PV ha de treballar conjuntament amb les entitats socials per a crear espais de retroalimentació i articulació política compartida. Aquesta línia de treball s'organitza en diversos àmbits sectorials: 
 
 </amendable>
 <amendable id="2.3.1" title="Entitats que defensen els drets de les persones joves">
@@ -340,7 +340,7 @@ L'objectiu d'aquesta estratègia és preparar l'organització per a intervindre 
 
 </amendable>
 
-<amendable id="4.5" title="Relació amb Més  Compromís en període electoral">
+<amendable id="4.5" title="Relació amb Més-Compromís en període electoral">
 
 1. Joves PV ha d'estar present en totes les estructures operatives de campanya de Més i de Compromís.  
 2. La Coordinadora Nacional de Joves PV ha de participar en l'elaboració de l'estratègia electoral general.  
@@ -370,7 +370,9 @@ L'objectiu d'aquesta estratègia és preparar l'organització per a intervindre 
 <amendable id="6.0" title="Introducció">
 
 Al llarg d'aquesta Ponència Estratègica s'han descrit, organitzats en àmbits de treball, una sèrie d'objectius estratègics.  
+
 Aquests són els reptes a què hauria de fer front la nostra organització des d'ara i fins als pròxims anys.  
+
 Per a facilitar-ne la lectura, disposem a continuació el llistat d'objectius marcats.
 
 </amendable>

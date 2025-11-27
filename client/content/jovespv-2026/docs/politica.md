@@ -494,11 +494,14 @@ La cooperació ha d'incorporar perspectiva jove: els plans directors de cooperac
 
 <amendable-section id="5" title="Fem possible el País Valencià ecologista">
 <amendable id="5_0">
+
 El canvi climàtic és un gran repte global que ja és una realitat que ens afecta dia a dia al nostre País. Hem de ser conscients d'esta problemàtica i treballar mitjançant polítiques valentes per dotar-nos d'un sistema més preparat per a fer front als reptes que ja venen.
+
 </amendable>
 
 <amendable-section id="5_1" title="5.1 Emergència climàtica" level="3">
 <amendable id="5_1_0">
+
 L'emergència climàtica és una realitat en el nostre entorn i ha vingut per a quedar-se. A poc a poc s'erosiona el nostre medi natural i social, generant noves problemàtiques: plagues, fenòmens meteorològics extrems, inundacions, incendis forestals Els seus perills ens afecten a totes i tots, i la lluita ha de ser col·lectiva.
 
 Apostem per la justícia climàtica. L'Estat espanyol té una responsabilitat directa en les causes del canvi climàtic, i també en les mesures per frenar-lo. Tenim l'obligació d'impulsar polítiques ambientals eficients, que mitiguen els efectes de l'activitat humana i posen fre a pràctiques nocives.
@@ -508,11 +511,13 @@ Any rere any se superen rècords de temperatura, patim sequeres i esdeveniments 
 Cal actuar per una descarbonització real: reducció d'emissions, neutralitat climàtica i transformació del model energètic.
 
 També denunciem l'enorme problema dels plàstics, contaminants per als ecosistemes i perillosos per a la salut humana. És imprescindible una aposta contundent per la substitució, reducció i reciclatge real dels plàstics.
+
 </amendable>
 </amendable-section>
 
 <amendable-section id="5_2" title="5.2 Economia circular" level="3">
 <amendable id="5_2_0">
+
 L'emergència climàtica és causada pel model econòmic actual, basat en la sobreexplotació de recursos fins al seu esgotament. Cal un model econòmic reduccionista, respectuós amb el medi ambient i socialment just.
 
 Defensem polítiques ecologistes valentes, que tinguen en compte els sectors més contaminants i busquen solucions més enllà del canvi climàtic.
