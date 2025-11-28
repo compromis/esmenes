@@ -3,15 +3,15 @@ title: VI Congrés Joves PV
 ---
 
 <div class="text-2xl mb-4 lh-sm text-muted">
-  XX de febrer de 2026<br>
-  --
+  21 de febrer de 2026<br>
+  Àgora, Alcoi
 </div>
 
 <h2 class="text-lg mb-3">Benvinguda al web d’esmenes del VI Congrés de Joves PV!</h2>
 
 A continuació trobaràs unes breus instruccions per poder fer un ús correcte d’esta ferramenta.
 
-El termini per a presentar esmenes als documents acabarà el **X de desembre** a les 23:59:59. Els diferents documents esmenables que trobaràs a cada pestanya són:
+El termini per a presentar esmenes als documents acabarà el **19 de desembre** a les 23:59:59. Els diferents documents esmenables que trobaràs a cada pestanya són:
 
 <div class="doc-grid mb-6">
 <nuxt-link to="/jovespv-2026/estatuts" class="doc-button">
