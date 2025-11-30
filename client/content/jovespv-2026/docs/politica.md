@@ -919,7 +919,7 @@ Ara més que mai s’ha de fer front a l’extrema dreta, perquè ja hem vist qu
 </amendable-section>
 
 
-<amendable-section id="4_2" title="**4.2 Combatem els discursos d’odi.** 4.2 Combatem els discursos d’odi.">
+<amendable-section id="4_2" title="4.2 Combatem els discursos d’odi.">
 
 <amendable id="4_2_1">
 
@@ -1040,7 +1040,7 @@ I la cooperació ha d'anar també acompanyada de la perspectiva jove. S'ha de fe
 
 </amendable-section>
 
-<amendable-section id="5" title="**5. Fem possible el País Valencià ecologista.** 5. Fem possible el País Valencià ecologista.">
+<amendable-section id="5" title="5. Fem possible el País Valencià ecologista.">
 
 <amendable id="5_0_1">
 
