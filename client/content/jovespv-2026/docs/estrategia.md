@@ -23,7 +23,7 @@ Finalment, és important assenyalar que aquest document té caràcter informatiu
 </amendable>
 </amendable-section>
 <amendable-section id="T1" title="1. Estratègia orgànica">
-<amendable id="1_0">
+<amendable id="1_0" title="Introducció">
 
 Durant els últims anys, Joves PV ha experimentat un creixement i una consolidació com a organització política de referència per a la joventut valencianista, d’esquerres, ecologista, feminista i antifeixista del País Valencià.
 Aquesta ampliació i enfortiment ha d’anar acompanyada d’un enfortiment i millora de l’estructura orgànica, perquè la força del nostre projecte polític rau en les persones que en formem part.
@@ -104,7 +104,7 @@ D’aquesta forma s’estarà complint altre objectiu estratègic com és trebal
 </amendable>
 </amendable-section>
 <amendable-section id="T2" title="2. Estratègia polÌtica">
-<amendable id="2_0">
+<amendable id="2_0" title="Introducció">
 
 El canvi de paradigma de la societat valenciana i els canvis polítics produïts arran de la negligent gestió de la DANA, ens fa replantejar-nos el nostre projecte, els nostres objectius, així com les línies i maneres d’actuació per tal d’adequar-nos als reptes als quals ens enfrontem en la vista posada a la propera convocatoria electoral.
 
@@ -221,7 +221,7 @@ En matèria de diversitat LGTBI+ pensem que els col·lectius que més s'apropen 
 </amendable-section>
 </amendable-section>
 <amendable-section id="T3" title="3. Estratègia comunicativa">
-<amendable article="3_0">
+<amendable article="3_0" title="Introducció">
 
 Als nostres dies, la comunicació política s’ha convertit en un element essencial en la política i sovint, l’èxit o fracàs d’un partit o una candidatura gira entorn de la seua capacitat comunicativa. Allò que no es comunica, no existeix. D'aquesta manera, les estratègies de comunicació política juguen un paper fonamental en els rols que desenvolupen els partits polítics en les democràcies.
 
@@ -298,8 +298,8 @@ En resum, la crisi de Mazón ha obert una escletxa per reforçar la nostra pres�
 
 </amendable>
 </amendable-section>
-<amendable-section id="T5" title="5, Estratègia institucional">
-<amendable id="5_0">
+<amendable-section id="T5" title="5. Estratègia institucional">
+<amendable id="5_0" title="Introducció">
 
 Després de les eleccions municipals i autonòmiques de 2023 i passats dos anys Joves PV compta amb 44 regidores i regidors i  4 Alcaldies. 
 
@@ -372,7 +372,7 @@ Al llarg d'aquesta Ponència Estratègia s'han descrit, organitzats en àmbits d
 11. Establir i augmentar vincles amb altres organitzacions internacionals sobiranistes.
 
 </amendable>
-<amendable article="6_3" title="Estratègia comunicativa">
+<amendable id="6_3" title="Estratègia comunicativa">
 
 1. Estar a l'avantguarda de les noves tendències comunicatives, investigant sobre aquestes i adaptant els nostres discursos i publicacions a cada xarxa social.
 2. Continuar apostant per l'assessorament de perfils professionals en l'acció comunicativa.
@@ -387,7 +387,7 @@ Al llarg d'aquesta Ponència Estratègia s'han descrit, organitzats en àmbits d
 11. Mantindre un lloc web actualitzat i a l’abast de les comarques.
 
 </amendable>
-<amendable article="6_4" title="Estratègia electoral">
+<amendable id="6_4" title="Estratègia electoral">
 
 1. Mantenir el màxim nombre de pobles amb persones joves en les llistes electorals municipals de cara a les properes eleccions.
 2. Apostar en tots els processos electorals pels lideratges joves per a encapçalar llistes electorals.
@@ -402,7 +402,7 @@ Al llarg d'aquesta Ponència Estratègia s'han descrit, organitzats en àmbits d
 11. Aprofitar les relacions amb l’EFAY per tal d’aconseguir una major representativitat a escala europea.
 
 </amendable>
-<amendable article="6_5" title="Estratègia institucional">
+<amendable id="6_5" title="Estratègia institucional">
 
 1. Formar les noves persones joves regidores en qüestions específiques i fomentar la trobada municipalista.
 2. Augmentar i activar la coordinació institucional en l'àmbit municipal creant un directori de propostes.
