@@ -14,6 +14,10 @@ A continuació trobaràs unes breus instruccions per poder fer un ús correcte d
 El termini per a presentar esmenes als documents acabarà el **19 de desembre** a les 23:59:59. Els diferents documents esmenables que trobaràs a cada pestanya són:
 
 <div class="doc-grid mb-6">
+<nuxt-link to="/jovespv-2026/reglament" class="doc-button">
+  Reglament del Congrés
+</nuxt-link>
+
 <nuxt-link to="/jovespv-2026/estatuts" class="doc-button">
   Estatuts
 </nuxt-link>
@@ -24,6 +28,10 @@ El termini per a presentar esmenes als documents acabarà el **19 de desembre** 
 
 <nuxt-link to="/jovespv-2026/estrategia" class="doc-button">
   Ponència Estratègica
+</nuxt-link>
+
+<nuxt-link to="/jovespv-2026/grafic" class="doc-button">
+Manual d'Identitat Visual Corporativa
 </nuxt-link>
 </div>
 
