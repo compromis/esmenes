@@ -54,6 +54,7 @@ Deia Joan Fuster “el País Valencià serà d’esquerres o no serà” i d’a
 <amendable id="1_0_2">
 
 En este mateix sentit, hem de caracteritzar-nos per fer polítiques valentes que donen solucions reals a les problemàtiques que ens afecten i això, sempre haurà de ser des d’una perspectiva de progrés.
+
 </amendable>
 
 
