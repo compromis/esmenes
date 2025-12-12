@@ -162,6 +162,7 @@ L’escola ha de ser també un espai de cura emocional ja que és fonamental inc
 <amendable id="1_3_5">
 
 L’educació ha d’anar més enllà de les aules i connectar amb la societat i l’economia del futur. Cal dignificar i desestigmatitzar la Formació Professional, potenciant itineraris que responen al nou model productiu, vinculats a la innovació, la sostenibilitat i la digitalització, així com la creació d’acadèmies públiques d’oposicions, per democratitzar l’accés a la funció pública i trencar amb l’ocultisme i el privilegi que encara envolten este àmbit. 
+
 </amendable>
 
 
