@@ -22,7 +22,7 @@ En este camí, la joventut valencianista ha tingut sempre un paper imprescindibl
 
 <amendable id="0_3">
 
-Amb esta ponència reafirmem que el nacionalisme valencià no és només una opció ideològica, sinó l’eina fonamental per construir un futur digne per al nostre País. Sense instruments polítics propis, sense un projecte nacional clar i sense una organització sòlida capaç d’imaginar i executar alternatives, el País Valencià estaria encara més subordinat als interessos d’unes estructures estatals i econòmiques que ens marginen sistemàticament. Per això defensem un valencianisme que siga siga , alhora, memòria i futur; que bega bega de la nostra història però que s’adrece s’adrece a les necessitats i aspiracions de la gent jove; que propose propose un País més lliure, més just i més sobirà.
+Amb esta ponència reafirmem que el nacionalisme valencià no és només una opció ideològica, sinó l’eina fonamental per construir un futur digne per al nostre País. Sense instruments polítics propis, sense un projecte nacional clar i sense una organització sòlida capaç d’imaginar i executar alternatives, el País Valencià estaria encara més subordinat als interessos d’unes estructures estatals i econòmiques que ens marginen sistemàticament. Per això defensem un valencianisme que siga , alhora, memòria i futur; que bega de la nostra història però que s’adrece a les necessitats i aspiracions de la gent jove; que propose un País més lliure, més just i més sobirà.
 
 </amendable>
 
@@ -53,12 +53,11 @@ Deia Joan Fuster “el País Valencià serà d’esquerres o no serà” i d’a
 
 <amendable id="1_0_2">
 
-En este mateix sentit, hem de caracteritzar-nos per fer polítiques valentes que donen solucions reals a les problemàtiques que ens afecten i això, sempre haurà de ser des d’una perspectiva de progrés. En este mateix sentit, hem de caracteritzar-nos per fer polítiques valentes que donen solucions reals a les problemàtiques que ens afecten i això, sempre haurà de ser des d’una perspectiva de progrés.
-
+En este mateix sentit, hem de caracteritzar-nos per fer polítiques valentes que donen solucions reals a les problemàtiques que ens afecten i això, sempre haurà de ser des d’una perspectiva de progrés.
 </amendable>
 
 
-<amendable-section id="1_1" title="1.1. Anticapitalisme Anticapitalisme" level="3">
+<amendable-section id="1_1" title="1.1. Anticapitalisme" level="3">
 
 <amendable id="1_1_1">
 
@@ -80,42 +79,42 @@ Apostem per un sistema econòmic i social alternatiu a l’actual, basat en l’
 
 <amendable id="1_2_1">
 
-Durant les últimes dècades, el model neoliberal ha permés permés a les generacions anterior, la millorar de les seues condicions de vida. Este progrés material no és, de cap manera, inherent al model neoliberal que tendeix a enriquir als poderosos i empobrir a la gent normal. De fet, la millorar de la qualitat de vida d’estes generacions està vinculada al resultat del seu esforç laboral i personal i al paper dels sindicats i moviments populars, que no al model depredador que patim.
+Durant les últimes dècades, el model neoliberal ha permés a les generacions anterior, la millorar de les seues condicions de vida. Este progrés material no és, de cap manera, inherent al model neoliberal que tendeix a enriquir als poderosos i empobrir a la gent normal. De fet, la millorar de la qualitat de vida d’estes generacions està vinculada al resultat del seu esforç laboral i personal i al paper dels sindicats i moviments populars, que no al model depredador que patim.
 
 </amendable>
 
 
 <amendable id="1_2_2">
 
-Però és evident que este model està esgotat i que no genera benestar col·lectiu. La precarització precarització del treball, la desaparició de la sovint anomenada classe mitjana i l'augment de la desigualtat són només alguns símptomes d'este esgotament.
+Però és evident que este model està esgotat i que no genera benestar col·lectiu. La precarització del treball, la desaparició de la sovint anomenada classe mitjana i l'augment de la desigualtat són només alguns símptomes d'este esgotament.
 
 </amendable>
 
 
 <amendable id="1_2_3">
 
-Volem viure per a poder treballar i no treballar per a poder viure, entent entent el treball com a forma de repartiment comunitari de les tasques de construcció de la societat, així com del repartiment equitatiu de la riquesa, atenent, especialment, a les rentes més baixes , i rebutgem fermament l'esclavitud moderna que ha esdevingut el treball en les nostres societats Volem un canvi profund del mercat laboral, que oferisca oferisca una ocupació estable i de qualitat, que genere genere certeses, estabilitat i futur. Volem un augment significatiu dels nostres drets laborals que contemple contemple salaris dignes, millors condicions laborals, mesures de seguretat i conciliació mitjançant iniciatives com la reducció de la jornada laboral a 32 hores setmanals
+Volem viure per a poder treballar i no treballar per a poder viure, entent el treball com a forma de repartiment comunitari de les tasques de construcció de la societat, així com del repartiment equitatiu de la riquesa, atenent, especialment, a les rentes més baixes , i rebutgem fermament l'esclavitud moderna que ha esdevingut el treball en les nostres societats Volem un canvi profund del mercat laboral, que oferisca una ocupació estable i de qualitat, que genere certeses, estabilitat i futur. Volem un augment significatiu dels nostres drets laborals que contemple salaris dignes, millors condicions laborals, mesures de seguretat i conciliació mitjançant iniciatives com la reducció de la jornada laboral a 32 hores setmanals
 
 </amendable>
 
 
 <amendable id="1_2_4">
 
-A més, necessitem unes relacions laborals que siguen siguen compatibles amb el treball de cures, imprescindible per a la vida i per a l’economia, que ha estat comunament i majoritàriament realitzat per dones. En esta línia, apostem per un marc laboral en què este treball siga siga respectat i potenciat, i que, per tant, no supose supose cap obstacle en el desenvolupament de les carreres professionals de cap persona.
+A més, necessitem unes relacions laborals que  siguen compatibles amb el treball de cures, imprescindible per a la vida i per a l’economia, que ha estat comunament i majoritàriament realitzat per dones. En esta línia, apostem per un marc laboral en què este treball siga siga respectat i potenciat, i que, per tant, no supose cap obstacle en el desenvolupament de les carreres professionals de cap persona.
 
 </amendable>
 
 
 <amendable id="1_2_5">
 
-Hem d’acabar amb la dificultat per a l’accès l’accès al mercat laboral, els baixos salaris de les persones joves, la temporalitat indiscriminada i fer de l’acomiadament l’última opció i, que quan es done done , siga siga amb majors indemnitzacions. Reivindiquem l’ocupació de qualitat de les persones amb discapacitat, la creació d’uns itineraris assegurats de consolidació de l’experiència laboral i de formació contínua per a les persones joves, que genere genere entorns de seguretat i estabilitat amb acompanyament dels serveis públics d’ocupació,
+Hem d’acabar amb la dificultat per a l’accès al mercat laboral, els baixos salaris de les persones joves, la temporalitat indiscriminada i fer de l’acomiadament l’última opció i, que quan es done, siga amb majors indemnitzacions. Reivindiquem l’ocupació de qualitat de les persones amb discapacitat, la creació d’uns itineraris assegurats de consolidació de l’experiència laboral i de formació contínua per a les persones joves, que genere entorns de seguretat i estabilitat amb acompanyament dels serveis públics d’ocupació,
 
 </amendable>
 
 
 <amendable id="1_2_6">
 
-No oblidem que el model econòmic del nostre País està principalment basat en el sector serveis, especialment l’hostaleria, que acaba sent un focus de precarietat que afecta directament a les persones joves. Hem d’apostar per la superació d’este model i per a fer-ho hem de crear un teixit industrial fort que cuida del nostre entorn i de la nostre gent, tenint el compte la distribució arreu del nostre País i els drets dels i les treballadores. Hem d’impulsar l’emprenedurisme l’emprenedurisme i els nous reptes professionals per a persones joves per a que puguem liderar este canvi d’una manera ètica i respectuosa.
+No oblidem que el model econòmic del nostre País està principalment basat en el sector serveis, especialment l’hostaleria, que acaba sent un focus de precarietat que afecta directament a les persones joves. Hem d’apostar per la superació d’este model i per a fer-ho hem de crear un teixit industrial fort que cuida del nostre entorn i de la nostre gent, tenint el compte la distribució arreu del nostre País i els drets dels i les treballadores. Hem d’impulsar l’emprenedurisme i els nous reptes professionals per a persones joves per a que puguem liderar este canvi d’una manera ètica i respectuosa.
 
 </amendable>
 
@@ -140,35 +139,34 @@ L' **educació** és el pilar fonamental de creixement personal i col·lectiu, i
 
 <amendable id="1_3_2">
 
-Defensem un desenvolupament interdisciplinari de les capacitats personals, científiques, humanístiques, artístiques, socials i col·lectives, que acompanye acompanye el creixement integral a les persones durant el seu desenvolupament en l'àmbit físic, intel·lectual, psicològic, social, moral, sexual i afectiu, per tal que siguen siguen persones lliures, reflexives, respectuoses, crítiques i ciutadanes actives en un món democràtic. Una educació que garantisca garantisca l'aprenentatge del valencià, la nostra llengua, vinculat a la nostra cultura i el nostre projecte col·lectiu de País com a element fonamental per a la cohesió social.
+Defensem un desenvolupament interdisciplinari de les capacitats personals, científiques, humanístiques, artístiques, socials i col·lectives, que acompanye el creixement integral a les persones durant el seu desenvolupament en l'àmbit físic, intel·lectual, psicològic, social, moral, sexual i afectiu, per tal que siguen persones lliures, reflexives, respectuoses, crítiques i ciutadanes actives en un món democràtic. Una educació que garantisca l'aprenentatge del valencià, la nostra llengua, vinculat a la nostra cultura i el nostre projecte col·lectiu de País com a element fonamental per a la cohesió social.
 
 </amendable>
 
 
 <amendable id="1_3_3">
 
-L'educació ha d'acompanyar a la totalitat de l'alumnat de forma personalitzada i adaptar-se al seu ritme, creant projectes en què tot l'alumnat puga puga conviure, aprenga aprenga de les altres de forma igualitària i coeducadora coeducadora ; una educació en què la diversitat siga siga motiu de celebració, d'enriquiment, d'aprenentatge i de comunitat; que vaja més enllà de les aules, que contemple contemple la necessitat d'aprendre, créixer i compartir també en un oci educatiu vinculat al teixit social. Volem una escola que aculla aculla i integre integre plenament l’alumnat nouvingut, garantint la seua participació i adaptació lingüística i cultural, perquè la diversitat siga siga una riquesa i no una barrera. Cal, així mateix, una atenció específica i de qualitat a l’alumnat amb necessitats educatives especials, reforçant els equips de pedagogia terapèutica (PT) i augmentant els recursos humans i materials, davant l’increment de dificultats que es troben cada dia a les aules.
+L'educació ha d'acompanyar a la totalitat de l'alumnat de forma personalitzada i adaptar-se al seu ritme, creant projectes en què tot l'alumnat puga conviure, aprenga de les altres de forma igualitària i coeducadora; una educació en què la diversitat siga siga motiu de celebració, d'enriquiment, d'aprenentatge i de comunitat; que vaja més enllà de les aules, que contemple la necessitat d'aprendre, créixer i compartir també en un oci educatiu vinculat al teixit social. Volem una escola que aculla i integre plenament l’alumnat nouvingut, garantint la seua participació i adaptació lingüística i cultural, perquè la diversitat siga una riquesa i no una barrera. Cal, així mateix, una atenció específica i de qualitat a l’alumnat amb necessitats educatives especials, reforçant els equips de pedagogia terapèutica (PT) i augmentant els recursos humans i materials, davant l’increment de dificultats que es troben cada dia a les aules.
 
 </amendable>
 
 
 <amendable id="1_3_4">
 
-L’escola ha de ser també un espai de cura emocional ja que és fonamental incorporar la salut mental com a part del currículum educatiu i garantir equips de suport psicològic per a l’alumnat i el professorat. Cal ensenyar a reconéixer reconéixer i gestionar els sentiments, a fomentar l’autoestima, la tolerància a la frustració i el respecte mutu. A més, defensem una educació sexual integral i feminista, que aborde aborde la diversitat afectiva i sexual des de la llibertat, el consentiment i el respecte, trencant tabús i prevenint la violència masclista.
+L’escola ha de ser també un espai de cura emocional ja que és fonamental incorporar la salut mental com a part del currículum educatiu i garantir equips de suport psicològic per a l’alumnat i el professorat. Cal ensenyar a reconéixer i gestionar els sentiments, a fomentar l’autoestima, la tolerància a la frustració i el respecte mutu. A més, defensem una educació sexual integral i feminista, que aborde la diversitat afectiva i sexual des de la llibertat, el consentiment i el respecte, trencant tabús i prevenint la violència masclista.
 
 </amendable>
 
 
 <amendable id="1_3_5">
 
-L’educació ha d’anar més enllà de les aules i connectar amb la societat i l’economia del futur. Cal dignificar i desestigmatitzar desestigmatitzar la Formació Professional, potenciant itineraris que responen al nou model productiu, vinculats a la innovació, la sostenibilitat i la digitalització, així com la creació d’acadèmies públiques d’oposicions, per democratitzar l’accés a la funció pública i trencar amb l’ocultisme i el privilegi que encara envolten este àmbit. Este canvi de model ha de passar per potenciar la formació en itineraris vinculats al nou model productiu, que done done impuls a la investigació i la innovació en estos àmbits i done done suport a les empreses existents i les noves que operen en estos nous paràmetres.
-
+L’educació ha d’anar més enllà de les aules i connectar amb la societat i l’economia del futur. Cal dignificar i desestigmatitzar la Formació Professional, potenciant itineraris que responen al nou model productiu, vinculats a la innovació, la sostenibilitat i la digitalització, així com la creació d’acadèmies públiques d’oposicions, per democratitzar l’accés a la funció pública i trencar amb l’ocultisme i el privilegi que encara envolten este àmbit. 
 </amendable>
 
 
 <amendable id="1_3_6">
 
-Este canvi de model ha de passar per potenciar la formació en itineraris vinculats al nou model productiu, que done done impuls a la investigació i la innovació en estos àmbits i done done suport a les empreses existents i les noves que operen en estos nous paràmetres. La formació professional i universitària són claus, i per això la seua funció ha d’estar lligada a l’entorn i al desenvolupament social i econòmic. El seu paper ha d’estar garantit amb l’estabilitat, personal i recursos necessaris.
+Este canvi de model ha de passar per potenciar la formació en itineraris vinculats al nou model productiu, que done done impuls a la investigació i la innovació en estos àmbits i done suport a les empreses existents i les noves que operen en estos nous paràmetres. La formació professional i universitària són claus, i per això la seua funció ha d’estar lligada a l’entorn i al desenvolupament social i econòmic. El seu paper ha d’estar garantit amb l’estabilitat, personal i recursos necessaris.
 
 </amendable>
 
@@ -242,21 +240,21 @@ Durant els darrers anys, l'accés a l’habitatge s’ha convertit en una de les
 
 <amendable id="1_4_2">
 
-Reivindiquem que l'habitatge és un dret, i no un bé de mercat, perquè la llar proporciona l'espai i refugi que permet el correcte desenvolupament tant social com personal de l’individu, i és un dels béns bàsics que cal tindre coberts. La causa principal d’esta problemàtica no és altra que l’especulació amb la vivenda vivenda , és a dir, actualment la vivenda vivenda s’ha convertit en golós negoci d’uns pocs contra el benestar de la immensa majoria de la gent. Nosaltres considerem que no podem tindre una concepció de la vivenda vivenda com un bé de mercat amb el qual enriquir-se, sinó un dret universal que cal garantir.
+Reivindiquem que l'habitatge és un dret, i no un bé de mercat, perquè la llar proporciona l'espai i refugi que permet el correcte desenvolupament tant social com personal de l’individu, i és un dels béns bàsics que cal tindre coberts. La causa principal d’esta problemàtica no és altra que l’especulació amb la vivenda , és a dir, actualment la vivenda s’ha convertit en golós negoci d’uns pocs contra el benestar de la immensa majoria de la gent. Nosaltres considerem que no podem tindre una concepció de la vivenda com un bé de mercat amb el qual enriquir-se, sinó un dret universal que cal garantir.
 
 </amendable>
 
 
 <amendable id="1_4_3">
 
-Malauradament, el dret a l’habitatge ara mateix està molt lluny de ser una realitat, doncs, el mercat immobiliari, pagar el lloguer o adquirir una vivenda vivenda s’ha convertit en una ruïna, esdevenint un repte quasi impossible d’assolir.
+Malauradament, el dret a l’habitatge ara mateix està molt lluny de ser una realitat, doncs, el mercat immobiliari, pagar el lloguer o adquirir una vivenda s’ha convertit en una ruïna, esdevenint un repte quasi impossible d’assolir.
 
 </amendable>
 
 
 <amendable id="1_4_4">
 
-Per això, cal prendre partit des de les administracions públiques. Cal intervenir el mercat mitjançant la declaració de zones tensionades tensionades que regulen el preu i augmentar el parc públic d’habitatge, ja siga siga adquirint habitatges construïts, entre ells els que son propietat de la SAREB, o bé fent-ne de nous. Apostem perquè el 40% de les noves vivendes vivendes siga siga per a joves i que eixos joves tinguen tinguen de veritat ajudes al lloguer que funcionen, en funció de la renda i que arriben a tot el món que complisca complisca els requisits.
+Per això, cal prendre partit des de les administracions públiques. Cal intervenir el mercat mitjançant la declaració de zones tensionades que regulen el preu i augmentar el parc públic d’habitatge, ja siga adquirint habitatges construïts, entre ells els que son propietat de la SAREB, o bé fent-ne de nous. Apostem perquè el 40% de les noves vivendes siga per a joves i que eixos joves tinguen tinguen de veritat ajudes al lloguer que funcionen, en funció de la renda i que arriben a tot el món que complisca els requisits.
 
 </amendable>
 
@@ -270,21 +268,21 @@ També és fonamental abordar les problemàtiques que suposa la proliferació de
 
 <amendable id="1_4_6">
 
-En quant als grans tenidors o fons voltors que, majoritàriament, fan especulació amb la vivenda vivenda cal obligar-los a donar compte de les vivendes vivendes que tenen buides i forçar la seua eixida al mercat a un preu assequible i cal fer-ho mitjançant multes i recàrrecs a l’IBI. En este mateix sentit, també cal prohibir la venda especulativa, per això, considerem que cal prohibir-los comprar habitatge per a ús diferent al de residència habitual o lloguer assequible, així com limitar la compra de vivendes vivendes al estrangers no residents al nostre País.
+En quant als grans tenidors o fons voltors que, majoritàriament, fan especulació amb la  vivenda cal obligar-los a donar compte de les vivendes que tenen buides i forçar la seua eixida al mercat a un preu assequible i cal fer-ho mitjançant multes i recàrrecs a l’IBI. En este mateix sentit, també cal prohibir la venda especulativa, per això, considerem que cal prohibir-los comprar habitatge per a ús diferent al de residència habitual o lloguer assequible, així com limitar la compra de vivendes al estrangers no residents al nostre País.
 
 </amendable>
 
 
 <amendable id="1_4_7">
 
-Altra qüestió important respecte de l’habitatge, especialment als pobles i zones rurals, és a la rehabilitació de les vivendes vivendes , cal enllestir un Pla ambiciós que ho facilite facilite administrativa i econòmicament, contemplant la reducció de terminis i ajudes econòmiques que, alhora, ens ajude ajude també a lluitar contra el despoblament d’estes zones.
+Altra qüestió important respecte de l’habitatge, especialment als pobles i zones rurals, és a la rehabilitació de les vivendes , cal enllestir un Pla ambiciós que ho facilite administrativa i econòmicament, contemplant la reducció de terminis i ajudes econòmiques que, alhora, ens ajude també a lluitar contra el despoblament d’estes zones.
 
 </amendable>
 
 
 <amendable id="1_4_8">
 
-Finalment, cal tindre una política fiscal que lluite lluite contra el problema de l’habitatge, en eixe sentit, les actuacions han de ser bilaterals, d’un costat cal premiar amb bonificacions a les persones que lloguen a preus assequibles o aplicar tipus impositius reduïts per a la compra de la primera vivenda vivenda , però sobre tot, cal aplicar recàrrecs progressius i contundents a qui compre compre més vivendes vivendes i a qui tinga tinga la seua vivenda vivenda buida. D’esta manera incidirem en el comportament de propietaris i aconseguirem regular el mercat.
+Finalment, cal tindre una política fiscal que lluite contra el problema de l’habitatge, en eixe sentit, les actuacions han de ser bilaterals, d’un costat cal premiar amb bonificacions a les persones que lloguen a preus assequibles o aplicar tipus impositius reduïts per a la compra de la primera vivenda, però sobre tot, cal aplicar recàrrecs progressius i contundents a qui compre més vivendes i a qui tinga la seua vivenda buida. D’esta manera incidirem en el comportament de propietaris i aconseguirem regular el mercat.
 
 </amendable>
 
@@ -295,7 +293,7 @@ Finalment, cal tindre una política fiscal que lluite lluite contra el problema 
 
 <amendable id="1_5_1">
 
-Entenem que la **salut** és un dret individual i inalienable, que s'ha de garantir amb un sistema sanitari totalment públic i universal. Defensem una concepció de la salut que aborde aborde totes les seues dimensions, que amplie amplie el seu alcanç alcanç incloent-hi l’odontologia i l’oftalmologia, així com els costos dels tractaments i que entenga entenga la salut mental com a una part indispensable de l'atenció primària i l'accés lliure, gratuït i segur als recursos en salut mental des de la infància i la joventut.
+Entenem que la **salut** és un dret individual i inalienable, que s'ha de garantir amb un sistema sanitari totalment públic i universal. Defensem una concepció de la salut que aborde totes les seues dimensions, que amplie el seu alcanç incloent-hi l’odontologia i l’oftalmologia, així com els costos dels tractaments i que entenga la salut mental com a una part indispensable de l'atenció primària i l'accés lliure, gratuït i segur als recursos en salut mental des de la infància i la joventut.
 
 </amendable>
 
@@ -309,42 +307,42 @@ En este sentit, no hem de perdre de vista com les desigualtats estructurals afec
 
 <amendable id="1_5_3">
 
-Així mateix, no podem oblidar que existeixen questions questions tan bàsiques com la vista, la salut bucodental, la ginecologia o la fisioteràpia que, majoritàriament, no es cobreixen pel sistema públic de sanitat, per este motiu, l’atenció, les intervencions, els tractament han de ser accessibles per a tota la ciutadania de manera universal i no segons la seua capacitat economica economica .
+Així mateix, no podem oblidar que existeixen questions tan bàsiques com la vista, la salut bucodental, la ginecologia o la fisioteràpia que, majoritàriament, no es cobreixen pel sistema públic de sanitat, per este motiu, l’atenció, les intervencions, els tractament han de ser accessibles per a tota la ciutadania de manera universal i no segons la seua capacitat economica.
 
 </amendable>
 
 
 <amendable id="1_5_4">
 
-Les administracions públiques han de ser les encarregades de posar solució als problemes que la posen en perill i de formar la ciutadania per a la prevenció d’estos, però hem de fer valdre la resta de factors que hi influeixen. El model econòmic actual, en què destinem la major part del temps a activitats productives, i que empobreix a la classe treballadora, fa que un sector molt gran de la població no tinga tinga accés al desenvolupament de nous hàbits saludables. Per això, és imprescindible que canvie canvie este paradigma cap a unes condicions més compatibles amb la vida i la salut.
+Les administracions públiques han de ser les encarregades de posar solució als problemes que la posen en perill i de formar la ciutadania per a la prevenció d’estos, però hem de fer valdre la resta de factors que hi influeixen. El model econòmic actual, en què destinem la major part del temps a activitats productives, i que empobreix a la classe treballadora, fa que un sector molt gran de la població no tinga accés al desenvolupament de nous hàbits saludables. Per això, és imprescindible que canvie este paradigma cap a unes condicions més compatibles amb la vida i la salut.
 
 </amendable>
 
 
 <amendable id="1_5_5">
 
-Un dels objectius polítics indefugibles per a Joves PV ha de ser, més enllà de defensar els mínims coberts per la sanitat que tants anys va costar assolir, la universalització de tots els els els serveis sanitaris i la lluita contra la deriva privatitzadora privatitzadora més recent, que exclou qui menys té i garantir un sistema sanitari amb personal suficient i format
+Un dels objectius polítics indefugibles per a Joves PV ha de ser, més enllà de defensar els mínims coberts per la sanitat que tants anys va costar assolir, la universalització de tots els serveis sanitaris i la lluita contra la deriva privatitzadora més recent, que exclou qui menys té i garantir un sistema sanitari amb personal suficient i format.
 
 </amendable>
 
 
 <amendable id="1_5_6">
 
-Reivindiquem una **sanitat** d'accés universal per a totes les persones, en què els recursos de salut estiguen estiguen al seu abast, especialment en l'àmbit rural. Una sanitat amb perspectiva de gènere, que tinga tinga en compte els determinants de sexe en la salut, que assegure assegure els tractaments i abordaments diferenciats per a les dones, i que respecte la seua integritat com a pacients. Entre altres, hem d’acabar amb la violència obstètrica, i avançar cap al tracte humà de les dones en el moment de parir o en la situació de pèrdua inesperada de l’infant.
+Reivindiquem una **sanitat** d'accés universal per a totes les persones, en què els recursos de salut estiguen al seu abast, especialment en l'àmbit rural. Una sanitat amb perspectiva de gènere, que tinga en compte els determinants de sexe en la salut, que assegure els tractaments i abordaments diferenciats per a les dones, i que respecte la seua integritat com a pacients. Entre altres, hem d’acabar amb la violència obstètrica, i avançar cap al tracte humà de les dones en el moment de parir o en la situació de pèrdua inesperada de l’infant.
 
 </amendable>
 
 
 <amendable id="1_5_7">
 
-Busquem un model sanitari basat en la prevenció i no la medicalització, per exemple en epidèmies i malalties d'alta transmissió, com ara les ITS, i que garantisca garantisca l'accés igualitari a medicaments i vacunes de provada eficàcia.
+Busquem un model sanitari basat en la prevenció i no la medicalització, per exemple en epidèmies i malalties d'alta transmissió, com ara les ITS, i que garantisca l'accés igualitari a medicaments i vacunes de provada eficàcia.
 
 </amendable>
 
 
 <amendable id="1_5_8">
 
-Hem de garantir que el personal sanitari siga siga suficient per a cobrir les necessitats del sistema, evitant així jornades inassumibles inassumibles de 24-25 hores seguides sense descans i evitant així també la fuga de personal cap als hospitals o clíniques privades. També hem de vetllar per un estudi de convalidacions exhaustiu i la formació continuada per a garantir la formació necessària del personal en actiu.
+Hem de garantir que el personal sanitari siga suficient per a cobrir les necessitats del sistema, evitant així jornades inassumibles de 24-25 hores seguides sense descans i evitant així també la fuga de personal cap als hospitals o clíniques privades. També hem de vetllar per un estudi de convalidacions exhaustiu i la formació continuada per a garantir la formació necessària del personal en actiu.
 
 </amendable>
 
@@ -369,14 +367,14 @@ La salut és un dret que no s'ha de poder mercantilitzar.
 
 <amendable id="1_6_1">
 
-Necessitem uns **serveis socials** forts i públics per a acompanyar les persones quan ho necessiten, per a reduir les desigualtats, especialment en aquells sectors poblacionals més vulnerables. Un sistema amb una funció promotora, preventiva, protectora i d'acompanyament davant les necessitats socials originades per situacions d'urgència social, vulnerabilitat, desprotecció desprotecció o dependència; amb professionals estables amb salaris i condicions dignes, i amb un enfocament multidisciplinari per a atendre les diverses necessitats que tenen les persones que requereixen el seu suport al llarg de la seua vida. Uns serveis socials que, en definitiva, lluiten contra les desigualtats estructurals que genera el sistema actual.
+Necessitem uns **serveis socials** forts i públics per a acompanyar les persones quan ho necessiten, per a reduir les desigualtats, especialment en aquells sectors poblacionals més vulnerables. Un sistema amb una funció promotora, preventiva, protectora i d'acompanyament davant les necessitats socials originades per situacions d'urgència social, vulnerabilitat, desprotecció o dependència; amb professionals estables amb salaris i condicions dignes, i amb un enfocament multidisciplinari per a atendre les diverses necessitats que tenen les persones que requereixen el seu suport al llarg de la seua vida. Uns serveis socials que, en definitiva, lluiten contra les desigualtats estructurals que genera el sistema actual.
 
 </amendable>
 
 
 <amendable id="1_6_2">
 
-Creiem en el blindatge dels serveis socials com a dret subjectiu i la seua declaració com a servei públic essencial i d’interés d’interés general, perquè se’n deriven prestacions indispensables per a satisfer les necessitats bàsiques personals i millorar les condicions de la qualitat de vida de la ciutadania. Els serveis socials han de quedar totalment blindats com a dret subjectiu i com a servei públic essencial i això implica que cap govern puga puga retallar-los, desmantelar-los desmantelar-los o interferir políticament en el seu funcionament. Han de ser una estructura d’Estat, garantida per llei, al servei de la ciutadania i no sotmesa als canvis de color polític o a interessos partidistes. Per això s’ha de consolidar la universalitat del Sistema Públic Valencià de Serveis Socials, i garantir-hi l’accés de tota la població en condicions d’igualtat, equitat i justícia.
+Creiem en el blindatge dels serveis socials com a dret subjectiu i la seua declaració com a servei públic essencial i d’interés general, perquè se’n deriven prestacions indispensables per a satisfer les necessitats bàsiques personals i millorar les condicions de la qualitat de vida de la ciutadania. Els serveis socials han de quedar totalment blindats com a dret subjectiu i com a servei públic essencial i això implica que cap govern puga puga retallar-los, desmantelar-los o interferir políticament en el seu funcionament. Han de ser una estructura d’Estat, garantida per llei, al servei de la ciutadania i no sotmesa als canvis de color polític o a interessos partidistes. Per això s’ha de consolidar la universalitat del Sistema Públic Valencià de Serveis Socials, i garantir-hi l’accés de tota la població en condicions d’igualtat, equitat i justícia.
 
 </amendable>
 
@@ -390,7 +388,7 @@ Defensem una atenció centrada en la persona i actuacions amb una perspectiva co
 
 <amendable id="1_6_4">
 
-El capitalisme sempre ha invisibilitzat invisibilitzat el treball de cures i ha relegat a les dones a tasques de l’esfera reproductiva. Apostem per l’articulació d’un **sistema públic de cures** dotant-lo d'un marc normatiu d'igualtat formal i de mesures estructurals que acaben amb la divisió sexual del treball, la precarització precarització i la invisibilització invisibilització d'un treball fonamental per a la nostra supervivència. En este sentit, hem de posar de manifest l’obligació que tenim com a societat d’acompanyar a les persones que ho necessiten i la importància d’instaurar la corresponsabilitat en les cures.
+El capitalisme sempre ha invisibilitzat el treball de cures i ha relegat a les dones a tasques de l’esfera reproductiva. Apostem per l’articulació d’un **sistema públic de cures** dotant-lo d'un marc normatiu d'igualtat formal i de mesures estructurals que acaben amb la divisió sexual del treball, la precarització i la invisibilització d'un treball fonamental per a la nostra supervivència. En este sentit, hem de posar de manifest l’obligació que tenim com a societat d’acompanyar a les persones que ho necessiten i la importància d’instaurar la corresponsabilitat en les cures.
 
 </amendable>
 
@@ -422,21 +420,21 @@ D’una banda, hem de tindre clar que bona part de la ciutadania desconeix els m
 
 <amendable id="1_7_3">
 
-Sabem que la vida pública i col·lectiva ha de ser possible per a totes les persones. Volem una societat profundament democràtica, en què totes les persones, amb els seus drets garantits, puguen puguen participar de la vida social amb els temps i recursos necessaris.
+Sabem que la vida pública i col·lectiva ha de ser possible per a totes les persones. Volem una societat profundament democràtica, en què totes les persones, amb els seus drets garantits, puguen participar de la vida social amb els temps i recursos necessaris.
 
 </amendable>
 
 
 <amendable id="1_7_4">
 
-Per això, apostem per una educació en la participació des de la infància i al llarg de tot el procés vital, i la garantia d'espais i recursos públics per a poder generar xarxes col·lectives, amb mecanismes que asseguren la intergeneracionalitat intergeneracionalitat i la igualtat en la vida social i col·lectiva. Cal eliminar qualsevol tipus de barrera que puga puga afectar a les persones amb discapacitat i que el context s’adapte s’adapte a les persones i no les persones al context. A més, defensem una visió de la participació que supere supere l'associacionisme clàssic i que genere genere estructures estables i fortes.
+Per això, apostem per una educació en la participació des de la infància i al llarg de tot el procés vital, i la garantia d'espais i recursos públics per a poder generar xarxes col·lectives, amb mecanismes que asseguren la intergeneracionalitat i la igualtat en la vida social i col·lectiva. Cal eliminar qualsevol tipus de barrera que puga afectar a les persones amb discapacitat i que el context s’adapte a les persones i no les persones al context. A més, defensem una visió de la participació que supere l'associacionisme clàssic i que genere estructures estables i fortes.
 
 </amendable>
 
 
 <amendable id="1_7_5">
 
-La societat hem d'establir un diàleg amb el qual conèixer les seues necessitats específiques, que incloga incloga a perspectiva jove, superant així les visions adulcentristes adulcentristes presents encara a molts espais associatius.
+La societat hem d'establir un diàleg amb el qual conèixer les seues necessitats específiques, que incloga a perspectiva jove, superant així les visions adulcentristes presents encara a molts espais associatius.
 
 </amendable>
 
@@ -464,7 +462,7 @@ L’objectiu polític del nacionalisme valencià (o el valencianisme polític) �
 
 <amendable id="2_1_2">
 
-La identitat valenciana contemporània es construeix pel sentit comú de pertànyer a un mateix País, de compartir una llengua i una cultura comunes, i el nacionalisme valencià n’és l’expressió política. Volem ser sobirans i sobiranes, i treballarem sense descans per aconseguir tenir cada volta més i més instruments polítics, econòmics, jurídics i socials que ens permeten autogovernar-nos autogovernar-nos i alliberar-nos de la subjugació que patim en el curt i en el mitjà termini i, per descomptat, en el llarg termini. No hi haurà futur per a nosaltres sense un Estat valencià.
+La identitat valenciana contemporània es construeix pel sentit comú de pertànyer a un mateix País, de compartir una llengua i una cultura comunes, i el nacionalisme valencià n’és l’expressió política. Volem ser sobirans i sobiranes, i treballarem sense descans per aconseguir tenir cada volta més i més instruments polítics, econòmics, jurídics i socials que ens permeten autogovernar-nos i alliberar-nos de la subjugació que patim en el curt i en el mitjà termini i, per descomptat, en el llarg termini. No hi haurà futur per a nosaltres sense un Estat valencià.
 
 </amendable>
 
@@ -510,14 +508,14 @@ Les institucions valencianes pateixen una crisi institucional greu, fomentada pe
 
 <amendable id="2_2_2">
 
-Les Corts Valencianes s’han emprat de forma absolutament partidista i han legislat en contra dels drets de molts i moltes i a favor dels interessos d’unes poques persones. La dreta i l’extrema dreta han portat l’antipolítica a les institucions, amb l’objectiu concret de deteriorar-les per augmentar un discurs que els beneficia electoralment alhora que ens perjudica socialment. La falta de transparència en estes institucions, rapinyades per les dretes, i el buidat de competències i continguts d’entitats com l’Agència Antifrau contribueixen al descrèdit públic de la institucionalitat institucionalitat .
+Les Corts Valencianes s’han emprat de forma absolutament partidista i han legislat en contra dels drets de molts i moltes i a favor dels interessos d’unes poques persones. La dreta i l’extrema dreta han portat l’antipolítica a les institucions, amb l’objectiu concret de deteriorar-les per augmentar un discurs que els beneficia electoralment alhora que ens perjudica socialment. La falta de transparència en estes institucions, rapinyades per les dretes, i el buidat de competències i continguts d’entitats com l’Agència Antifrau contribueixen al descrèdit públic de la institucionalitat.
 
 </amendable>
 
 
 <amendable id="2_2_3">
 
-Enfront de la seua antipolítica i la seua degradació programada, el refermament refermament de les nostres institucions pròpies i la seua defensa, l’assenyalament de les seues maniobres antipolítiques i la nostra acció política allà on tenim representació. La defensa i posada en valor de les institucions valencianes ha de vindre de la mà d’una pedagogia que vaja en este sentit; és la nostra responsabilitat fer entendre als nostres veïns i veïnes la importància que tenen.
+Enfront de la seua antipolítica i la seua degradació programada, el refermamentde les nostres institucions pròpies i la seua defensa, l’assenyalament de les seues maniobres antipolítiques i la nostra acció política allà on tenim representació. La defensa i posada en valor de les institucions valencianes ha de vindre de la mà d’una pedagogia que vaja en este sentit; és la nostra responsabilitat fer entendre als nostres veïns i veïnes la importància que tenen.
 
 </amendable>
 
@@ -531,7 +529,7 @@ Ens cal, emperò, una reforma de les institucions territorials. Ens cal donar un
 
 <amendable id="2_2_5">
 
-Igualment, és necessari mentre siguem administrativament una autonomia, la recuperació del dret civil valencià i el foralisme, que son les formes legislatives que, de consuetud, hem tinguts els valencians i valencianes fins que vam ser assimilats administrativament a Castella. En este sentit hi ha acció concretes clares, com la derogació expressa i manifesta dels Decrets de Nova Planta i una reforma constitucional que garantisca garantisca l’aplicabilitat legal del dret civil valencià.
+Igualment, és necessari mentre siguem administrativament una autonomia, la recuperació del dret civil valencià i el foralisme, que son les formes legislatives que, de consuetud, hem tinguts els valencians i valencianes fins que vam ser assimilats administrativament a Castella. En este sentit hi ha acció concretes clares, com la derogació expressa i manifesta dels Decrets de Nova Planta i una reforma constitucional que garantisca l’aplicabilitat legal del dret civil valencià.
 
 </amendable>
 
@@ -563,7 +561,7 @@ La cultura valenciana, en tota la seua diversitat, ha estat durant dècades obje
 
 <amendable id="2_3_3">
 
-Per això defensem una cultura popular forta que fomente fomente el pensament lliure, la reflexió crítica i la capacitat d’organitzar-se. La cultura és un dret, i com a tal ha de ser accessible per a totes les persones independentment de la seua renda, del lloc on viuen o de la seua condició social. Rebutgem les retallades culturals i defensem una promoció pública, decidida i valenta de les nostres expressions culturals, així com una especial protecció de la cultura immaterial que ens defineix com a poble: les festes, la música, les tradicions i les nostres formes de relació comunitària també formen part del nostre patrimoni.
+Per això defensem una cultura popular forta que fomente el pensament lliure, la reflexió crítica i la capacitat d’organitzar-se. La cultura és un dret, i com a tal ha de ser accessible per a totes les persones independentment de la seua renda, del lloc on viuen o de la seua condició social. Rebutgem les retallades culturals i defensem una promoció pública, decidida i valenta de les nostres expressions culturals, així com una especial protecció de la cultura immaterial que ens defineix com a poble: les festes, la música, les tradicions i les nostres formes de relació comunitària també formen part del nostre patrimoni.
 
 </amendable>
 
@@ -577,7 +575,7 @@ Esta cultura viva incorpora, òbviament, els nostres actors i actrius, les bande
 
 <amendable id="2_3_5">
 
-La cultura també ha de saber adaptar-se a les noves realitats socials i a les necessitats de les generacions que venim. Necessitem una cultura amb perspectiva de gènere, que siga siga ecològicament responsable, respectuosa amb els animals i plenament accessible. Reivindiquem alternatives d’oci que siguen siguen saludables, creatives i comunitàries, que dignifiquen el temps lliure de la joventut i que trenquen amb els models de consum que imposa el capitalisme. Defensem un País Valencià antitaurí antitaurí , on el maltractament animal no tinga tinga cabuda com a forma de diversió o com a element identitari identitari . I igualment, considerem l’esport com un element essencial de la nostra cultura contemporània: una eina de salut, cohesió i transmissió de valors col·lectius.
+La cultura també ha de saber adaptar-se a les noves realitats socials i a les necessitats de les generacions que venim. Necessitem una cultura amb perspectiva de gènere, que siga siga ecològicament responsable, respectuosa amb els animals i plenament accessible. Reivindiquem alternatives d’oci que siguen saludables, creatives i comunitàries, que dignifiquen el temps lliure de la joventut i que trenquen amb els models de consum que imposa el capitalisme. Defensem un País Valencià antitaurí , on el maltractament animal no tinga cabuda com a forma de diversió o com a element identitari. I igualment, considerem l’esport com un element essencial de la nostra cultura contemporània: una eina de salut, cohesió i transmissió de valors col·lectius.
 
 </amendable>
 
@@ -591,7 +589,7 @@ La cultura valenciana no és només un patrimoni a preservar; és l’eix verteb
 
 <amendable id="2_3_7">
 
-La cultura és, en definitiva, una trinxera de llibertat i un espai de futur. Per això la defensarem amb tota la nostra força: perquè un poble que cuida, estima i defensa la seua cultura és un poble nacionalment conscient, que s’empodera s’empodera i que es prepara per ser lliure.
+La cultura és, en definitiva, una trinxera de llibertat i un espai de futur. Per això la defensarem amb tota la nostra força: perquè un poble que cuida, estima i defensa la seua cultura és un poble nacionalment conscient, que s’empodera i que es prepara per ser lliure.
 
 </amendable>
 
@@ -609,7 +607,7 @@ La llengua és un dels fonaments del projecte nacional valencià i l’eina que 
 
 <amendable id="2_4_2">
 
-Assumim sense ambigüitats la unitat lingüística de la llengua catalana, que al nostre territori rep el nom històric i legítim de valencià. Esta és una realitat científica i cultural que ha sigut constantment manipulada per l’espanyolisme i els governs del PP al País Valencià amb la voluntat d’accelerar processos de substitució lingüística i de debilitament identitari identitari . El País Valencià pateix encara una clara desprotecció desprotecció institucional envers la seua llengua pròpia, situació que ha estat agreujada per iniciatives recents com la consulta lingüística, un instrument dissenyat per confrontar la societat i minar la legitimitat del valencià.
+Assumim sense ambigüitats la unitat lingüística de la llengua catalana, que al nostre territori rep el nom històric i legítim de valencià. Esta és una realitat científica i cultural que ha sigut constantment manipulada per l’espanyolisme i els governs del PP al País Valencià amb la voluntat d’accelerar processos de substitució lingüística i de debilitament identitari. El País Valencià pateix encara una clara desprotecció institucional envers la seua llengua pròpia, situació que ha estat agreujada per iniciatives recents com la consulta lingüística, un instrument dissenyat per confrontar la societat i minar la legitimitat del valencià.
 
 </amendable>
 
@@ -648,7 +646,7 @@ La identitat valenciana és el marc des del qual construïm comunitat i explique
 
 <amendable id="2_5_2">
 
-Els trets identitaris identitaris del País Valencià —la nostra història, els nostres costums, la manera de relacionar-nos i les formes pròpies d’entendre el món— han estat contínuament menystinguts o invisibilitzats invisibilitzats per les dinàmiques d’imposició estatal que busquen diluir-nos en un marc cultural uniformitzador uniformitzador . La identitat valenciana, però, no es construeix des de la resistència exclusiva, sinó des de la capacitat de generar vincles, autoestima col·lectiva i sentit de pertinença.
+Els trets identitaris del País Valencià —la nostra història, els nostres costums, la manera de relacionar-nos i les formes pròpies d’entendre el món— han estat contínuament menystinguts o invisibilitzats per les dinàmiques d’imposició estatal que busquen diluir-nos en un marc cultural uniformitzador. La identitat valenciana, però, no es construeix des de la resistència exclusiva, sinó des de la capacitat de generar vincles, autoestima col·lectiva i sentit de pertinença.
 
 </amendable>
 
@@ -687,7 +685,7 @@ El projecte nacional valencià necessita una ordenació territorial pròpia, coh
 
 <amendable id="2_6_2">
 
-Reivindiquem un model de comarques com a estructura territorial bàsica, que responga responga a realitats socials, econòmiques i culturals reals. Les comarques permeten una administració més pròxima, participativa i adaptada a les necessitats quotidianes de la població. Les mancomunitats, en este sentit, són l’eina immediata per avançar cap a un sistema comarcal complet i funcional, i cal reforçar-les com a espais de cooperació i governança governança intermunicipal intermunicipal .
+Reivindiquem un model de comarques com a estructura territorial bàsica, que responga a realitats socials, econòmiques i culturals reals. Les comarques permeten una administració més pròxima, participativa i adaptada a les necessitats quotidianes de la població. Les mancomunitats, en este sentit, són l’eina immediata per avançar cap a un sistema comarcal complet i funcional, i cal reforçar-les com a espais de cooperació i governança intermunicipal .
 
 </amendable>
 
@@ -701,7 +699,7 @@ El municipalisme és un pilar imprescindible de la nostra construcció nacional 
 
 <amendable id="2_6_4">
 
-La lluita contra el despoblament és una qüestió estratègica per a garantir que cap part del País quede quede exclosa del desenvolupament. Les zones rurals han de disposar d’infraestructures adequades, serveis públics de qualitat i oportunitats econòmiques que hi revertisquen revertisquen la despoblació i hi asseguren la vitalitat.
+La lluita contra el despoblament és una qüestió estratègica per a garantir que cap part del País quede quede exclosa del desenvolupament. Les zones rurals han de disposar d’infraestructures adequades, serveis públics de qualitat i oportunitats econòmiques que hi revertisquen la despoblació i hi asseguren la vitalitat.
 
 </amendable>
 
@@ -782,7 +780,7 @@ Defensem la **interseccionalitat** per tal de tindre en compte les desigualtats,
 
 <amendable id="3_1_6">
 
-Este sistema cisheteropatriarcal i masclista normalitza, legitima i invisibilitza desigualtats, discriminacions i violències cap a les dones, i utilitza mecanismes d'opressió per justificar estos tractaments i situacions. Una de les conseqüències més evidents del masclisme és la quantitat de dones assassinades cada any, des de 2003 fins el 30 de juny de 2025 s’han comés 1315 feminicidis feminicidis a l’estat Espanyol. A estes víctimes hem de sumar les morts de menors per violència vicària, així com menors víctimes que perden a les seues mares, i totes les dones que no consten en cap registre perquè no es reconeixen els seus assassinats com a violència de gènere.
+Este sistema cisheteropatriarcal i masclista normalitza, legitima i invisibilitza desigualtats, discriminacions i violències cap a les dones, i utilitza mecanismes d'opressió per justificar estos tractaments i situacions. Una de les conseqüències més evidents del masclisme és la quantitat de dones assassinades cada any, des de 2003 fins el 30 de juny de 2025 s’han comés 1315 feminicidis a l’estat Espanyol. A estes víctimes hem de sumar les morts de menors per violència vicària, així com menors víctimes que perden a les seues mares, i totes les dones que no consten en cap registre perquè no es reconeixen els seus assassinats com a violència de gènere.
 
 </amendable>
 
@@ -796,7 +794,7 @@ Però els assassinats són, només, una de les múltiples formes de violència p
 
 <amendable id="3_1_8">
 
-A més, rebutgem i condemnem qualsevol pràctica que mercantilitze mercantilitze , cosifique cosifique o faça faça de les dones una idea d'objecte, com la pornografia, els ventres de lloguer o la prostitució. Estes pràctiques aprofiten la situació econòmica per a satisfer els desitjos patriarcals i les dinàmiques capitalistes, sota condicions laborals d'explotació, que suposen una privació del dret a decidir sobre el seu cos a les dones. Per això, ens declarem abolicionistes de la prostitució, però no només des d’un punt de vista punitiu, sinó un abolicionisme que combata combata les estructures; done done suport a les dones en situació de prostitució amb recursos i alternatives reals d’eixida; i deslegitime deslegitime el consum d’esta.
+A més, rebutgem i condemnem qualsevol pràctica que mercantilitze , cosifique o faça  de les dones una idea d'objecte, com la pornografia, els ventres de lloguer o la prostitució. Estes pràctiques aprofiten la situació econòmica per a satisfer els desitjos patriarcals i les dinàmiques capitalistes, sota condicions laborals d'explotació, que suposen una privació del dret a decidir sobre el seu cos a les dones. Per això, ens declarem abolicionistes de la prostitució, però no només des d’un punt de vista punitiu, sinó un abolicionisme que combata combata les estructures; done done suport a les dones en situació de prostitució amb recursos i alternatives reals d’eixida; i deslegitime el consum d’esta.
 
 </amendable>
 
@@ -831,7 +829,7 @@ Des de Joves PV ens posicionem en contra de qualsevol estructura cisheteropatria
 
 <amendable id="3_1_13">
 
-Estes tres tasques han estat, històricament, associades a les dones, que han hagut de fer-se’n càrrec, bé mentre treballaven fora de casa, bé sense tindre la possibilitat de fer-ho. Açò ha provocat desigualtats estructurals amb una sobrecàrrega per a les dones i l’augment de la dependència i les violències que pateixen. Després de l’entrada al món laboral de les dones, estes tasques han sigut assumides principalment per dones migrants migrants , que han de poder tindre unes condicions laborals dignes, i contractes de treball regularitzats. A fi de fer valdre les cures, s’ha de comptabilitzar la riquesa produïda per les tasques sense remuneració i el treball invisible, treballar per dignificar-les i garantir que les persones que les duen a terme no estiguen estiguen precaritzades precaritzades , així com la professionalització de les cures.
+Estes tres tasques han estat, històricament, associades a les dones, que han hagut de fer-se’n càrrec, bé mentre treballaven fora de casa, bé sense tindre la possibilitat de fer-ho. Açò ha provocat desigualtats estructurals amb una sobrecàrrega per a les dones i l’augment de la dependència i les violències que pateixen. Després de l’entrada al món laboral de les dones, estes tasques han sigut assumides principalment per dones migrants, que han de poder tindre unes condicions laborals dignes, i contractes de treball regularitzats. A fi de fer valdre les cures, s’ha de comptabilitzar la riquesa produïda per les tasques sense remuneració i el treball invisible, treballar per dignificar-les i garantir que les persones que les duen a terme no estiguen estiguen precaritzades , així com la professionalització de les cures.
 
 </amendable>
 
@@ -842,21 +840,21 @@ Estes tres tasques han estat, històricament, associades a les dones, que han ha
 
 <amendable id="3_2_1">
 
-Al llarg de la història, les persones LGTBIQ+ han sigut un col·lectiu oprimit, discriminat, maltractat i invisibilitzat invisibilitzat . La lluita dels seus drets ha sigut clau en la búsqueda búsqueda de la igualtat real, però a causa de l’auge de l’extrema dreta i dels discursos d’odi els drets assolits s’estan vegent vegent amenaçats, tant en les institucions com al carrer.
+Al llarg de la història, les persones LGTBIQ+ han sigut un col·lectiu oprimit, discriminat, maltractat i invisibilitzat . La lluita dels seus drets ha sigut clau en la búsqueda búsqueda de la igualtat real, però a causa de l’auge de l’extrema dreta i dels discursos d’odi els drets assolits s’estan vegent amenaçats, tant en les institucions com al carrer.
 
 </amendable>
 
 
 <amendable id="3_2_2">
 
-L'opressió per identitat de gènere o orientació sexual són conseqüència d'uns rols de gènere preestablerts que condemnen a desigualtats a totes aquelles persones que no s'identifiquen amb la cisheteronorma, siguent també objecte d'una violència sistemàtica i sistèmica. Encara en els nostres dies, les persones LGTBIQ+ pateixen discriminacions en l’àmbit professional i personal, en l’esfera pública i en l’accés a drets necessaris per a la vida. Tot això és la base sobre la qual s’alcen les violències verbals i físiques, des de les més invisibles a les més explícites. Rebutgem qualsevol tipus de discriminació i violència contra les persones LGTBQI+, treballem per una educació en valors que trenque trenque amb els rols de gènere; i lluitem per previndre previndre i erradicar els delictes d’odi impulsats pels discursos de l’extrema dreta. Treballem també perquè les teràpies de conversió, una altra forma de violència i discriminació, reconeguda com a tortura, siguen siguen tipificades com a delicte en el Codi Penal.
+L'opressió per identitat de gènere o orientació sexual són conseqüència d'uns rols de gènere preestablerts que condemnen a desigualtats a totes aquelles persones que no s'identifiquen amb la cisheteronorma, siguent també objecte d'una violència sistemàtica i sistèmica. Encara en els nostres dies, les persones LGTBIQ+ pateixen discriminacions en l’àmbit professional i personal, en l’esfera pública i en l’accés a drets necessaris per a la vida. Tot això és la base sobre la qual s’alcen les violències verbals i físiques, des de les més invisibles a les més explícites. Rebutgem qualsevol tipus de discriminació i violència contra les persones LGTBQI+, treballem per una educació en valors que trenque amb els rols de gènere; i lluitem per previndre i erradicar els delictes d’odi impulsats pels discursos de l’extrema dreta. Treballem també perquè les teràpies de conversió, una altra forma de violència i discriminació, reconeguda com a tortura, siguen siguen tipificades com a delicte en el Codi Penal.
 
 </amendable>
 
 
 <amendable id="3_2_3">
 
-Històricament, la concepció de família ha girat al voltant del matrimoni entre homes i dones amb descendència, i això ha invisibilitzat invisibilitzat sistemàticament a la resta de famílies, tant les monoparentals i les homoparentals, com les formades per altres persones que no són, necessàriament, un pare i una mare. Per això, apostem pel reconeixement de la **diversitat familiar** en tots els àmbits, per tal que es puga puga garantir la igualtat real d’altres models familiars. Per a fer-ho, necessitem de l'Administració Pública, amb mesures concretes que garantisquen garantisquen les mateixes oportunitats per a totes les famílies, també en matèria de gestió del temps per a les cures, i en l’àmbit de la reproducció. En este sentit, defensem un sistema d’adopció que pose pose en el centre el benestar de la infància i que, a més, incloga incloga totalment totes les famílies; i l’assoliment per part de la sanitat pública de les pràctiques reproductives, per a allunyar-les de la mercantilització econòmica.
+Històricament, la concepció de família ha girat al voltant del matrimoni entre homes i dones amb descendència, i això ha invisibilitzat sistemàticament a la resta de famílies, tant les monoparentals i les homoparentals, com les formades per altres persones que no són, necessàriament, un pare i una mare. Per això, apostem pel reconeixement de la **diversitat familiar** en tots els àmbits, per tal que es puga garantir la igualtat real d’altres models familiars. Per a fer-ho, necessitem de l'Administració Pública, amb mesures concretes que garantisquen les mateixes oportunitats per a totes les famílies, també en matèria de gestió del temps per a les cures, i en l’àmbit de la reproducció. En este sentit, defensem un sistema d’adopció que pose en el centre el benestar de la infància i que, a més, incloga totalment totes les famílies; i l’assoliment per part de la sanitat pública de les pràctiques reproductives, per a allunyar-les de la mercantilització econòmica.
 
 </amendable>
 
@@ -870,7 +868,7 @@ Les persones amb identitats i expressions de gènere dissidents són, del col·l
 
 <amendable id="3_2_5">
 
-Així mateix, treballem per impedir i revertir les retallades dels drets de la Llei Integral del Reconeixement del Dret a la Identitat i a l’Expressió de Gènere aprovada per Compromís al País Valencià. Una llei, amenaçada per la dreta i l’extrema dreta, que ens permet visibilitzar des de les institucions, les diverses **identitats, expressions de gènere** i les **orientacions sexuals** , perquè la societat conega la diversitat existent i la normalitze normalitze . També lluitem perquè la Llei Trans Estatal aborde aborde els drets de les persones no binàries.
+Així mateix, treballem per impedir i revertir les retallades dels drets de la Llei Integral del Reconeixement del Dret a la Identitat i a l’Expressió de Gènere aprovada per Compromís al País Valencià. Una llei, amenaçada per la dreta i l’extrema dreta, que ens permet visibilitzar des de les institucions, les diverses **identitats, expressions de gènere** i les **orientacions sexuals** , perquè la societat conega la diversitat existent i la normalitze. També lluitem perquè la Llei Trans Estatal aborde els drets de les persones no binàries.
 
 </amendable>
 
@@ -891,7 +889,7 @@ Joves PV es defineix i actua com una organització juvenil antifeixista. Entenem
 
 <amendable id="4_1_1">
 
-L'antifeixisme es converteix en l'eix vertebrador de qualsevol organització democràtica com és la nostra. És per això que ha d'estar present en la nostra quotidianitat, més encara ara que l'extrema dreta creix i vol dominar les institucions. En un moment en el qual l’extrema dreta guanya terreny en Europa, l’Estat espanyol i fins i tot, al nostre País, hem de vetllar per combatre el seu discurs reaccionari hem de vetllar per combatre el seu discurs reaccionari. Combatre’l des dels carrers i les institucions, per evitar que es legitimen i normalitzen aquelles conductes i agressions contra tot allò que som i representem. L’extrema dreta és contrària a la diversitat, el respecte, les cures, els Drets Humans… per això ens refermem en la nostra condició d'antifeixistes basant-nos en la sobirania de les persones per a pensar, opinar i actuar sense pors ni coaccions.
+L'antifeixisme es converteix en l'eix vertebrador de qualsevol organització democràtica com és la nostra. És per això que ha d'estar present en la nostra quotidianitat, més encara ara que l'extrema dreta creix i vol dominar les institucions. En un moment en el qual l’extrema dreta guanya terreny en Europa, l’Estat espanyol i fins i tot, al nostre País, hem de vetllar per combatre el seu discurs reaccionari. Combatre’l des dels carrers i les institucions, per evitar que es legitimen i normalitzen aquelles conductes i agressions contra tot allò que som i representem. L’extrema dreta és contrària a la diversitat, el respecte, les cures, els Drets Humans… per això ens refermem en la nostra condició d'antifeixistes basant-nos en la sobirania de les persones per a pensar, opinar i actuar sense pors ni coaccions.
 
 </amendable>
 
@@ -905,18 +903,18 @@ En l’actualitat, existeix un blanquejament i certa idealització del que va se
 
 <amendable id="4_1_3">
 
-Ara més que mai s’ha de fer front a l’extrema dreta, perquè ja hem vist que la seua presència institucional ens costa la vida, els drets i la supervivència. Joves PV farà front als atacs contra partits d’esquerra, a la negació de la violència estructural cap a les dones, entitats del tercer sector, persones migrants migrants i col·lectiu LGTBIQ+. Actualment, estos són els grups pels que lluitem i que defensem, per la qual cosa, lluitar contra els discursos de por i estigmatització emesos i reforçats per l’extrema dreta serà clau. Defensem els drets de les persones per tal de fer fora la por del carrer i de les institucions; ens organitzem per frenar i vèncer l’augment de discursos reaccionaris i de l’extrema dreta.
+Ara més que mai s’ha de fer front a l’extrema dreta, perquè ja hem vist que la seua presència institucional ens costa la vida, els drets i la supervivència. Joves PV farà front als atacs contra partits d’esquerra, a la negació de la violència estructural cap a les dones, entitats del tercer sector, persones migrants i col·lectiu LGTBIQ+. Actualment, estos són els grups pels que lluitem i que defensem, per la qual cosa, lluitar contra els discursos de por i estigmatització emesos i reforçats per l’extrema dreta serà clau. Defensem els drets de les persones per tal de fer fora la por del carrer i de les institucions; ens organitzem per frenar i vèncer l’augment de discursos reaccionaris i de l’extrema dreta.
 
 </amendable>
 
 </amendable-section>
 
 
-<amendable-section id="4_2" title="**4.2 Combatem els discursos d’odi.** 4.2 Combatem els discursos d’odi.">
+<amendable-section id="4_2" title=" 4.2 Combatem els discursos d’odi.">
 
 <amendable id="4_2_1">
 
-Davant l’augment dels discursos antimigratoris antimigratoris , masclistes i homòfobs que afecten a tota la societat, especialment als joves, és tasca de la nostra organització fer front als mateixos.
+Davant l’augment dels discursos antimigratoris , masclistes i homòfobs que afecten a tota la societat, especialment als joves, és tasca de la nostra organització fer front als mateixos.
 
 </amendable>
 
@@ -976,7 +974,7 @@ La inacció europea davant el genocidi palestí i la crisi migratòria mostra un
 
 <amendable id="4_3_5">
 
-Volem una Europa més verda, democràtica, feminista i social; una Europa dels pobles i no dels mercats, que defense defense la justícia social, la sobirania popular i l’autodeterminació. Una Europa compromesa amb la pau i solidària amb tots els pobles i nacions del món, especialment amb aquells que encara no tenen estat, enfortint les relacions amb les forces sobiranistes i d’esquerres d’Europa i la Mediterrània.
+Volem una Europa més verda, democràtica, feminista i social; una Europa dels pobles i no dels mercats, que defense la justícia social, la sobirania popular i l’autodeterminació. Una Europa compromesa amb la pau i solidària amb tots els pobles i nacions del món, especialment amb aquells que encara no tenen estat, enfortint les relacions amb les forces sobiranistes i d’esquerres d’Europa i la Mediterrània.
 
 </amendable>
 
@@ -997,7 +995,7 @@ Volem construir una resposta antifeixista des de la base, fomentant una societat
 
 <amendable id="4_3_8">
 
-La crisi migratòria és el resultat d’un sistema global injust que obliga milers de persones a desplaçar-se mentre se les criminalitza. La demoscòpia reflecteix tensions, però també un ampli suport a polítiques d’acollida, i per això cal reforçar un relat propi i solidari que destaque destaque les aportacions de les persones migrants.
+La crisi migratòria és el resultat d’un sistema global injust que obliga milers de persones a desplaçar-se mentre se les criminalitza. La demoscòpia reflecteix tensions, però també un ampli suport a polítiques d’acollida, i per això cal reforçar un relat propi i solidari que destaque les aportacions de les persones migrants.
 
 </amendable>
 
@@ -1018,14 +1016,14 @@ Des del País Valencià hem d’instar l’Estat espanyol a desmarcar-se dels di
 
 <amendable id="4_3_11" title="c) Cooperació">
 
-En definitiva, cal fer una aposta decidida per un model de **cooperació** . Des d'allò micro  a allò macro, construint una societat crítica i activa que lluite contra les desigualtats socioeconòmiques existents al món. Sense oblidar els anys on la cooperació va acabar sent el nom d'una causa judicial perquè es destinaven a la corrupció política els diners que havien d'anar a sufragar projectes d'ajuda a les persones més vulnerables. Per això cal centrar els esforços a fer que la política de Cooperació pose pose en el punt de mira dels projectes especialment a les persones dels països receptors d'ajudes. A més a més, centrant-se en el compliment dels **ODS** a tots els països del món, perquè no podrem construir una societat igualitària si el món en el seu context complet no ho és.
+En definitiva, cal fer una aposta decidida per un model de **cooperació** . Des d'allò micro  a allò macro, construint una societat crítica i activa que lluite contra les desigualtats socioeconòmiques existents al món. Sense oblidar els anys on la cooperació va acabar sent el nom d'una causa judicial perquè es destinaven a la corrupció política els diners que havien d'anar a sufragar projectes d'ajuda a les persones més vulnerables. Per això cal centrar els esforços a fer que la política de Cooperació pose en el punt de mira dels projectes especialment a les persones dels països receptors d'ajudes. A més a més, centrant-se en el compliment dels **ODS** a tots els països del món, perquè no podrem construir una societat igualitària si el món en el seu context complet no ho és.
 
 </amendable>
 
 
 <amendable id="4_3_12">
 
-I la cooperació ha d'anar també acompanyada de la perspectiva jove. S'ha de fer especial incidència en el fet que els plans directors de cooperació tinguen tinguen com a grup prioritari a les persones joves, per tal de garantir que puguen desenvolupar un projecte de vida més digne. I a més a més, cal que impulsar els equips de treball que planifiquen, desenvolupen i executen estos plans formats per persones joves.
+I la cooperació ha d'anar també acompanyada de la perspectiva jove. S'ha de fer especial incidència en el fet que els plans directors de cooperació tinguen com a grup prioritari a les persones joves, per tal de garantir que puguen desenvolupar un projecte de vida més digne. I a més a més, cal que impulsar els equips de treball que planifiquen, desenvolupen i executen estos plans formats per persones joves.
 
 </amendable>
 
@@ -1033,7 +1031,7 @@ I la cooperació ha d'anar també acompanyada de la perspectiva jove. S'ha de fe
 
 </amendable-section>
 
-<amendable-section id="5" title="**5. Fem possible el País Valencià ecologista.** 5. Fem possible el País Valencià ecologista.">
+<amendable-section id="5" title=" 5. Fem possible el País Valencià ecologista.">
 
 <amendable id="5_0_1">
 
@@ -1046,7 +1044,7 @@ El canvi climàtic és un gran repte global que ja és una realitat que ens afec
 
 <amendable id="5_1_1">
 
-L’emergència climàtica és una realitat en el nostre entorn i ha vingut per a quedar-se. A poc a poc va erosionant-se el nostre medi natural i social, i es creen noves problemàtiques que se sumen a les existents: noves plagues, fenòmens meteorològics extrems, inundacions, incendis forestals… Els perills d’esta emergència ens afecten a tots els nivells i a totes per igual, per això la lluita per a canviar-la ha de ser colectiva colectiva .
+L’emergència climàtica és una realitat en el nostre entorn i ha vingut per a quedar-se. A poc a poc va erosionant-se el nostre medi natural i social, i es creen noves problemàtiques que se sumen a les existents: noves plagues, fenòmens meteorològics extrems, inundacions, incendis forestals… Els perills d’esta emergència ens afecten a tots els nivells i a totes per igual, per això la lluita per a canviar-la ha de ser colectiva.
 
 </amendable>
 
@@ -1106,7 +1104,7 @@ Per este motiu, creiem necessari adoptar un model econòmic amb voluntat reducci
 
 <amendable id="5_2_3">
 
-Cal repensar tot el sistema productiu des de la seua base i avançar cap a un sistema econòmic circular en què la regla de les cinc erres (Reduir, Reutilitzar, Reparar, Recuperar i Reciclar) siga siga la seua pedra angular i en què s’apliquen els fonaments del comerç just: un comerç de proximitat, que  s’allunye de la deslocalització i que potencie la política de residu zero.
+Cal repensar tot el sistema productiu des de la seua base i avançar cap a un sistema econòmic circular en què la regla de les cinc erres (Reduir, Reutilitzar, Reparar, Recuperar i Reciclar) siga la seua pedra angular i en què s’apliquen els fonaments del comerç just: un comerç de proximitat, que  s’allunye de la deslocalització i que potencie la política de residu zero.
 
 </amendable>
 
@@ -1120,7 +1118,7 @@ En este sentit, hem de potenciar que sectors tan importants per al desenvolupame
 
 <amendable id="5_2_5">
 
-Apostem per la superació del turisme voraç i destructiu com a principal motor econòmic, i per la transició cap a un model turístic local, cooperatiu, alternatiu i sostenible amb l’entorn, i que deixe deixe espai a altres sectors econòmics. Hem de caminar cap a un marc laboral vinculat a l’economia verda, la relocalització **relocalització** d’agricultura i indústria, el desenvolupament tecnològic i els serveis públics de qualitat.
+Apostem per la superació del turisme voraç i destructiu com a principal motor econòmic, i per la transició cap a un model turístic local, cooperatiu, alternatiu i sostenible amb l’entorn, i que deixe espai a altres sectors econòmics. Hem de caminar cap a un marc laboral vinculat a l’economia verda, la relocalització  d’agricultura i indústria, el desenvolupament tecnològic i els serveis públics de qualitat.
 
 </amendable>
 
@@ -1131,7 +1129,7 @@ Apostem per la superació del turisme voraç i destructiu com a principal motor 
 
 <amendable id="5_3_1">
 
-Apostem per un desenvolupament públic de **la investigació, desenvolupament i innovació ( I+D+i ), al servei del canvi de model productiu, que no perda perda el punt de vista del desenvolupament sostenible, i garantisca estabilitat i oportunitats laborals del personal investigador en empreses de l’entorn. D’altra banda, ha d’anar dirigit a la digitalització, la robotització, la reconversió de llocs de treball i la garantia formativa de les persones que hi treballen.
+Apostem per un desenvolupament públic de la investigació, desenvolupament i innovació ( I+D+i ), al servei del canvi de model productiu, que no perda perda el punt de vista del desenvolupament sostenible, i garantisca estabilitat i oportunitats laborals del personal investigador en empreses de l’entorn. D’altra banda, ha d’anar dirigit a la digitalització, la robotització, la reconversió de llocs de treball i la garantia formativa de les persones que hi treballen.
 
 </amendable>
 
@@ -1170,7 +1168,7 @@ Els fenòmens naturals com els incendis que patim cada any arreu del País Valen
 
 <amendable id="5_4_3">
 
-Els efectes de la DANA ens han ensenyat la importància d’una transformació resilient del nostre entorn i ha posat de manifest la necessitat de reduir el nombre dels vehicles de motor, la creació de zones verdes i parcs de laminació que servisquen servisquen per a frenar l’avanç de l’aigua o la importància de tindre en compte les cotes d’inundabilitat d’arreu del País i allà on no hi haja altra opció, tindre en compte que cal construir amb una sèrie de mesures de seguretat que puguen garantir l’evacuació.
+Els efectes de la DANA ens han ensenyat la importància d’una transformació resilient del nostre entorn i ha posat de manifest la necessitat de reduir el nombre dels vehicles de motor, la creació de zones verdes i parcs de laminació que servisquen per a frenar l’avanç de l’aigua o la importància de tindre en compte les cotes d’inundabilitat d’arreu del País i allà on no hi haja altra opció, tindre en compte que cal construir amb una sèrie de mesures de seguretat que puguen garantir l’evacuació.
 
 </amendable>
 
@@ -1198,21 +1196,21 @@ Davant totes les amenaces que posen en perill el nostre entorn —i a nosaltres 
 
 <amendable id="5_4_7">
 
-Al seu torn, també és necessària una gestió sostenible i eficaç dels **residus** generats. Per això, cal apostar per processos òptims per a minimitzar els esforços de tractament i reduir al mínim la destinació de residus a abocadors, així com campanyes de conscienciació per a que la ciutadania  conega la importància de d’un gestió correcta dels residus. Així doncs, hem d’impulsar que l’assumpció de responsabilitats siga siga proporcional amb la generació de residus i de substàncies contaminants, per a fomentar que les grans empreses aposten per vies més sostenibles.
+Al seu torn, també és necessària una gestió sostenible i eficaç dels **residus** generats. Per això, cal apostar per processos òptims per a minimitzar els esforços de tractament i reduir al mínim la destinació de residus a abocadors, així com campanyes de conscienciació per a que la ciutadania  conega la importància de d’un gestió correcta dels residus. Així doncs, hem d’impulsar que l’assumpció de responsabilitats siga proporcional amb la generació de residus i de substàncies contaminants, per a fomentar que les grans empreses aposten per vies més sostenibles.
 
 </amendable>
 
 
 <amendable id="5_4_8">
 
-Pel que fa al sector primari, en Joves PV apostem per una agricultura, ramaderia i pesca que supere la dinàmica productivista , marcada per sistemes intensius i extractivistes. esta forma de gestió s’ha demostrat que va en contra del medi ambient i de les persones en contaminar els ecosistemes, maltractar els animals, i deshumanitzar i menysprear estes professions. Així doncs, defensem un sector primari extensiu, que aposte aposte per la producció ecològica, que pose pose en valor la silvicultura com a eina de gestió forestal, i s’adapte als ritmes naturals de les plantes i animals.
+Pel que fa al sector primari, en Joves PV apostem per una agricultura, ramaderia i pesca que supere la dinàmica productivista , marcada per sistemes intensius i extractivistes. esta forma de gestió s’ha demostrat que va en contra del medi ambient i de les persones en contaminar els ecosistemes, maltractar els animals, i deshumanitzar i menysprear estes professions. Així doncs, defensem un sector primari extensiu, que aposte aposte per la producció ecològica, que pose en valor la silvicultura com a eina de gestió forestal, i s’adapte als ritmes naturals de les plantes i animals.
 
 </amendable>
 
 
 <amendable id="5_4_9">
 
-No podem oblidar el paper històric i destacat que **l’agricultura** ha tingut al País Valencià, ni tampoc les condicions precàries en què, hui en dia, es desenvolupa. Des de Joves PV defensem el dret a la sobirania alimentària, triant de manera decidida un model d’agricultura ecològicament sostenible, de proximitat i professionalitzat, amb el qual la gent del camp puga viure del seu treball i no estiga estiga sotmesa a l’espoli de les entitats intermediàries que no ens aporten cap valor afegit.
+No podem oblidar el paper històric i destacat que **l’agricultura** ha tingut al País Valencià, ni tampoc les condicions precàries en què, hui en dia, es desenvolupa. Des de Joves PV defensem el dret a la sobirania alimentària, triant de manera decidida un model d’agricultura ecològicament sostenible, de proximitat i professionalitzat, amb el qual la gent del camp puga viure del seu treball i no estiga sotmesa a l’espoli de les entitats intermediàries que no ens aporten cap valor afegit.
 
 </amendable>
 
@@ -1226,7 +1224,7 @@ L’agricultura ha d’apostar per pràctiques i processos agrícoles més amabl
 
 <amendable id="5_4_11">
 
-Un altre punt important és la problemàtica de l’escassesa d’ **aigua** i la seua contaminació, així com les actuacions dutes a terme emparades en l’escassesa que acaben perjudicant greument els ecosistemes terrestres i les nostres zones humides (d’una enorme importància ecològica) i atempten contra la seua biodiversitat. L’aigua, com tants altres, és un recurs limitat, i si no actuem per aturar l’emergència climàtica, l’accés a un bé imprescindible per a la vida es pot veure més compromés compromés encara.
+Un altre punt important és la problemàtica de l’escassesa d’ **aigua** i la seua contaminació, així com les actuacions dutes a terme emparades en l’escassesa que acaben perjudicant greument els ecosistemes terrestres i les nostres zones humides (d’una enorme importància ecològica) i atempten contra la seua biodiversitat. L’aigua, com tants altres, és un recurs limitat, i si no actuem per aturar l’emergència climàtica, l’accés a un bé imprescindible per a la vida es pot veure més compromés encara.
 
 </amendable>
 
@@ -1237,7 +1235,7 @@ Un altre punt important és la problemàtica de l’escassesa d’ **aigua** i l
 
 <amendable id="5_5_1">
 
-Per fer front a la qüestió climàtica hem d’abordar la **transició energètica** . Actualment, el sistema energètic continua depenent majoritàriament dels combustibles fòssils (gas natural, carbó i petroli) encara que s’han realitzat avanços cap a la generació d’energia renovable. ¡ ¡ Hem d’aprofitar l’entorn que tenim, i fer servir este avantatge per a generar energies renovables, com ara la solar, per tal de fer avançar el sector energètic en la transformació cap a l’abandonament de les que no ho siguen.
+Per fer front a la qüestió climàtica hem d’abordar la **transició energètica** . Actualment, el sistema energètic continua depenent majoritàriament dels combustibles fòssils (gas natural, carbó i petroli) encara que s’han realitzat avanços cap a la generació d’energia renovable. Hem d’aprofitar l’entorn que tenim, i fer servir este avantatge per a generar energies renovables, com ara la solar, per tal de fer avançar el sector energètic en la transformació cap a l’abandonament de les que no ho siguen.
 
 </amendable>
 
@@ -1251,7 +1249,7 @@ El rebuig a estes fonts d’energia contaminants inclou, necessàriament, l’en
 
 <amendable id="5_5_3">
 
-La transformació del sistema energètic, a banda d’avançar cap a la sostenibilitat, ha de ser socialment justa. S’ha de prioritzar la democratització de l’energia, i per a això cal reduir els grans macroprojectes macroprojectes energètics, que perpetuen les actuals dinàmiques de poder i que danyen el nostre paisatge. Cal prioritzar la participació de la ciutadania en la generació elèctrica mitjançant cooperatives energètiques i, per tant, hem de promocionar l'autoconsum com a model de producció sostenible i de proximitat, fent front a l'especulació de les grans multinacionals energètiques.
+La transformació del sistema energètic, a banda d’avançar cap a la sostenibilitat, ha de ser socialment justa. S’ha de prioritzar la democratització de l’energia, i per a això cal reduir els grans macroprojectes energètics, que perpetuen les actuals dinàmiques de poder i que danyen el nostre paisatge. Cal prioritzar la participació de la ciutadania en la generació elèctrica mitjançant cooperatives energètiques i, per tant, hem de promocionar l'autoconsum com a model de producció sostenible i de proximitat, fent front a l'especulació de les grans multinacionals energètiques.
 
 </amendable>
 
@@ -1276,7 +1274,7 @@ Un altre dels principals generadors d'emissions és el vehicle privat motoritzat
 
 <amendable id="5_6_2">
 
-En este sentit, és clau el desenvolupament d'una única xarxa de **transport públic** gestionada íntegrament per les institucions valencianes, competitiva i que integre tots els mitjans, senzilla, que potencie potencie la intermodalitat, que aproxime aproxime la gent als principals punts d'afluència, i que siga accessible universalment. Reivindiquem mesures de dissuasió i penalització de l'ús del transport privat on hi haja una oferta de transport públic ampla i adequada, junt amb la reorientació dels recursos destinats a l'ampliació d'autovies cap a la millora i extensió de la xarxa ferroviària i altres modes de transport públic. També ens mostrem a favor del ferrocarril d’alta velocitat, en particular del Corredor Mediterrani, ja que és el transport més eficient per a recórrer distàncies mitjanes i ha de ser complementari a la xarxa de rodalia. A més, hem d'avançar cap a models de transport a demanda i compartició de vehicles per a aquells llocs o recorreguts on no siga siga viable la introducció de serveis de transport públic regulars.
+En este sentit, és clau el desenvolupament d'una única xarxa de **transport públic** gestionada íntegrament per les institucions valencianes, competitiva i que integre tots els mitjans, senzilla, que potencie la intermodalitat, que aproxime la gent als principals punts d'afluència, i que siga accessible universalment. Reivindiquem mesures de dissuasió i penalització de l'ús del transport privat on hi haja una oferta de transport públic ampla i adequada, junt amb la reorientació dels recursos destinats a l'ampliació d'autovies cap a la millora i extensió de la xarxa ferroviària i altres modes de transport públic. També ens mostrem a favor del ferrocarril d’alta velocitat, en particular del Corredor Mediterrani, ja que és el transport més eficient per a recórrer distàncies mitjanes i ha de ser complementari a la xarxa de rodalia. A més, hem d'avançar cap a models de transport a demanda i compartició de vehicles per a aquells llocs o recorreguts on no siga viable la introducció de serveis de transport públic regulars.
 
 </amendable>
 
