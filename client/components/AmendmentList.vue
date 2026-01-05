@@ -49,7 +49,7 @@
               :after="amendment.compromise || amendment.amended"
             />
           </div>
-          <div class="amendment-justification d-none">
+          <div class="amendment-justification">
             <div class="text-sm">Justificació</div>
             <p>{{ amendment.justification }}</p>
           </div>

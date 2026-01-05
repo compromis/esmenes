@@ -56,7 +56,7 @@
             </div>
           </div>
         </b-card>
-        <div class="amendment-justification mt-3 d-none">
+        <div class="amendment-justification mt-3">
           <div class="text-md text-muted">Justificació</div>
           <p>{{ amendment.justification }}</p>
         </div>
